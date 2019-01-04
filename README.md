@@ -1,1 +1,31 @@
-# Algebra-Formulas
+<ul>
+<li>a<sup>2</sup> &#8211; b<sup>2</sup> = (a &#8211; b)(a + b)</li>
+<li>(a+b)<sup>2</sup> = a<sup>2</sup> + 2ab + b<sup>2</sup></li>
+<li>a<sup>2</sup> + b<sup>2</sup> = (a &#8211; b)<sup>2</sup> + 2ab</li>
+<li>(a &#8211; b)<sup>2</sup> = a<sup>2</sup> &#8211; 2ab + b<sup>2</sup></li>
+<li>(a + b + c)<sup>2</sup> = a<sup>2</sup> + b<sup>2</sup> + c<sup>2</sup> + 2ab + 2ac + 2bc</li>
+<li>(a &#8211; b &#8211; c)<sup>2</sup> = a<sup>2</sup> + b<sup>2</sup> + c<sup>2</sup> &#8211; 2ab &#8211; 2ac + 2bc</li>
+<li>(a + b)<sup>3</sup> = a<sup>3</sup> + 3a<sup>2</sup>b + 3ab<sup>2</sup> + b<sup>3</sup> ; (a + b)<sup>3</sup> = a<sup>3</sup> + b<sup>3</sup> + 3ab(a + b)</li>
+<li>(a &#8211; b)<sup>3</sup> = a<sup>3</sup> &#8211; 3a<sup>2</sup>b + 3ab<sup>2</sup> &#8211; b<sup>3</sup></li>
+<li>a<sup>3</sup> &#8211; b<sup>3</sup> = (a &#8211; b)(a<sup>2</sup> + ab + b<sup>2</sup>)</li>
+<li>a<sup>3</sup> + b<sup>3</sup> = (a + b)(a<sup>2</sup> &#8211; ab + b<sup>2</sup>)</li>
+<li>(a + b)<sup>3</sup> = a<sup>3</sup> + 3a<sup>2</sup>b + 3ab<sup>2</sup> + b<sup>3</sup></li>
+<li>(a &#8211; b)<sup>3</sup> = a<sup>3</sup> &#8211; 3a<sup>2</sup>b + 3ab<sup>2</sup> &#8211; b<sup>3</sup></li>
+<li>(a + b)<sup>4</sup> = a<sup>4</sup> + 4a<sup>3</sup>b + 6a<sup>2</sup>b<sup>2</sup> + 4ab<sup>3</sup> + b<sup>4</sup>)</li>
+<li>(a &#8211; b)<sup>4</sup> = a<sup>4</sup> &#8211; 4a<sup>3</sup>b + 6a<sup>2</sup>b<sup>2</sup> &#8211; 4ab<sup>3</sup> + b<sup>4</sup>)</li>
+<li>a<sup>4</sup> &#8211; b<sup>4</sup> = (a &#8211; b)(a + b)(a<sup>2</sup> + b<sup>2</sup>)</li>
+<li>a<sup>5</sup> &#8211; b<sup>5</sup> = (a &#8211; b)(a<sup>4</sup> + a<sup>3</sup>b + a<sup>2</sup>b<sup>2</sup> + ab<sup>3</sup> + b<sup>4</sup>)</li>
+<li><strong>If n is a natural number</strong>, a<sup>n</sup> &#8211; b<sup>n</sup> = (a &#8211; b)(a<sup>n-1</sup> + a<sup>n-2</sup>b+&#8230;+ b<sup>n-2</sup>a + b<sup>n-1</sup>)</li>
+<li><strong>If n is even</strong> (n = 2k), a<sup>n</sup> + b<sup>n</sup> = (a + b)(a<sup>n-1</sup> &#8211; a<sup>n-2</sup>b +&#8230;+ b<sup>n-2</sup>a &#8211; b<sup>n-1</sup>)</li>
+<li><strong>If n is odd</strong> (n = 2k + 1), a<sup>n</sup> + b<sup>n</sup> = (a + b)(a<sup>n-1</sup> &#8211; a<sup>n-2</sup>b +&#8230;- b<sup>n-2</sup>a + b<sup>n-1</sup>)</li>
+<li>(a + b + c + &#8230;)<sup>2</sup> = a<sup>2</sup> + b<sup>2</sup> + c<sup>2</sup> + &#8230; + 2(ab + ac + bc + ….</li>
+<li style="text-align: justify;"><strong>Laws of Exponents<br />
+</strong><span style="line-height: 1.5;">(a</span><sup>m</sup><span style="line-height: 1.5;">)(a</span><sup>n</sup><span style="line-height: 1.5;">) = a</span><sup>m+n<br />
+</sup><span style="line-height: 1.5;">(ab)</span><sup>m</sup><span style="line-height: 1.5;"> = a</span><sup>m</sup><span style="line-height: 1.5;">b</span><sup>m<br />
+</sup><span style="line-height: 1.5;">(a</span><sup>m</sup><span style="line-height: 1.5;">)</span><sup>n</sup><span style="line-height: 1.5;"> = a</span><sup>mn</sup></li>
+<li style="text-align: left;"><strong>Fractional Exponents</strong><br />
+a<sup>0</sup> = 1<br />
+$\frac{a^{m}}{a^{n}} = a^{m-n}$<br />
+$a^{m}$ = $\frac{1}{a^{-m}}$<sup><br />
+</sup>$a^{-m}$ = $\frac{1}{a^{m}}$</li>
+</ul>

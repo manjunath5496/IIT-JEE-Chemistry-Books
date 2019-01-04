@@ -28,5 +28,5 @@ a<sup>0</sup> = 1<br />
 a<sup>m</sup> / a<sup>n</sup>  = a<sup>m-n</sup><br />
  a<sup>m</sup> = 1 / a<sup>-m</sup> <br />
 a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
- a<sup>n</sup> = a.a.a.a…n times </li>
+ a<sup>n</sup> = a&times;a&times;a&times;a…n times </li>
 </ul>

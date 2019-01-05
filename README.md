@@ -25,7 +25,8 @@
 </sup><span style="line-height: 1.5;">(a</span><sup>m</sup><span style="line-height: 1.5;">)</span><sup>n</sup><span style="line-height: 1.5;"> = a</span><sup>mn</sup> = (a</span><sup>n</sup><span style="line-height: 1.5;">)</span><sup>m</sup> </li>
 <li style="text-align: left;"><strong>Fractional Exponents</strong><br />
 a<sup>0</sup> = 1 where a &ne; 0<br />
-a<sup>m</sup> / a<sup>n</sup>  = a<sup>m-n</sup><br />
+a<sup>m</sup> / a<sup>n</sup>  = a<sup>m-n</sup> if m &gt; n <br />
+ a<sup>m</sup> / a<sup>n</sup>  = a<sup>n-m</sup> if m &lt; n <br />
  a<sup>m</sup> = 1 / a<sup>-m</sup> <br />
 a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  a<sup>n</sup> = a&times;a&times;a&times;a…n times </li>

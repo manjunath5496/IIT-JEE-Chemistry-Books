@@ -40,6 +40,10 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  
  
  <li style="text-align: left;"><strong>Trigonometric functions</strong><br />
+ 
+ </strong><img src="quadratic_ formula.png" alt="quadratic formula" height="42" width="125"><br />
+ 
+ 
 sin&theta; = opposite / hypotenuse <br />
 cos&theta; = adjacent / hypotenuse <br />
 tan&theta; = opposite / adjacent <br />

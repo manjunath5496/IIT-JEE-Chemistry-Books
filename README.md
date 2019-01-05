@@ -64,7 +64,8 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
   <li>tan <sup> 2</sup> &theta; + 1 =  sec <sup> 2</sup> &theta;    </li>
  <li>cot <sup> 2</sup> &theta; + 1 =  cosec <sup> 2</sup> &theta;    </li>
 
- 
+  <li>sin (90<sup>o</sup> &minus; &theta;) =  cos&theta;    </li>
+
  
  
  

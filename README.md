@@ -30,5 +30,14 @@ a<sup>0</sup> = 1  <strong> where a &ne; 0 </strong><br />
  a<sup>m</sup> = 1 / a<sup>-m</sup> <br />
 a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  a<sup>n</sup> = a&times;a&times;a&times;a…n times </li>
+ 
+ 
+ <li style="text-align: left;"><strong>Quadratic Equation: </strong> <em>ax</em><sup>2</sup> + <em>bx</em> + <em>c</em> = 0 <br />
+ 
+ 
+ 
+ </li>
+ 
+ 
 </ul>
 

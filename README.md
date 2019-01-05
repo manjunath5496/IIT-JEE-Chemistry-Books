@@ -24,7 +24,7 @@
 </sup><span style="line-height: 1.5;">(ab)</span><sup>m</sup><span style="line-height: 1.5;"> = a</span><sup>m</sup><span style="line-height: 1.5;">b</span><sup>m<br />
 </sup><span style="line-height: 1.5;">(a</span><sup>m</sup><span style="line-height: 1.5;">)</span><sup>n</sup><span style="line-height: 1.5;"> = a</span><sup>mn</sup></li>
 <li style="text-align: left;"><strong>Fractional Exponents</strong><br />
-a<sup>0</sup> = 1<br />
+a<sup>0</sup> = 1 where a &ne; 0<br />
 a<sup>m</sup> / a<sup>n</sup>  = a<sup>m-n</sup><br />
  a<sup>m</sup> = 1 / a<sup>-m</sup> <br />
 a<sup>-m</sup> = 1 / a<sup>m</sup> <br />

@@ -40,17 +40,13 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  
  
  <li style="text-align: left;"><strong>Trigonometric functions</strong><br />
-sin&theta; = opposite / hypotenuse
-
-
-
-
-a<sup>0</sup> = 1  <strong> where a &ne; 0 </strong><br />
- a<sup>m</sup> / a<sup>n</sup>  = a<sup>m-n</sup>  <strong>if m &gt; n</strong> <br />
- a<sup>m</sup> / a<sup>n</sup>  = a<sup>n-m</sup>  <strong>if m &lt; n</strong> <br />
- a<sup>m</sup> = 1 / a<sup>-m</sup> <br />
-a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
- a<sup>n</sup> = a&times;a&times;a&times;a…n times </li>
+sin&theta; = opposite / hypotenuse <br />
+cos&theta; = adjacent / hypotenuse <br />
+tan&theta; = opposite / adjacent <br />
+cosec&theta; = hypotenuse / opposite <br />
+sec&theta; = hypotenuse / adjacent <br />
+cot&theta; = adjacent / opposite <br />
+</li>
  
  
  

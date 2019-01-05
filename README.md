@@ -22,7 +22,7 @@
 <li style="text-align: justify;"><strong>Laws of Exponents<br />
 </strong><span style="line-height: 1.5;">(a</span><sup>m</sup><span style="line-height: 1.5;">)(a</span><sup>n</sup><span style="line-height: 1.5;">) = a</span><sup>m+n<br />
 </sup><span style="line-height: 1.5;">(ab)</span><sup>m</sup><span style="line-height: 1.5;"> = a</span><sup>m</sup><span style="line-height: 1.5;">b</span><sup>m<br />
-</sup><span style="line-height: 1.5;">(a</span><sup>m</sup><span style="line-height: 1.5;">)</span><sup>n</sup><span style="line-height: 1.5;"> = a</span><sup>mn</sup></li>
+</sup><span style="line-height: 1.5;">(a</span><sup>m</sup><span style="line-height: 1.5;">)</span><sup>n</sup><span style="line-height: 1.5;"> = a</span><sup>mn</sup> = (a</span><sup>n</sup><span style="line-height: 1.5;">)</span><sup>m</sup> </li>
 <li style="text-align: left;"><strong>Fractional Exponents</strong><br />
 a<sup>0</sup> = 1 where a &ne; 0<br />
 a<sup>m</sup> / a<sup>n</sup>  = a<sup>m-n</sup><br />

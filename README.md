@@ -41,7 +41,7 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  
  <li style="text-align: left;"><strong>Trigonometric functions</strong><br />
  
- </strong><img src="right-triangle.png" alt="right angled triangle" height="106" width="135"><br />
+ </strong><img src="right-triangle.png" alt="right angled triangle" height="212" width="270"><br />
  
  
 sin&theta; = opposite / hypotenuse <br />

@@ -66,8 +66,8 @@ cot&theta; = 1 / tan&theta; <br />
   tan&theta; = sin&theta; / cos&theta; <br />
 cot&theta; = cos&theta; / sin&theta; <br />
  sin <sup> 2</sup> &theta; +  cos <sup> 2</sup> &theta;  = 1  <br />
-  
- 
+  tan <sup> 2</sup> &theta; + 1 =  sec <sup> 2</sup> &theta;   <br />
+ cot <sup> 2</sup> &theta; + 1 =  cosec <sup> 2</sup> &theta;   <br />
  </li>
  
  

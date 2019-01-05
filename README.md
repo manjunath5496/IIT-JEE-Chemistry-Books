@@ -57,17 +57,13 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  <li>cosec&theta; = 1 / sin&theta; </li>
  <li>sec&theta; = 1 / cos&theta; </li>
  <li>cot&theta; = 1 / tan&theta; </li>
- 
 
- 
- 
-  <li style="text-align: left;"><strong>Basic Trigonometry Formulas</strong><br />
-  tan&theta; = sin&theta; / cos&theta; <br />
-cot&theta; = cos&theta; / sin&theta; <br />
- sin <sup> 2</sup> &theta; +  cos <sup> 2</sup> &theta;  = 1  <br />
-  tan <sup> 2</sup> &theta; + 1 =  sec <sup> 2</sup> &theta;   <br />
- cot <sup> 2</sup> &theta; + 1 =  cosec <sup> 2</sup> &theta;   <br />
- </li>
+  <li> tan&theta; = sin&theta; / cos&theta;  </li>
+<li>cot&theta; = cos&theta; / sin&theta;  </li>
+ <li>sin <sup> 2</sup> &theta; +  cos <sup> 2</sup> &theta;  = 1   </li>
+  <li>tan <sup> 2</sup> &theta; + 1 =  sec <sup> 2</sup> &theta;    </li>
+ <li>cot <sup> 2</sup> &theta; + 1 =  cosec <sup> 2</sup> &theta;    </li>
+
  
  
  

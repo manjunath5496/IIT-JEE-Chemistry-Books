@@ -39,27 +39,26 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  </li>
  
  
- <li style="text-align: left;"><strong>Trigonometric Functions</strong><br />
+ <li style="text-align: left;"><strong>Pythagorean theorem</strong><br />
  
- </strong><img src="right-triangle.png" alt="right angled triangle" height="212" width="270"><br />
- <strong>  Pythagorean theorem: </strong> (AC)<sup>2</sup> = (AB)<sup>2</sup> + (BC)<sup>2</sup><br />
- sin&theta; = opposite / hypotenuse <br />
-cos&theta; = adjacent / hypotenuse <br />
-tan&theta; = opposite / adjacent <br />
-cosec&theta; = hypotenuse / opposite <br />
-sec&theta; = hypotenuse / adjacent <br />
-cot&theta; = adjacent / opposite <br />
-</li>
+ </strong><img src="right-triangle.png" alt="right angled triangle" height="212" width="270"></li>
+  (AC)<sup>2</sup> = (AB)<sup>2</sup> + (BC)<sup>2</sup></li>
  
- <li style="text-align: left;"><strong>Reciprocal Identities</strong><br />
-  sin&theta; = 1 / cosec&theta; <br />
-cos&theta; = 1 / sec&theta; <br />
-tan&theta; = 1 / cot&theta; <br />
-cosec&theta; = 1 / sin&theta; <br />
-sec&theta; = 1 / cos&theta; <br />
-cot&theta; = 1 / tan&theta; <br />
  
- </li>
+ <li>sin&theta; = opposite / hypotenuse </li>
+<li>cos&theta; = adjacent / hypotenuse </li>
+<li>tan&theta; = opposite / adjacent </li>
+<li>cosec&theta; = hypotenuse / opposite </li>
+<li>sec&theta; = hypotenuse / adjacent </li>
+<li>cot&theta; = adjacent / opposite </li>
+   <li>sin&theta; = 1 / cosec&theta; </li>
+ <li>cos&theta; = 1 / sec&theta; </li>
+ <li>tan&theta; = 1 / cot&theta; </li>
+ <li>cosec&theta; = 1 / sin&theta; </li>
+ <li>sec&theta; = 1 / cos&theta; </li>
+ <li>cot&theta; = 1 / tan&theta; </li>
+ 
+
  
  
   <li style="text-align: left;"><strong>Basic Trigonometry Formulas</strong><br />

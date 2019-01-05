@@ -33,7 +33,7 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  
  
  <li style="text-align: left;"><strong>Quadratic Equation: </strong> <em>ax</em><sup>2</sup> + <em>bx</em> + <em>c</em> = 0 <br />
- <strong>Quadratic Formula: </strong><img src="quadratic_ formula.png" alt="Smiley face" height="62" width="145">
+ <strong>Quadratic Formula: </strong><img src="quadratic_ formula.png" alt="Smiley face" height="84" width="250">
  
  
  </li>

@@ -39,7 +39,7 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  </li>
  
  
- <li style="text-align: left;"><strong>Trigonometric functions</strong><br />
+ <li style="text-align: left;"><strong>Trigonometric Functions</strong><br />
  
  </strong><img src="right-triangle.png" alt="right angled triangle" height="212" width="270"><br />
  <strong>  Pythagorean theorem: </strong> (AC)<sup>2</sup> = (AB)<sup>2</sup> + (BC)<sup>2</sup><br />
@@ -51,13 +51,33 @@ sec&theta; = hypotenuse / adjacent <br />
 cot&theta; = adjacent / opposite <br />
 </li>
  
- <li style="text-align: left;"><strong>Reciprocal identities</strong><br />
+ <li style="text-align: left;"><strong>Reciprocal Identities</strong><br />
   sin&theta; = 1 / cosec&theta; <br />
 cos&theta; = 1 / sec&theta; <br />
 tan&theta; = 1 / cot&theta; <br />
 cosec&theta; = 1 / sin&theta; <br />
 sec&theta; = 1 / cos&theta; <br />
 cot&theta; = 1 / tan&theta; <br />
+ 
+ </li>
+ 
+ 
+  <li style="text-align: left;"><strong>Basic Trigonometry Formulas</strong><br />
+  tan&theta; = sin&theta; / cos&theta; <br />
+cot&theta; = cos&theta; / sin&theta; <br />
+ sin <sup> 2</sup> &theta; +  cos <sup> 2</sup> &theta;  = 1  <br />
+  
+ 
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  

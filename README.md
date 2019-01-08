@@ -161,7 +161,7 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
   
    <li>sinA &#8729; sinB = [cos(A&plus;B) &minus; cos(A&minus;B)] /2     </li>
   
-  
+  <li>sinA &plus; sinB = 2 sin(A&plus;B /2) cos(A&minus;B/2)    </li>
   
 </ul>
 

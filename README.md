@@ -199,5 +199,15 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
    
    <li> Perimeter of a rectangle  = 2 &times; (length &plus; width)</li>
   <li> Perimeter of a triangle  = sum of the lengths of the 3 sides</li>
+   <li> ln(mn)  = sum of the lengths of the 3 sides</li>
+  
+  
+  
+  
+  
+  
+  
+  
+  
 </ul>
 

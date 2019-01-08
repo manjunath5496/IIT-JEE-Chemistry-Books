@@ -133,7 +133,7 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  <li>cot (360<sup>o</sup> &minus; &theta;) =  &minus;cot&theta;    </li>
  
    <li>sin (A &plusmn; B) =  sinA cosB  &plusmn; cosA sinB     </li>
- 
+ <li>cos (A &plusmn; B) =  cosA cosB  &mnplus; sinA sinB     </li>
  
  
  

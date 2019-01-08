@@ -168,7 +168,12 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
   <li>cosA &plus; cosB = 2 cos([A&plus;B] /2) cos([A&minus;B] /2)    </li>
    <li>cosA &minus; cosB = &minus;2 sin([A&plus;B] /2) sin([A&minus;B] /2)    </li>
    <li>  x&percnt; = x / 100 </li>
-   
+    <li>  Profit = Selling Price &minus; Cost Price </li>
+     <li>  &percnt;Profit = {(Selling Price &minus; Cost Price) / Cost Price} x 100 </li>
+    <li>   Loss = Cost Price &minus; Selling Price </li>
+     <li>   &percnt;Loss = {(Cost Price &minus; Selling Price)/Cost Price} x 100 </li>
+     <li>   simple interest = principal amount &times; interest rate &times; time </li>
+    
   <li> Area of a triangle = &frac12; &times;base &times; height </li>
 <li> Area of a rectangle = length &times; width </li>
 <li> Area of a trapezoid = &frac12; &times; sum of bases &times; height </li>

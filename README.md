@@ -168,6 +168,66 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
    <li>cosA &minus; cosB = &minus;2 sin([A&plus;B] /2) sin([A&minus;B] /2)    </li>
   
   
+  <b>Geometry formulas:</b> <br><br>
+<b>Perimeter</b>:<br><br>
+<u>Perimeter of a square</u>: s + s + s + s <br>
+s:length of one side<br><br>
+<u>Perimeter of a rectangle</u>: l + w + l + w<br>
+l: length<br>
+w: width<br><br>
+
+<u>Perimeter of a triangle</u>: a + b + c<br>
+a, b, and c: lengths of the 3 sides<br><br>
+
+<b>Area:</b><br><br>
+<u>Area of a square</u>: s &#215; s <br>
+s: length of one side<br><br>
+<u>Area of a rectangle</u>: l &#215; w<br>
+l: length<br>
+w: width<br><br>
+
+<u>Area of a triangle</u>: (b &#215; h)/2<br>
+b: length of base<br> 
+h: length of height<br><br>
+
+<u>Area of a trapezoid</u>: (b<sub>1</sub> + b<sub>2</sub>) &#215; h/2<br>
+b<sub>1</sub> and b<sub>2</sub>: parallel sides or the bases<br> 
+h: length of height<br><br>
+
+
+
+<b>volume:</b><br><br>
+<u>Volume of a cube</u>: s &#215; s &#215; s <br>
+s: length of one side<br><br>
+
+<u>Volume of a box</u>: l &#215; w &#215; h<br>
+l: length<br>
+w: width<br>
+h: height<br><br>
+
+<u>Volume of a sphere</u>: (4/3) &#215; pi &#215; r<sup>3</sup><br>
+pi: 3.14<br>
+r: radius of sphere<br><br>
+
+
+<u>Volume of a triangular prism</u>: area of triangle &#215; Height = (1/2 base &#215; height) &#215; Height<br>
+base: length of the base of the triangle<br>
+height: height of the triangle<br>
+Height: height of the triangular prism<br><br>
+
+<u>Volume of a cylinder</u>:pi &#215; r<sup>2</sup> &#215; Height<br>
+pi: 3.14<br>
+r: radius of the circle of the base<br>
+Height: height of the cylinder<br><br>
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
 </ul>
 

@@ -143,9 +143,9 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
   <li>cos2A =  1 &minus; 2sin<sup>2</sup>A    </li>
   <li>tan2A =  2tanA / (1 &minus; tan<sup>2</sup>A)    </li>
   
-  <li style="text-align: left;"><strong>Pythagorean theorem</strong><br />
+  <li style="text-align: left;"><strong>Sine rule</strong><br />
  
- </strong><img src="right-triangle.png" alt="triangle" height="212" width="270"> </br>
+ </strong><img src="triangle.gif" alt="triangle" height="383" width="411"> </br>
   </li>
   
 </ul>

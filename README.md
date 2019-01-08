@@ -1,9 +1,3 @@
-
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
-
 <ul>
 <li>a<sup>2</sup> &#8211; b<sup>2</sup> = (a &#8211; b)(a + b)</li>
 <li>(a+b)<sup>2</sup> = a<sup>2</sup> + 2ab + b<sup>2</sup></li>

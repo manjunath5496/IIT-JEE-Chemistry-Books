@@ -179,9 +179,12 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
 <li> Area of a trapezoid = &frac12; &times; sum of bases &times; height </li>
   <li> Area of a Parallelogram  = base &times; height </li>
    <li> Area of a circle  = pi &times; square of radius </li>
-  <li> Circumference of a circle  = 2 &times; pi &times; radius </li>
+   <li> Circumference of a circle  = 2 &times; pi &times; radius </li>
    <li> Circumference of a circle  = pi &times; diameter </li>
   <li> Area of a sphere  = 4 &times; pi &times; square of radius </li>
+  <li> Area of a square  = length &times; length = length<sup>2</sup> </li>
+  <li> Volume of a cube  = length &times; length &times; length = length<sup>3</sup> </li>
+  <li> Volume of a rectangle  = length &times; width &times; height </li>
   
   <li> Volume of a sphere  = 4/3 &times; pi &times; cube of radius </li>
   

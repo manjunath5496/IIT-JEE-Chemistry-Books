@@ -172,7 +172,7 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
      <li>  &percnt;Profit = {(Selling Price &minus; Cost Price) / Cost Price} x 100 </li>
     <li>   Loss = Cost Price &minus; Selling Price </li>
      <li>   &percnt;Loss = {(Cost Price &minus; Selling Price)/Cost Price} x 100 </li>
-     <li>   simple interest = principal amount &times; interest rate &times; time </li>
+     <li>   Simple interest = principal amount &times; interest rate &times; time </li>
     
   <li> Area of a triangle = &frac12; &times;base &times; height </li>
 <li> Area of a rectangle = length &times; width </li>

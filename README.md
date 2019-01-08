@@ -123,6 +123,14 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  <li>cot (180<sup>o</sup> &plus; &theta;) =  cot&theta;    </li>
  
  
+  <li>sin (360<sup>o</sup> &minus; &theta;) =  &minus;sin&theta;    </li>
+ <li>cos (360<sup>o</sup> &minus; &theta;) =  cos&theta;    </li>
+
+   <li>tan (360<sup>o</sup> &minus; &theta;) =  &minus;tan&theta;    </li>
+
+ <li>cosec (360<sup>o</sup> &minus; &theta;) =  &minus;cosec&theta;    </li>
+ <li>sec (360<sup>o</sup> &minus; &theta;) =  sec&theta;    </li>
+ <li>cot (360<sup>o</sup> &minus; &theta;) =  &minus;cot&theta;    </li>
  
  
  

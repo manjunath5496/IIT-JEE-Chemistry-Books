@@ -195,8 +195,9 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
    
   <li> Volume of a triangular prism  =  area of triangle  &times; height = (&frac12; &times;base &times; height) &times; height </li>
    
+   <li> Perimeter of a square  = 4 &times; length </li>
    
-   
-  
+   <li> Perimeter of a rectangle  = 2 &times; (length &plus; width)</li>
+  <li> Perimeter of a triangle  = sum of the lengths of the 3 sides</li>
 </ul>
 

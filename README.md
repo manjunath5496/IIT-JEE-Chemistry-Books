@@ -173,7 +173,10 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
     <li>   Loss = Cost Price &minus; Selling Price </li>
      <li>   &percnt;Loss = {(Cost Price &minus; Selling Price)/Cost Price} x 100 </li>
      <li>   Simple interest = principal amount &times; interest rate &times; time </li>
-    
+     <li>   Discount = list price &times; discount rate </li>
+     <li>  Sale price = list price &minus; discount </li>
+     <li> Sales tax = price of item &minus; tax rate </li>
+     
   <li> Area of a triangle = &frac12; &times;base &times; height </li>
 <li> Area of a rectangle = length &times; width </li>
 <li> Area of a trapezoid = &frac12; &times; sum of bases &times; height </li>

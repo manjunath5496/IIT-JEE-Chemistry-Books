@@ -135,6 +135,7 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
    <li>sin (A &plusmn; B) =  sinA cosB  &plusmn; cosA sinB     </li>
  <li>cos (A &plusmn; B) =  cosA cosB  &mnplus; sinA sinB     </li>
  
+ <li>tan (A &plusmn; B) =  (tanA &plusmn; tanB) /  1 &mnplus; (tanA tanB)    </li>
  
  
  

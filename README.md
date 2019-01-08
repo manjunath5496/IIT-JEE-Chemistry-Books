@@ -1,3 +1,9 @@
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+
 <ul>
 <li>a<sup>2</sup> &#8211; b<sup>2</sup> = (a &#8211; b)(a + b)</li>
 <li>(a+b)<sup>2</sup> = a<sup>2</sup> + 2ab + b<sup>2</sup></li>
@@ -33,7 +39,12 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  
  
  <li style="text-align: left;"><strong>Quadratic Equation: </strong> <em>ax</em><sup>2</sup> + <em>bx</em> + <em>c</em> = 0 <br />
- <strong>Quadratic Formula: </strong><img src="quadratic_ formula.png" alt="quadratic formula" height="42" width="125">
+ <strong>Quadratic Formula: </strong>$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+ 
+ 
+ 
+ 
+ 
  
  
  </li>

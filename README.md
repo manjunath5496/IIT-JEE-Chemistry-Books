@@ -102,6 +102,34 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  
  
  
+  <li>sin (180<sup>o</sup> &minus; &theta;) =  sin&theta;    </li>
+ <li>cos (180<sup>o</sup> &minus; &theta;) =  &minus;cos&theta;    </li>
+
+   <li>tan (180<sup>o</sup> &minus; &theta;) =  &minus;tan&theta;    </li>
+
+ <li>cosec (180<sup>o</sup> &minus; &theta;) =  sec&theta;    </li>
+ <li>sec (180<sup>o</sup> &minus; &theta;) =  cosec&theta;    </li>
+ <li>cot (180<sup>o</sup> &minus; &theta;) =  tan&theta;    </li>
+ 
+   
+
+ <li>sin (180<sup>o</sup> &plus; &theta;) =  cos&theta;    </li>
+ <li>cos (180<sup>o</sup> &plus; &theta;) =  &minus;sin&theta;    </li>
+
+   <li>tan (180<sup>o</sup> &plus; &theta;) =  &minus;tan&theta;    </li>
+
+ <li>cosec (180<sup>o</sup> &plus; &theta;) =  cosec&theta;    </li>
+ <li>sec (180<sup>o</sup> &plus; &theta;) = &minus;sec&theta;    </li>
+ <li>cot (180<sup>o</sup> &plus; &theta;) =  &minus;cot&theta;    </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
 </ul>

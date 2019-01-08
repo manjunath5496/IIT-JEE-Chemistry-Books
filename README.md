@@ -188,7 +188,12 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
   
   <li> Volume of a sphere  = 4/3 &times; pi &times; cube of radius </li>
   
-  
+   <li> Volume of a cylinder  =  pi &times; (radius of the circle of the base)<sup2</sup> &times; height </li>
+   
+  <li> Volume of a triangular prism  =  area of triangle  &times; height = (&frac12; &times;base &times; height) &times; height </li>
+   
+   
+   
   
 </ul>
 

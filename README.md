@@ -175,16 +175,12 @@ w &rarr; width<br>
 Perimeter of a triangle: a + b + c</br>
 a, b, and c &rarr; lengths of the 3 sides</br>
 </li>
-
-
-
-
-<b>Area:</b><br><br>
-<u>Area of a square</u>: s &#215; s <br>
-s: length of one side<br><br>
-<u>Area of a rectangle</u>: l &#215; w<br>
-l: length<br>
-w: width<br><br>
+<li> <strong> Area:</strong><br>
+Area of a square : s &#215; s <br>
+s &rarr; length of one side<br>
+Area of a rectangle: l &#215; w<br>
+l &rarr; length<br>
+w &rarr; width<br></li>
 
 <u>Area of a triangle</u>: (b &#215; h)/2<br>
 b: length of base<br> 

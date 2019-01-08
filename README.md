@@ -163,16 +163,19 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
   
   <li>sinA &plus; sinB = 2 sin([A&plus;B] /2) cos([A&minus;B] /2)    </li>
   
+  
    <li>sinA &minus; sinB = 2 cos([A&plus;B] /2) sin([A&minus;B] /2)    </li>
   <li>cosA &plus; cosB = 2 cos([A&plus;B] /2) cos([A&minus;B] /2)    </li>
    <li>cosA &minus; cosB = &minus;2 sin([A&plus;B] /2) sin([A&minus;B] /2)    </li>
+   <li>  x&percnt; = x / 100 </li>
+   
   <li> Area of a triangle = &frac12; &times;base &times; height </li>
 <li> Area of a rectangle = length &times; width </li>
 <li> Area of a trapezoid = &frac12; &times; sum of bases &times; height </li>
-  
-  
-  
-  
+  <li> Area of a Parallelogram  = base &times; height </li>
+   <li> Area of a circle  = pi &times; square of radius </li>
+  <li> Circumference of a circle  = 2 &times; pi &times; radius </li>
+   <li> Circumference of a circle  = pi &times; diameter </li>
   
   
   

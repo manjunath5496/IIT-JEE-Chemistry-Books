@@ -138,8 +138,12 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  <li>tan (A &plusmn; B) =  (tanA &plusmn; tanB) /  1 &mnplus; (tanA tanB)    </li>
  
   <li>sin2A =  2 sinA cosA       </li>
-  <li>cos2A =  cos <sup>2</sup>A &minus; sin <sup>2</sup>A   </li>
-   <li>cos2A =  2cos <sup>2</sup>A &minus; 1   </li>
- 
+  <li>cos2A =  cos<sup>2</sup>A &minus; sin <sup>2</sup>A   </li>
+   <li>cos2A =  2cos<sup>2</sup>A &minus; 1   </li>
+  <li>cos2A =  1 &minus; 2sin<sup>2</sup>A    </li>
+  <li>tan2A =  2tanA / (1 &minus; tan<sup>2</sup>A)    </li>
+  
+  
+  
 </ul>
 

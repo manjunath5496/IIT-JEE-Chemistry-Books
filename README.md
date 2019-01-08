@@ -176,9 +176,9 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
    <li> Area of a circle  = pi &times; square of radius </li>
   <li> Circumference of a circle  = 2 &times; pi &times; radius </li>
    <li> Circumference of a circle  = pi &times; diameter </li>
+  <li> Area of a sphere  = 4 &times; pi &times; square of radius </li>
   
-  
-  
+  <li> Volume of a sphere  = 4/3 &times; pi &times; cube of radius </li>
   
   
   

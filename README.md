@@ -155,7 +155,7 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  
   </li>
   
-   <li>sinA &#8729;cosB = [sin(A&plus;B) &plus; sin(A&minus;B)] /2     </li>
+   <li>sinA &#8729; cosB = [sin(A&plus;B) &plus; sin(A&minus;B)] /2     </li>
   
    <li>cosA &#8729; cosB = [cos(A&plus;B) &plus; cos(A&minus;B)] /2     </li>
   

@@ -46,7 +46,7 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  
  <li style="text-align: left;"><strong>Pythagorean theorem</strong><br />
  
- </strong><img src="right-triangle.png" alt="right angled triangle" height="212" width="270">
+ </strong><img src="right-triangle.png" alt="right angled triangle" height="212" width="270"> </br>
   (AC)<sup>2</sup> = (AB)<sup>2</sup> + (BC)<sup>2</sup></li>
  
  
@@ -145,8 +145,8 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
   
   <li style="text-align: left;"><strong>Pythagorean theorem</strong><br />
  
- </strong><img src="right-triangle.png" alt="triangle" height="212" width="270">
-  (AC)<sup>2</sup> = (AB)<sup>2</sup> + (BC)<sup>2</sup></li>
+ </strong><img src="right-triangle.png" alt="triangle" height="212" width="270"> </br>
+  </li>
   
 </ul>
 

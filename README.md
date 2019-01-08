@@ -175,20 +175,18 @@ w &rarr; width<br>
 Perimeter of a triangle: a + b + c</br>
 a, b, and c &rarr; lengths of the 3 sides</br>
 </li>
-<li> <strong> Area:</strong><br>
-Area of a square : s &#215; s <br>
-s &rarr; length of one side<br>
-Area of a rectangle: l &#215; w<br>
-l &rarr; length<br>
-w &rarr; width<br></li>
-
-<u>Area of a triangle</u>: (b &#215; h)/2<br>
-b: length of base<br> 
-h: length of height<br><br>
-
-<u>Area of a trapezoid</u>: (b<sub>1</sub> + b<sub>2</sub>) &#215; h/2<br>
-b<sub>1</sub> and b<sub>2</sub>: parallel sides or the bases<br> 
-h: length of height<br><br>
+<li> <strong> Area:</strong></br>
+Area of a square : s &#215; s </br>
+s &rarr; length of one side</br>
+Area of a rectangle: l &#215; w</br>
+l &rarr; length</br>
+w &rarr; width</br>
+Area of a triangle : (b &#215; h)/2</br>
+b &rarr; length of base</br> 
+h &rarr; length of height</br>
+Area of a trapezoid : (b<sub>1</sub> + b<sub>2</sub>) &#215; h/2</br>
+b<sub>1</sub> and b<sub>2</sub> &rarr; parallel sides or the bases</br> 
+h &rarr;length of height</br></li>
 
 
 

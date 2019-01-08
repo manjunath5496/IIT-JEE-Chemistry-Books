@@ -150,9 +150,8 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
   
   </li>
   
-  <li style="text-align: left;">
- 
- <img src="img1.gif" alt="triangle" height="34" width="226">
+  <li style="text-align: left;"> <strong>Cosine rule</strong> </br>
+  a<sup>2</sup> = b<sup>2</sup> &plus; c<sup>2</sup> &minus; 2bccosA
  
   </li>
   

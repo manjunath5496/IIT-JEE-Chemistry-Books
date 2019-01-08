@@ -68,17 +68,7 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  <li>sin <sup> 2</sup> &theta; +  cos <sup> 2</sup> &theta;  = 1   </li>
   <li>tan <sup> 2</sup> &theta; + 1 =  sec <sup> 2</sup> &theta;    </li>
  <li>cot <sup> 2</sup> &theta; + 1 =  cosec <sup> 2</sup> &theta;    </li>
-
-  <li>sin (90<sup>o</sup> &minus; &theta;) =  cos&theta;    </li>
- <li>cos (90<sup>o</sup> &minus; &theta;) =  sin&theta;    </li>
-
-   <li>tan (90<sup>o</sup> &minus; &theta;) =  cot&theta;    </li>
-
- <li>cosec (90<sup>o</sup> &minus; &theta;) =  sec&theta;    </li>
- <li>sec (90<sup>o</sup> &minus; &theta;) =  cosec&theta;    </li>
- <li>cot (90<sup>o</sup> &minus; &theta;) =  tan&theta;    </li>
- 
-   <li>sin (&minus; &theta;) =  &minus;sin&theta;    </li>
+<li>sin (&minus; &theta;) =  &minus;sin&theta;    </li>
 
  <li>cos (&minus; &theta;) =  cos&theta;    </li>
  
@@ -89,6 +79,16 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  <li>sec (&minus; &theta;) =  sec&theta;    </li>
  
  <li>cot (&minus; &theta;) =  &minus;cot&theta;    </li>
+  <li>sin (90<sup>o</sup> &minus; &theta;) =  cos&theta;    </li>
+ <li>cos (90<sup>o</sup> &minus; &theta;) =  sin&theta;    </li>
+
+   <li>tan (90<sup>o</sup> &minus; &theta;) =  cot&theta;    </li>
+
+ <li>cosec (90<sup>o</sup> &minus; &theta;) =  sec&theta;    </li>
+ <li>sec (90<sup>o</sup> &minus; &theta;) =  cosec&theta;    </li>
+ <li>cot (90<sup>o</sup> &minus; &theta;) =  tan&theta;    </li>
+ 
+   
 
  <li>sin (90<sup>o</sup> &plus; &theta;) =  cos&theta;    </li>
  <li>cos (90<sup>o</sup> &plus; &theta;) =  &minus;sin&theta;    </li>

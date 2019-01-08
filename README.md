@@ -167,8 +167,8 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
   <li>cosA &plus; cosB = 2 cos([A&plus;B] /2) cos([A&minus;B] /2)    </li>
    <li>cosA &minus; cosB = &minus;2 sin([A&plus;B] /2) sin([A&minus;B] /2)    </li>
   <li> Area of a triangle = (base &times; height) /2 </li>
-
-
+<li> Area of a rectangle = length &times; width </li>
+<li> Area of a trapezoid = &frac12; &times; sum of bases &times; height </li>
   
   
   

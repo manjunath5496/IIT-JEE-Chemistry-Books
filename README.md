@@ -46,7 +46,7 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  
  <li style="text-align: left;"><strong>Pythagorean theorem</strong><br />
  
- </strong><img src="right-triangle.png" alt="right angled triangle" height="212" width="270"> </br>
+ <img src="right-triangle.png" alt="right angled triangle" height="212" width="270"> </br>
   (AC)<sup>2</sup> = (AB)<sup>2</sup> + (BC)<sup>2</sup></li>
  
  
@@ -145,13 +145,15 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
   
   <li style="text-align: left;"><strong>Sine rule</strong><br />
  
- </strong><img src="triangle.gif" alt="triangle" height="192" width="206"> </br>
+ <img src="triangle.gif" alt="triangle" height="192" width="206"> </br>
   a / sinA =  b / sinB = c / sinC
   
   </li>
   
-  <li style="text-align: left;"><strong>Cosine rule</strong><br />
-  a<sup>2</sup> = b<sup>2</sup> &plus; c<sup>2</sup> &minus; 2bccosA
+  <li style="text-align: left;">
+ 
+ <img src="img1.gif" alt="triangle" height="34" width="226">
+ 
   </li>
   
   

@@ -137,7 +137,7 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  
  <li>tan (A &plusmn; B) =  (tanA &plusmn; tanB) /  1 &mnplus; (tanA tanB)    </li>
  
- 
+  <li>sin2A =  2 sinA cosA       </li>
  
  
  

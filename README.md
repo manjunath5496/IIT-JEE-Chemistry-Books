@@ -166,53 +166,9 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
    <li>sinA &minus; sinB = 2 cos([A&plus;B] /2) sin([A&minus;B] /2)    </li>
   <li>cosA &plus; cosB = 2 cos([A&plus;B] /2) cos([A&minus;B] /2)    </li>
    <li>cosA &minus; cosB = &minus;2 sin([A&plus;B] /2) sin([A&minus;B] /2)    </li>
-  <li> <strong>Perimeter</strong>:</br>
-Perimeter of a square : 4s </br>
-s &rarr; length of one side</br>
-Perimeter of a rectangle: 2(l + w) </br>
-l &rarr; length</br>
-w &rarr; width<br>
-Perimeter of a triangle: a + b + c</br>
-a, b, and c &rarr; lengths of the 3 sides</br>
-</li>
-<li> <strong> Area:</strong></br>
-Area of a square : s &#215; s </br>
-s &rarr; length of one side</br>
-Area of a rectangle: l &#215; w</br>
-l &rarr; length</br>
-w &rarr; width</br>
-Area of a triangle : (b &#215; h)/2</br>
-b &rarr; length of base</br> 
-h &rarr; length of height</br>
-Area of a trapezoid : (b<sub>1</sub> + b<sub>2</sub>) &#215; h/2</br>
-b<sub>1</sub> and b<sub>2</sub> &rarr; parallel sides or the bases</br> 
-h &rarr;length of height</br></li>
+  <li> Area of a triangle = (base &times; height) /2 </li>
 
 
-
-<b>volume:</b><br><br>
-<u>Volume of a cube</u>: s &#215; s &#215; s <br>
-s: length of one side<br><br>
-
-<u>Volume of a box</u>: l &#215; w &#215; h<br>
-l: length<br>
-w: width<br>
-h: height<br><br>
-
-<u>Volume of a sphere</u>: (4/3) &#215; pi &#215; r<sup>3</sup><br>
-pi: 3.14<br>
-r: radius of sphere<br><br>
-
-
-<u>Volume of a triangular prism</u>: area of triangle &#215; Height = (1/2 base &#215; height) &#215; Height<br>
-base: length of the base of the triangle<br>
-height: height of the triangle<br>
-Height: height of the triangular prism<br><br>
-
-<u>Volume of a cylinder</u>:pi &#215; r<sup>2</sup> &#215; Height<br>
-pi: 3.14<br>
-r: radius of the circle of the base<br>
-Height: height of the cylinder<br><br>
   
   
   

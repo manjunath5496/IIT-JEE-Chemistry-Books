@@ -73,8 +73,10 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  <li>cos (90<sup>o</sup> &minus; &theta;) =  sin&theta;    </li>
 
    <li>tan (90<sup>o</sup> &minus; &theta;) =  cot&theta;    </li>
- <li>cot (90<sup>o</sup> &minus; &theta;) =  tan&theta;    </li>
 
+ <li>cosec (90<sup>o</sup> &minus; &theta;) =  sec&theta;    </li>
+ <li>sec (90<sup>o</sup> &minus; &theta;) =  cosec&theta;    </li>
+ <li>cot (90<sup>o</sup> &minus; &theta;) =  tan&theta;    </li>
  
    <li>sin (&minus; &theta;) =  &minus;sin&theta;    </li>
 

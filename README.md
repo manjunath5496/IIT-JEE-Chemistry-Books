@@ -90,7 +90,14 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  
  <li>cot (&minus; &theta;) =  &minus;cot&theta;    </li>
 
- 
+ <li>sin (90<sup>o</sup> &plus; &theta;) =  cos&theta;    </li>
+ <li>cos (90<sup>o</sup> &plus; &theta;) =  &minus;sin&theta;    </li>
+
+   <li>tan (90<sup>o</sup> &plus; &theta;) =  &minus;cot&theta;    </li>
+
+ <li>cosec (90<sup>o</sup> &plus; &theta;) =  sec&theta;    </li>
+ <li>sec (90<sup>o</sup> &plus; &theta;) = &minus;cosec&theta;    </li>
+ <li>cot (90<sup>o</sup> &plus; &theta;) =  &minus;tan&theta;    </li>
  
  
  

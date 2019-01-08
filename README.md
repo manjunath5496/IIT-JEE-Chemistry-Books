@@ -202,9 +202,9 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
    <li> ln(mn) = ln(m) &plus; ln(n)</li>
    <li> ln(m/n) = ln(m) &minus; ln(n)</li>
    <li> ln(m<sup>n</sup>) = nln(m) </li>
-  
-  
-  
+   <li> ln(1/m) = &minus;ln(m) </li>
+  <li> ln(1) = 0 </li>
+   <li> ln(<em>e</em>) = 1 </li>
   
   
   

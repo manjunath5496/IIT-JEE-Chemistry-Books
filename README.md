@@ -166,18 +166,19 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
    <li>sinA &minus; sinB = 2 cos([A&plus;B] /2) sin([A&minus;B] /2)    </li>
   <li>cosA &plus; cosB = 2 cos([A&plus;B] /2) cos([A&minus;B] /2)    </li>
    <li>cosA &minus; cosB = &minus;2 sin([A&plus;B] /2) sin([A&minus;B] /2)    </li>
-  
-  
-  <b>Geometry formulas:</b> <br><br>
-<b>Perimeter</b>:<br><br>
-<u>Perimeter of a square</u>: s + s + s + s <br>
-s:length of one side<br><br>
-<u>Perimeter of a rectangle</u>: l + w + l + w<br>
-l: length<br>
-w: width<br><br>
+  <li> <strong>Perimeter</strong>:</br>
+Perimeter of a square : s + s + s + s </br>
+s:length of one side</br>
+Perimeter of a rectangle: 2(l + w) </br>
+l: length</br>
+w: width<br></br>
 
-<u>Perimeter of a triangle</u>: a + b + c<br>
-a, b, and c: lengths of the 3 sides<br><br>
+Perimeter of a triangle</u>: a + b + c</br>
+a, b, and c: lengths of the 3 sides</br>
+</li>
+
+
+
 
 <b>Area:</b><br><br>
 <u>Area of a square</u>: s &#215; s <br>

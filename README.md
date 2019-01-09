@@ -264,12 +264,13 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
   
   <li> a &plus; (b &plus; c)  =  (a &plus; b) &plus; c </li>
   
+   <li> a &plus; (b &plus; c)  =  (a &plus; b) &plus; c </li>
   
+  <li>  If a &lt; b and c &lt; d, then a &plus; c &lt; b &plus; d   </li>
   
+ <li>  If a &lt; b and c &gt; 0, then ac &lt; bc   </li>
   
-  
-  
-  
+  <li>  If a &lt; b and c &lt; 0, then ac &gt; bc   </li>
   
    
 </ul>

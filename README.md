@@ -288,7 +288,7 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
    <li> (a / b) &gt; (c / d) if and only if ad &gt; bc</li>
 <li>(a / b) &gt; (c / b), if a &gt; c (a &gt; 0, b &gt; 0, c &gt; 0) </li>
 <li>(a / b) &lt; (a / c), if b &gt; c  (a &gt; 0, b &gt; 0, c &gt; 0) </li>
-
+<li> (a / b) &plus; (c / d)  =  (ad &plus; bc) / bd </li>
 
    
    

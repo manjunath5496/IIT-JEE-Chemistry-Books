@@ -302,7 +302,13 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
   i <sup>2</sup> = &minus;1 </br>
   i <sup>6</sup> = &minus;1 </br>
   i <sup>4n &plus; 2</sup> = &minus;1 </br>
-  
+  i <sup>3</sup> = &minus;i </br>
+  i <sup>7</sup> = &minus;i </br>
+  i <sup>4n &plus; 3</sup> = &minus;i </br>
+  i <sup>4</sup> = 1 </br>
+  i <sup>8</sup> = 1 </br>
+  i <sup>4n &plus; 4</sup> = 1 </br>
+  </li>
   
   
   

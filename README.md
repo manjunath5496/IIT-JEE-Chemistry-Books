@@ -206,7 +206,24 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
   <li> ln(1) = 0 </li>
    <li> ln(<em>e</em>) = 1 </li>
   <li>ln(x) = 2.303 log<sub>10</sub>(x)</li>
-<li> <strong>a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>, a<sub>4</sub>, ....... a<sub>n</sub> </strong></li>
+<li> <strong>a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>, a<sub>4</sub>, ....... a<sub>n</sub> </strong> </br>
+
+If </br>
+a<sub>1</sub> is the first term of an arithmetic progression.</br>
+a<sub>n</sub> is the nth term of an arithmetic progression.</br>
+d is the difference between terms of the arithmetic progression.</br>
+d =  a<sub>2</sub> &minus; a<sub>1</sub> = a<sub>3</sub> &minus; a<sub>2</sub></br>
+n is the number of terms in the arithmetic progression.</br>
+S<sub>n</sub> is the sum of n terms in the arithmetic progression.</br>
+m is the mean value of arithmetic series.</br>
+then </br>
+
+
+
+
+
+
+</li>
   
   
   

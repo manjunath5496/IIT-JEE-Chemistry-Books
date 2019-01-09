@@ -333,5 +333,16 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 <li> d (1/x) =  &minus;dx /x <sup>2</sup> </li>
 <li> d (<em>e</em> <sup>x</sup>) =  <em>e</em> <sup>x</sup> dx</li>
 <li> d (a <sup>x</sup>) =  a <sup>x</sup> lna dx</li>
+<li>&int; dx = x &plus; C </li>
+
+
+
+
+
+
+
+
+
+
 </ul>
 

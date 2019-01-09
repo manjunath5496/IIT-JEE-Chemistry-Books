@@ -398,6 +398,8 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 4.  Measure Integration &Probability By Ivan F Wilde</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m4.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+5.  Number Theory By David A. Santos</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m5.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
 
 
 

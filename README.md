@@ -344,5 +344,13 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 <li>&int; cosx dx = sinx &plus; C </li>
 <li>&int; lnx dx = xlnx &minus; x &plus; C </li>
 
+<li>&int; sec <sup>2</sup>x dx = tanx &plus; C </li>
+<li>&int; cosec <sup>2</sup>x dx = &minus;cotx &plus; C </li>
+<li>&int; secx tanx dx = secx &plus; C </li>
+<li>&int; cosecx cotx dx = &minus;cosecx &plus; C </li>
+
+
+
+
 </ul>
 

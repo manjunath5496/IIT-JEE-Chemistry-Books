@@ -197,6 +197,10 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
    <li> Volume of a cylinder  =  pi &times; (radius of the circle of the base)<sup2</sup> &times; height </li>
    
   <li> Volume of a triangular prism  =  area of triangle  &times; height = (&frac12; &times;base &times; height) &times; height </li>
+   <li> Diagonal  of a cube  = (square root of 3) &times; length </li>
+   <li> Diagonal  of a rectangle  = square root of (length<sup>2</sup>  &plus; width<sup>2</sup>)</li>
+   <li> Total surface area of a cube  = 6 &times;length<sup>2</sup>  </li>
+    <li> Perimeter of a circle  = 2 &times; pi  &times; radius </li>
    
    <li> Perimeter of a square  = 4 &times; length </li>
    
@@ -296,7 +300,7 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
  <li> (a / b) &#8729; (c / d)  =  ac / bd </li>  
    
    <li> a &#8729; (c / d)  =  ac / d </li>
-   <li><strong>Imaginary unit: i </strong>= &radic;<span style="text-decoration: overline">2</span></li>
+   <li><strong>Imaginary unit: i </strong>= square root of &minus;1</li>
    
   <li><strong>Powers of the imaginary unit</strong></br>
   i <sup>1</sup> = i </br>

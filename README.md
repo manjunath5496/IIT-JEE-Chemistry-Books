@@ -243,9 +243,9 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 
 </li>
   
-   <li> a&#8729;b  = b&#8729;a </li>
+   <li> a &#8729; b  = b &#8729; a </li>
    
-   
+     <li> a &plus; b  = b &plus; a </li>
    
    
    

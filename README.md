@@ -340,9 +340,9 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 
 <li>&int; <em>e</em> <sup>x</sup> dx= <em>e</em> <sup>x</sup> &plus; C </li>
 
-
-
-
+<li>&int; sinx dx = &minus;cosx &plus; C </li>
+<li>&int; cosx dx = sinx &plus; C </li>
+<li>&int; lnx dx = xlnx &minus; x &plus; C </li>
 
 </ul>
 

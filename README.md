@@ -206,6 +206,9 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
   <li> ln(1) = 0 </li>
    <li> ln(<em>e</em>) = 1 </li>
   <li>ln(x) = 2.303 log<sub>10</sub>(x)</li>
+  <li>pi (&pi;) = 3.141592653</li>
+   <li><em>e</em> = 2.718281828</li>
+
 <li> <strong>a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>, a<sub>4</sub>, ....... a<sub>n</sub> </strong> </br>
 
 If </br>

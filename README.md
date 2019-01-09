@@ -260,8 +260,12 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
  <li> a &#8729; 0  =  0 </li>
     <li> 0 / a =  0 </li>
     <li> 1 / (a / b) =  b / a </li>
-    
+     <li> a / 1 =  a </li>
   <li> a &#8729; 1  =  a </li>
+  
+   <li> (a / b) <sup>n</sup> =  a <sup>n</sup> / b <sup>n</sup></li>
+  
+  
    <li> a &#8729; a<sup>&minus;1</sup>  =  1 </li>
   <li> a &#8729; (b &plus; c)  =  a &#8729; b &plus; a &#8729; c </li>
   

@@ -215,7 +215,7 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
   <li>ln(x) = 2.303 log<sub>10</sub>(x)</li>
   <li>pi (&pi;) = 3.141592653</li>
    <li><em>e</em> = 2.718281828</li>
-
+<li><em>e</em> <sup>&pi;i</sup> &plus; 1= 0</li>
 <li> <strong>a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>, a<sub>4</sub>, ....... a<sub>n</sub> </strong> </br>
 
 If </br>
@@ -367,7 +367,7 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E: numbers of edges of a polyhedron    </li>
 <li>Sum of interior angles of a regular polygon = (number of sides &minus; 2) &times; 180<sup>o</sup>    </li>
 
-
+<li> Probability of an Event = (Number of ways it can happen / Total number of outcomes)   </li>
 
 
 

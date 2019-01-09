@@ -260,7 +260,7 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
  <li> a &#8729; 0  =  0 </li>
    
   <li> a &#8729; 1  =  a </li>
-   
+   <li> a &#8729; a<sup>&minus;1</sup>  =  1 </li>
   <li> a &#8729; (b &plus; c)  =  a &#8729; b &plus; a &#8729; c </li>
   
    <li> a &#8729; (b &#8729; c)  =  (a &#8729; b) &#8729; c </li>

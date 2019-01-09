@@ -364,7 +364,7 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 <li> n&#33; = 1 &times; 2 &times; 3 &times; 4 &times; .......&times;n   <strong>when n &gt; 0</strong>        </li>
 <li> 0&#33; = 1  <strong>when n = 0 </strong>       </li>
 <li> <strong>Euler's Polyhedral Formula: </strong> </br>
-F &plus; V = E &plus; 2	where F: Face, V: Vertex and E: Edge     </li>
+F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E: numbers of edges     </li>
 
 
 

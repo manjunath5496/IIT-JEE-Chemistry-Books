@@ -336,9 +336,9 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 <li>&int; dx = x &plus; C where C : constant of integration</li>
 <li>&int; x <sup>n</sup>dx = (x <sup>n &plus; 1</sup> / n &plus; 1) &plus; C </li>
 
+<li>&int; (dx /x)= lnx &plus; C </li>
 
-
-
+<li>&int; <em>e</em> <sup>x</sup> dx= <em>e</em> <sup>x</sup> &plus; C </li>
 
 
 

@@ -361,8 +361,8 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 <li>&int; secx dx = ln &mid; secx &plus; tanx &mid; &plus; C </li>
 <li>&int; cosecx dx = &minus;ln &mid; cosecx &plus; cotx &mid; &plus; C </li>
 <li>&int; a <sup>x</sup> dx = (1 /lna) a <sup>x</sup> &plus; C </li>
-<li> n&#33; = 1 &times; 2 &times; 3 &times; 4 &times; .......&times;n   when n &gt; 0        </li>
-<li> 0&#33; = 1  when n = 0        </li>
+<li> n&#33; = 1 &times; 2 &times; 3 &times; 4 &times; .......&times;n   <strong>when n &gt; 0</strong>        </li>
+<li> 0&#33; = 1  <strong>when n = 0 </strong>       </li>
 
 
 

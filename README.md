@@ -353,7 +353,7 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 <li>&int; cotx dx = ln &mid; sinx &mid; &plus; C </li>
 <li>&int; secx dx = ln &mid; secx &plus; tanx &mid; &plus; C </li>
 <li>&int; cosecx dx = &minus;ln &mid; cosecx &plus; cotx &mid; &plus; C </li>
-
+<li>&int; a <sup>x</sup> dx = (1 /lna) a <sup>x</sup> &plus; C </li>
 
 
 

@@ -390,22 +390,22 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 1.  Maths Wonder By Alfred S.Posamentier</br>
               
-               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/p75.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+      <a href="https://github.com/manjunath5496/Economics-Books/blob/master/p75.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 2.  	Trignometry Demystified By Stan Gibilisco</br>
               
-               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/p75.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+       <a href="https://github.com/manjunath5496/Economics-Books/blob/master/p75.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 3.  Career Numbers By Rebecca Burnett</br>
               
-               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/p75.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+       <a href="https://github.com/manjunath5496/Economics-Books/blob/master/p75.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 4.  	Measure Integration &Probability By Ivan F Wilde</br>
               
-               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/p75.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+       <a href="https://github.com/manjunath5496/Economics-Books/blob/master/p75.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 

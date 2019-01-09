@@ -191,7 +191,7 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
   <li> Area of a square  = length &times; length = length<sup>2</sup> </li>
   <li> Volume of a cube  = length &times; length &times; length = length<sup>3</sup> </li>
   <li> Volume of a rectangle  = length &times; width &times; height </li>
-  
+  <li> Volume of a regular prism  = base &times; height </li>
   <li> Volume of a sphere  = 4/3 &times; pi &times; cube of radius </li>
    <li> Volume of a pyramid  = 	&#8531; &times; base &times; height </li>
    <li> Volume of a cylinder  =  pi &times; (radius of the circle of the base)<sup2</sup> &times; height </li>

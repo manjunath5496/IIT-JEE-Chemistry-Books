@@ -224,7 +224,26 @@ S<sub>n</sub> = (n/2) [2a<sub>1</sub> &plus; (n &minus; 1)d] </br>
 S<sub>n</sub> = (n/2) (a<sub>1</sub> &plus; a<sub>n</sub>)</br>
 
 m = S<sub>n</sub> / n </br>
-m = (a<sub>1</sub> &plus; a<sub>n</sub>) / 2 </br>
+m = (a<sub>1</sub> &plus; a<sub>n</sub>) / 2 </br></br>
+
+
+If </br>
+a<sub>1</sub> is the first term of an geometric progression.</br>
+a<sub>n</sub> is the nth term of an geometric progression.</br>
+r is the common ratio.</br>
+d =  a<sub>2</sub> &minus; a<sub>1</sub> = a<sub>3</sub> &minus; a<sub>2</sub></br>
+n is the number of terms in the geometric progression.</br>
+S<sub>n</sub> is the sum of n terms in the geometric progression.</br>
+
+then </br>
+
+a<sub>n</sub> = a<sub>1</sub> r <sup>(n &minus; 1)</sup> </br>
+
+
+
+
+
+
 
 
 

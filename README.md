@@ -175,7 +175,12 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
      <li>  &percnt;Profit = {(Selling Price &minus; Cost Price) / Cost Price} x 100 </li>
     <li>   Loss = Cost Price &minus; Selling Price </li>
      <li>   &percnt;Loss = {(Cost Price &minus; Selling Price)/Cost Price} x 100 </li>
-     <li>   Simple interest = principal amount &times; interest rate &times; time </li>
+     <li>   Simple interest = principal amount &times; interest rate &times; time </br>
+     Total compounded interest = principal amount {1  &plus; (r/n)} <sup>nt</sup> &minus; principal amount</br>
+     where n : the number of times that interest is compounded per year, r : the annual interest rate and t : the number of years the money is borrowed for
+
+
+</li>
      <li>   Discount = list price &times; discount rate </li>
      <li>  Sale price = list price &minus; discount </li>
      <li> Sales tax = price of item &times; tax rate </li>

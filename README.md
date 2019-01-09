@@ -300,7 +300,7 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
  <li> (a / b) &#8729; (c / d)  =  ac / bd </li>  
    
    <li> a &#8729; (c / d)  =  ac / d </li>
-   <li><strong>Imaginary unit: i </strong>= square root of &minus;1</li>
+   <li><strong>Imaginary unit: i </strong>= (square root of &minus;1)</li>
    
   <li><strong>Powers of the imaginary unit</strong></br>
   i <sup>1</sup> = i </br>

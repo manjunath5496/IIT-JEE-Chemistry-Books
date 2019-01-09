@@ -313,7 +313,12 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
   <li> a &plus; bi = c &plus; di, if a = c and b = d </li>  
    <li> (a &plus; bi) &plus; (c &plus; di) = (a &plus; c) &plus; (b &plus; d)i </li>  
     <li> (a &plus; bi) &minus; (c &plus; di)= (a &minus; c) &plus; (b &minus; d)i </li>  
-   <li> (a &plus; bi)(c &plus; di)= (ac &minus; bd) &plus; (ad &plus; bc)i </li>  
-   
+   <li> (a &plus; bi) (c &plus; di)= (ac &minus; bd) &plus; (ad &plus; bc)i </li>  
+   <li>(a &plus; bi) / (c &plus; di) = (ac &plus; bd) / (c <sup>2</sup> &plus; d <sup>2</sup>)       </li>
+
+
+
+
+
 </ul>
 

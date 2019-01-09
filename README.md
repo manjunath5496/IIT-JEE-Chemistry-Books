@@ -333,8 +333,8 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 <li> d (1/x) =  &minus;dx /x <sup>2</sup> </li>
 <li> d (<em>e</em> <sup>x</sup>) =  <em>e</em> <sup>x</sup> dx</li>
 <li> d (a <sup>x</sup>) =  a <sup>x</sup> lna dx</li>
-<li>&int; dx = x &plus; C where C : constant</li>
-
+<li>&int; dx = x &plus; C where C : constant of integration</li>
+<li>&int; x <sup>n</sup>dx = (x <sup>n &plus; 1</sup> / n &plus; 1) &plus; C </li>
 
 
 

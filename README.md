@@ -151,7 +151,10 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
   </li>
   
   <li style="text-align: left;"> <strong>Cosine rule</strong> </br>
-  a<sup>2</sup> = b<sup>2</sup> &plus; c<sup>2</sup> &minus; 2bccosA
+  a<sup>2</sup> = b<sup>2</sup> &plus; c<sup>2</sup> &minus; 2bccosA </br>
+  b<sup>2</sup> = a<sup>2</sup> &plus; c<sup>2</sup> &minus; 2accosB </br>
+  c<sup>2</sup> = a<sup>2</sup> &plus; b<sup>2</sup> &minus; 2abcosC </br>
+  
  
   </li>
   

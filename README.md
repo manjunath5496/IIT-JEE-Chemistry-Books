@@ -241,13 +241,19 @@ S<sub>n</sub> = a<sub>1</sub> (r <sup>(n &minus; 1)</sup> / r &minus; 1) <strong
 
 S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 
-
-
-
-
 </li>
   
-  
-  
+   <li> a&#8729;b  = b&#8729;a </li>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 </ul>
 

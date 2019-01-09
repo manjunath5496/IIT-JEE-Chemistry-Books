@@ -237,9 +237,9 @@ S<sub>n</sub> is the sum of n terms in the geometric progression.</br>
 then </br>
 a<sub>n</sub> = a<sub>1</sub> r <sup>(n &minus; 1)</sup> </br>
 
-S<sub>n</sub> = a<sub>1</sub> (r <sup>(n &minus; 1)</sup> /r &minus; 1) <strong>when r &ne; 1</strong> </br>
+S<sub>n</sub> = a<sub>1</sub> (r <sup>(n &minus; 1)</sup> / r &minus; 1) <strong>when r &ne; 1</strong> </br>
 
-
+S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 
 
 

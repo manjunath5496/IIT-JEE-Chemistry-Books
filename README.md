@@ -217,7 +217,7 @@ n is the number of terms in the arithmetic progression.</br>
 S<sub>n</sub> is the sum of n terms in the arithmetic progression.</br>
 m is the mean value of arithmetic series.</br>
 then </br>
-
+a<sub>n</sub> = a<sub>1</sub> &plus; (n &minus; 1)d
 
 
 

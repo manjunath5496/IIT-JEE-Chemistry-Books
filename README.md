@@ -261,6 +261,7 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
     <li> 0 / a =  0 </li>
     <li> 1 / (a / b) =  b / a </li>
      <li> a / 1 =  a </li>
+     <li> a / b =  na / nb </li>
   <li> a &#8729; 1  =  a </li>
   
    <li> (a / b) <sup>n</sup> =  a <sup>n</sup> / b <sup>n</sup></li>

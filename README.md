@@ -146,7 +146,7 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
   <li style="text-align: left;"><strong>Sine rule</strong><br />
  
  <img src="triangle.gif" alt="triangle" height="192" width="206"> </br>
-  a / sinA =  b / sinB = c / sinC
+  a / sinA =  b / sinB = c / sinC = d  where d: diameter of the triangle's circumcircle
   
   </li>
   

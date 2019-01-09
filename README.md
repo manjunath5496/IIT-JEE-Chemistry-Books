@@ -323,8 +323,8 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 <li> d (C) = 0  where C : constant </li>
 <li> d (Cu) = Cdu </li>
 <li> d (x <sup>n</sup>) = nx <sup>n &minus; 1</sup> dx  </li>
-
-
+<li> d (lnx) = dx / x </li>
+<li> d (sinx) = cosx dx </li>
 
 
 

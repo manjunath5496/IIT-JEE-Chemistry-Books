@@ -231,7 +231,7 @@ If </br>
 a<sub>1</sub> is the first term of an geometric progression.</br>
 a<sub>n</sub> is the nth term of an geometric progression.</br>
 r is the common ratio.</br>
-d =  a<sub>2</sub> &minus; a<sub>1</sub> = a<sub>3</sub> &minus; a<sub>2</sub></br>
+r=  a<sub>2</sub> / a<sub>1</sub> = a<sub>3</sub> / a<sub>2</sub></br>
 n is the number of terms in the geometric progression.</br>
 S<sub>n</sub> is the sum of n terms in the geometric progression.</br>
 

@@ -223,6 +223,11 @@ S<sub>n</sub> = (n/2) [2a<sub>1</sub> &plus; (n &minus; 1)d] </br>
 
 S<sub>n</sub> = (n/2) (a<sub>1</sub> &plus; a<sub>n</sub>)</br>
 
+m = S<sub>n</sub> / n </br>
+m = (a<sub>1</sub> &plus; a<sub>n</sub>) / 2 </br>
+
+
+
 </li>
   
   

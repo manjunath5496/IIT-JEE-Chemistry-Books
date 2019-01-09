@@ -274,7 +274,19 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
  <li>  If a &lt; b and c &gt; 0, then ac &lt; bc   </li>
   
   <li>  If a &lt; b and c &lt; 0, then ac &gt; bc   </li>
-  
+   <li>  If a &gt; 0 and b &gt; 0, then ab &gt; 0   </li>
+    <li>  If a &le; b and b &le; c, then a &le; c   </li>
+     <li>  If a &le; b, then a&plus;c &le; b&plus;c   </li>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
    
 </ul>
 

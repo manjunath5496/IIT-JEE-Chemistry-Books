@@ -316,8 +316,8 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
    <li> (a &plus; bi) (c &plus; di)= (ac &minus; bd) &plus; (ad &plus; bc)i </li>  
    <li>(a &plus; bi) / (c &plus; di) = {(ac &plus; bd) / (c <sup>2</sup> &plus; d <sup>2</sup>)} &plus; {(bc &minus; ad) /(c <sup>2</sup> &plus; d <sup>2</sup>)} i     </li>
 
-
-
+<li> d (u &plus; v) = du &plus; dv </li>
+<li> d (u &minus; v) = du &minus; dv </li>
 
 
 </ul>

@@ -289,10 +289,10 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 <li>(a / b) &gt; (c / b), if a &gt; c (a &gt; 0, b &gt; 0, c &gt; 0) </li>
 <li>(a / b) &lt; (a / c), if b &gt; c  (a &gt; 0, b &gt; 0, c &gt; 0) </li>
 <li> (a / b) &plus; (c / d)  =  (ad &plus; bc) / bd </li>
-
+<li> (a / b) &minus; (c / d)  =  (ad &minus; bc) / bd </li>
+ <li> (a / b) &#8729; (c / d)  =  ac / bd </li>  
    
-   
-   
+   <li> a &#8729; (c / d)  =  ac / d </li>
    
    
    

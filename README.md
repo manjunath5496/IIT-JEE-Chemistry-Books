@@ -320,8 +320,8 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 <li> d (u &minus; v) = du &minus; dv </li>
 <li> d (uv) = vdu &plus; udv </li>
 <li> d (u / v) = (vdu &plus; udv) / v <sup>2</sup> </li>
-<li> d (C) = 0  where C : constant </li>
-<li> d (Cu) = Cdu </li>
+<li> d (k) = 0  where k : constant </li>
+<li> d (ku) = kdu </li>
 <li> d (x <sup>n</sup>) = nx <sup>n &minus; 1</sup> dx  </li>
 <li> d (lnx) = dx / x </li>
 <li> d (sinx) = cosx dx </li>
@@ -333,7 +333,7 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 <li> d (1/x) =  &minus;dx /x <sup>2</sup> </li>
 <li> d (<em>e</em> <sup>x</sup>) =  <em>e</em> <sup>x</sup> dx</li>
 <li> d (a <sup>x</sup>) =  a <sup>x</sup> lna dx</li>
-<li>&int; dx = x &plus; C </li>
+<li>&int; dx = x &plus; C where C : constant</li>
 
 
 

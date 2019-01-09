@@ -330,7 +330,7 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 <li> d (cotx) = &minus;cosec <sup>2</sup>x dx </li>
 <li> d (secx) = secx tanx dx </li>
 <li> d (cosecx) =  &minus;cosecx cotx dx </li>
-
+<li> d (1/x) =  &minus;dx /x <sup>2</sup> </li>
 
 
 </ul>

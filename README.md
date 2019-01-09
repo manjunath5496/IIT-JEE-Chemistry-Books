@@ -235,9 +235,9 @@ r=  a<sub>2</sub> / a<sub>1</sub> = a<sub>3</sub> / a<sub>2</sub></br>
 n is the number of terms in the geometric progression.</br>
 S<sub>n</sub> is the sum of n terms in the geometric progression.</br>
 then </br>
-a<sub>n</sub> = a<sub>1</sub> r <sup>(n &minus; 1)</sup> </br>
+a<sub>n</sub> = a<sub>1</sub> r<sup>(n &minus; 1)</sup> </br>
 
-
+S<sub>n</sub> = a<sub>1</sub> (r<sup>(n &minus; 1)</sup> /r &minus; 1) </br>
 
 
 

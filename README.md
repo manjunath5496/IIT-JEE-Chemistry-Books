@@ -369,11 +369,7 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 <li> Probability of an Event = (Number of ways it can happen / Total number of outcomes)   </li>
 
-<li> n </br>
- Probability </br>
- cfff </br>
- 
- </li>
+<li>  <img src="img5.gif" alt="summation rule" height="60" width="265"> </li>
 
 </ul>
 

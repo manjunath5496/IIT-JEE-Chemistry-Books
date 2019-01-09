@@ -327,9 +327,9 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 <li> d (sinx) = cosx dx </li>
 <li> d (cosx) = &minus;sinx dx </li>
 <li> d (tanx) = sec <sup>2</sup>x dx </li>
-
-
-
+<li> d (cotx) = &minus;cosec <sup>2</sup>x dx </li>
+<li> d (secx) = secx tanx dx </li>
+<li> d (cosecx) =  &minus;cosecx cotx dx </li>
 
 
 

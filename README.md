@@ -349,7 +349,18 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 <li>&int; secx tanx dx = secx &plus; C </li>
 <li>&int; cosecx cotx dx = &minus;cosecx &plus; C </li>
 
-<li>&int; tanx dx = &minus;ln &mid;cosx&mid; &plus; C </li>
+<li>&int; tanx dx = &minus;ln &mid; cosx &mid; &plus; C </li>
+<li>&int; cotx dx = ln &mid; sinx &mid; &plus; C </li>
+<li>&int; secx dx = ln &mid; secx &plus; tanx &mid; &plus; C </li>
+<li>&int; cosecx dx = &minus;ln &mid; cosecx &plus; cotx &mid; &plus; C </li>
+
+
+
+
+
+
+
+
 
 
 </ul>

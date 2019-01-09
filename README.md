@@ -319,6 +319,19 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 <li> d (u &plus; v) = du &plus; dv </li>
 <li> d (u &minus; v) = du &minus; dv </li>
 <li> d (uv) = vdu &plus; udv </li>
+<li> d (u / v) = (vdu &plus; udv) / v <sup>2</sup> </li>
+
+
+
+
+
+
+
+
+
+
+
+
 
 </ul>
 

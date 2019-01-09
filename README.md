@@ -296,12 +296,12 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
    <li><strong>Imaginary unit: i </strong></li>
    
   <li><strong>Powers of the imaginary unit</strong></br>
-  i<sup>1</sup> = i </br>
-  i<sup>5</sup> = i </br>
-  i<sup>4n &plus; 1</sup> = i </br>
-  
-  
-  
+  i <sup>1</sup> = i </br>
+  i <sup>5</sup> = i </br>
+  i <sup>4n &plus; 1</sup> = i </br>
+  i <sup>2</sup> = &minus;1 </br>
+  i <sup>6</sup> = &minus;1 </br>
+  i <sup>4n &plus; 2</sup> = &minus;1 </br>
   
   
   

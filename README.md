@@ -245,13 +245,13 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
   
    <li> a &#8729; b  = b &#8729; a </li>
    
-     <li> a &plus; b  = b &plus; a </li>
+  <li> a &plus; b  = b &plus; a </li>
    
+   <li> a &plus; 0  =  a </li>
    
+   <li> a &#8729; 0  =  0 </li>
    
-   
-   
-   
+    <li> a &#8729; 1  =  a </li>
    
    
    

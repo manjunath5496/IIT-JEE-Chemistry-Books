@@ -459,10 +459,19 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 9.  41 Years (1978-2018) JEE Advanced (IIT-JEE) + 17 yrs JEE Main Topic-wise Solved Paper Mathematics By Mamta Batra </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-7.  41 Years (1978-2018) JEE Advanced (IIT-JEE) + 17 yrs JEE Main Topic-wise Solved Paper Physics  By Er. Sunil Batra</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m10.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+10.  41 Years (1978-2018) JEE Advanced (IIT-JEE) + 17 yrs JEE Main Topic-wise Solved Paper Physics  By Er. Sunil Batra</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m10.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-8.  40 Years (1978-2017) JEE Advanced (IIT-JEE) + 16 yrs JEE Main Topic-wise Solved Paper Chemistry By O.P. Agarwal </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m11.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+11.  40 Years (1978-2017) JEE Advanced (IIT-JEE) + 16 yrs JEE Main Topic-wise Solved Paper Chemistry By O.P. Agarwal </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m11.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+12.  IIT Guide For Mathematics  By  M. L. Khanna</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m12.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+13. Mathematics Concept Book for IIT-JEE  By Er. L.K.Sharma </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m13.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+14. The Handy Math Answer Book  By Thomas E. Svarney </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m14.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+15. The Handy Science Answer Book  By Naomi E. Balaban </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m15.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+16. Problems In Physics  By D.C. Pandey </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m16.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 

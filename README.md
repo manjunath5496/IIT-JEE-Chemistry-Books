@@ -396,9 +396,15 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 3.  Career Numbers By Rebecca Burnett</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m3.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-4.  Measure Integration &Probability By Ivan F Wilde</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m4.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+4.  Measure Integration & Probability By Ivan F Wilde</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m4.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 5.  Number Theory By David A. Santos</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m5.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+6.  Objective Mathematics By S.K Goyal</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m6.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+7.  Physical Chemistry Numerical Problems & Solutions for IIT - JEE By P. Bahadur</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m7.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+8.  11 Years JEE Main Chapter-wise Solved Papers (2002-12)</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m8.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 

@@ -507,6 +507,12 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 16. Problems In Physics  By D.C. Pandey </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m16.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+17. Objective Mathematics (Vol 1) By R.D. Sharma </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m17.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+18. Objective Mathematics (Vol 2) By R.D. Sharma </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m18.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+
+
 
 
 

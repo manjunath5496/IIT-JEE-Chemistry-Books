@@ -396,6 +396,31 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 1 yard = 3 feet</br>
 1 foot = 12 inches</br>
 </li>
+<li> <strong>Weight</strong></br>
+1 milligram = 0.001 gram</br>
+1 centigram = 0.01 gram</br>
+1 decigram = 0.1 gram</br>
+1 kilogram = 1000 grams</br>
+1 gram = 1000 milligrams</br>
+1 ton = 2000 pounds</br>
+1 pound = 16 ounces</br>
+</li>
+<li> <strong>Volume</strong> </br>
+1 teaspoon	=	4.9 milliliters</br>
+1 cup	=	237 milliliters</br>
+1 cup = 8 ounces</br>
+1 pint	=	473 milliliters</br>
+1 quart	=	0.9 liters</br>
+1 gallon =	3.79 liters</br>
+1 gallon = 4 quarts</br>
+1 gallon = 128 ounces</br>
+1 milliliter = 0.001 liter
+1 centiliter = 0.01 liter
+1 deciliter = 0.1 liter
+1 kiloliter = 1000 liters
+1 quart = 2 pints
+1 pint = 2 cups
+</li>
 
 
 </ul>

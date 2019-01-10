@@ -414,12 +414,12 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 1 gallon =	3.79 liters</br>
 1 gallon = 4 quarts</br>
 1 gallon = 128 ounces</br>
-1 milliliter = 0.001 liter
-1 centiliter = 0.01 liter
-1 deciliter = 0.1 liter
-1 kiloliter = 1000 liters
-1 quart = 2 pints
-1 pint = 2 cups
+1 milliliter = 0.001 liter</br>
+1 centiliter = 0.01 liter</br>
+1 deciliter = 0.1 liter</br>
+1 kiloliter = 1000 liters</br>
+1 quart = 2 pints</br>
+1 pint = 2 cups</br>
 </li>
 
 

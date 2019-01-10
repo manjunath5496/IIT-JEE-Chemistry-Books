@@ -381,6 +381,27 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 <li>  <img src="img7.gif" alt="summation rule4" height="60" width="315"> </li>
 
+<li> <strong> Distance </strong></br>
+
+1 inch	=	2.54 cm</br>
+1 foot	=	0.3 meters</br>
+1 yard	=	0.9 meters</br>
+1 mile	=	1.6 kilometers</br>
+</li>
+
+<li> <strong>Weight</strong></br>
+1 ounce	=	28.4 grams</br>
+1 pound	=	0.5 kilograms</br>
+</li>
+
+
+<li> <strong>Volume</strong> </br>
+1 teaspoon	=	4.9 milliliters</br>
+1 cup	=	237 milliliters</br>
+1 pint	=	473 milliliters</br>
+1 quart	=	0.9 liters</br>
+1 gallon	=	3.79 liters</br>
+</li>
 
 </ul>
 

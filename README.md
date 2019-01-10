@@ -432,7 +432,7 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 1year = 52 weeks</br>
 </li>
 
-<li>&nbsp; &nbsp; </br>
+<li><strong> SI Prefixes </strong></br>
 
 10 <sup>1</sup>	: deka (da)</br>
 10 <sup>2</sup>	: hecto(h)</br>

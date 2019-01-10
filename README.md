@@ -421,6 +421,16 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 1 quart = 2 pints</br>
 1 pint = 2 cups</br>
 </li>
+<li> <strong>Time</strong></br>
+1 hour = 60 minutes</br>
+1 minute = 60 seconds</br>
+1 hour = 60 minutes = 3600 seconds (60 &times; 60)</br>
+1 day = 24 hours</br>
+1 week = 7 days</br>
+1 year = 365 days</br>
+1 year = 12 months</br>
+1year = 52 weeks</br>
+</li>
 
 
 </ul>

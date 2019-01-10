@@ -547,84 +547,41 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
  </li>
 
 <li> <strong> Roman numerals  </strong> </br>
- 
-  <table border=1 cellspacing=0 cellpadding=5 bordercolorlight="#6699FF" bordercolordark="#006699">
-        <tr> 
-          <td> 
-            <pre>1 = I
-
+ <pre>
+1 = I
 2 = II
-
 3 = III
-
 4 = IV
-
 5 = V
-
 6 = VI
-
 7 = VII
-
 8 = VIII
-
 9 = IX
-
-10 = X</pre>
-          </td>
-          <td> 
-            <pre>11 = XI
-
+10 = X
+11 = XI
 12 = XII
-
 13 = XIII
-
 14 = XIV
-
 15 = XV
-
 16 = XVI
-
 17 = XVII
-
 18 = XVIII
-
 19 = XIX
-
 20 = XX
-
-21 = XXI</pre>
-          </td>
-          <td> 
-            <pre>25 = XXV
-
+21 = XXI
+25 = XXV
 30 = XXX
-
 40 = XL
-
 49 = XLIX
-
 50 = L
-
 51 = LI
-
 60 = LX
-
 70 = LXX
-
 80 = LXXX
-
 90 = XC
-
 99 = XCIX
-
 </pre>
-          </td>
-        </tr>
-      </table>
- 
- 
- 
- 
+         
  
  </li>
 

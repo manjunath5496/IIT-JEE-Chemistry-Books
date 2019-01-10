@@ -434,10 +434,7 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 <li><strong> SI Prefixes </strong></br>
 
- <table cellspacing=0 border=1 bgcolor=#00c0ff cellpadding="1">
-        <tr> 
-          <td> 
-            <table bgcolor=#ffffff height="100">
+           <table bgcolor=#ffffff height="100">
               <tr bgcolor="#99CCFF"> 
                 <td><b>Number</b></td>
                 <td><b>Prefix</b></td>
@@ -493,15 +490,7 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
                 <td>yotta-</td>
                 <td>Y</td>
               </tr>
-            </table>
-          </td>
-          <td> 
-            <table bgcolor=#ffffff>
-              <tr bgcolor="#99CCFF"> 
-                <td><b>Number</b></td>
-                <td><b>Prefix</b></td>
-                <td><b>Symbol</b></td>
-              </tr>
+       
               <tr> 
                 <td>10 <sup>-1</sup></td>
                 <td>deci-</td>
@@ -553,10 +542,7 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
                 <td>y</td>
               </tr>
             </table>
-          </td>
-        </tr>
-      </table>
-
+         
 
 
 

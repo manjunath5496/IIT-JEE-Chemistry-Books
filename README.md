@@ -628,6 +628,15 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 18. Objective Mathematics (Vol 2) By R.D. Sharma </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m18.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+19.  Aptitude Test Problems in Physics  By  S.S. Krotov </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m19.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+20. Problems in Calculus of One Variable By I. A. Maron </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m20.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+21. A Collection of Questions and Problems in Physics  By  L. A. Sena </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m21.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+
+
+
 
 
 

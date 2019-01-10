@@ -509,7 +509,7 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
               <tr> 
                 <td>10 <sup>-6</sup></td>
                 <td>micro-</td>
-                <td>u (greek mu)</td>
+                <td>&mu;</td>
               </tr>
               <tr> 
                 <td>10 <sup>-9</sup></td>

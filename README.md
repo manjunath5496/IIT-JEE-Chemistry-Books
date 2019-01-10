@@ -432,6 +432,40 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 1year = 52 weeks</br>
 </li>
 
+<li>&nbsp; &nbsp; </br>
+
+10 <sup>1</sup>	: deka (da)</br>
+10 <sup>2</sup>	: hecto(h)</br>
+10 <sup>3</sup>	: kilo (k)</br>
+10 <sup>6</sup> : mega (M)</br>
+10 <sup>9</sup>	: giga (G)</br>
+10 <sup>12</sup>: tera (T)</br>
+10 <sup>15</sup>: peta (P)</br>
+10 <sup>18</sup>: exa  (E)</br>
+10 <sup>21</sup>: zeta (Z)</br>
+10 <sup>24</sup>: yotta(Y)</br>
+10 <sup>&minus;1</sup> : deci (d)</br>
+10 <sup>&minus;2</sup> : centi(c)</br>
+10 <sup>&minus;3</sup> : milli (m)</br>
+10 <sup>&minus;6</sup> : micro (&mu;)</br>
+10 <sup>&minus;9</sup> : nano (n)</br>
+10 <sup>&minus;12</sup>: pico (p)</br>
+10 <sup>&minus;15</sup>: femto(f)</br>
+10 <sup>&minus;18</sup>: atto (E)</br>
+10 <sup>&minus;21</sup>: zeta (z)</br>
+10 <sup>&minus;24</sup>: yocto(y)</br>
+ 
+ 
+ 
+ 
+ 
+ 
+ </li>
+
+
+
+
+
 
 </ul>
 

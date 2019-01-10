@@ -433,7 +433,6 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 </li>
 
 <li><strong> SI Prefixes </strong></br>
-
 10 <sup>1</sup>	: deka (da)</br>
 10 <sup>2</sup>	: hecto(h)</br>
 10 <sup>3</sup>	: kilo (k)</br>
@@ -454,12 +453,6 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 10 <sup>&minus;18</sup>: atto (E)</br>
 10 <sup>&minus;21</sup>: zeta (z)</br>
 10 <sup>&minus;24</sup>: yocto(y)</br>
- 
- 
- 
- 
- 
- 
  </li>
 
 

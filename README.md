@@ -406,7 +406,7 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 8.  11 Years JEE Main Chapter-wise Solved Papers (2002-12)</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m8.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-9.  41 Years (1978-2018) JEE Advanced (IIT-JEE) + 17 yrs JEE Main (2002-2018) Topic-wise Solved Paper Mathematics By Mamta Batra (</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+9.  41 Years (1978-2018) JEE Advanced (IIT-JEE) + 17 yrs JEE Main Topic-wise Solved Paper Mathematics By Mamta Batra </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 7.  41 Years (1978-2018) JEE Advanced (IIT-JEE) + 17 yrs JEE Main Topic-wise Solved Paper Physics  By Er. Sunil Batra</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m10.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 

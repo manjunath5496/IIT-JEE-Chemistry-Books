@@ -434,7 +434,7 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 <li><strong> SI Prefixes </strong></br>
 
-           <table bgcolor=#ffffff height="100">
+  <table bgcolor=#ffffff height="100">
               <tr bgcolor="#99CCFF"> 
                 <td><b>Number</b></td>
                 <td><b>Prefix</b></td>
@@ -491,9 +491,9 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
                 <td>Y</td>
               </tr>
        
-              <tr> 
-                <td>10 <sup>-1</sup></td>
-                <td>deci-</td>
+  <tr> 
+             <td>10 <sup>-1</sup></td>
+             <td>deci-</td>
                 <td>d</td>
               </tr>
               <tr> 
@@ -542,7 +542,7 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
                 <td>y</td>
               </tr>
             </table>
-         
+                 
 
 
 

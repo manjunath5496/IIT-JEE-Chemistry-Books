@@ -433,6 +433,136 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 </li>
 
 <li><strong> SI Prefixes </strong></br>
+
+ <table cellspacing=0 border=1 bgcolor=#00c0ff cellpadding="1">
+        <tr> 
+          <td> 
+            <table bgcolor=#ffffff height="100">
+              <tr bgcolor="#99CCFF"> 
+                <td><b>Number</b></td>
+                <td><b>Prefix</b></td>
+                <td><b>Symbol</b></td>
+              </tr>
+              <tr> 
+                <td>10 <sup>1</sup></td>
+                <td>deka-</td>
+                <td>da</td>
+              </tr>
+              <tr> 
+                <td>10 <sup>2</sup></td>
+                <td>hecto-</td>
+                <td>h</td>
+              </tr>
+              <tr> 
+                <td>10 <sup>3</sup></td>
+                <td>kilo-</td>
+                <td>k</td>
+              </tr>
+              <tr> 
+                <td>10 <sup>6</sup></td>
+                <td>mega-</td>
+                <td>M</td>
+              </tr>
+              <tr> 
+                <td>10 <sup>9</sup></td>
+                <td>giga-</td>
+                <td>G</td>
+              </tr>
+              <tr> 
+                <td>10 <sup>12</sup></td>
+                <td>tera-</td>
+                <td>T</td>
+              </tr>
+              <tr> 
+                <td>10 <sup>15</sup></td>
+                <td>peta-</td>
+                <td>P</td>
+              </tr>
+              <tr> 
+                <td>10 <sup>18</sup></td>
+                <td>exa-</td>
+                <td>E</td>
+              </tr>
+              <tr> 
+                <td>10 <sup>21</sup></td>
+                <td>zeta-</td>
+                <td>Z</td>
+              </tr>
+              <tr> 
+                <td>10 <sup>24</sup></td>
+                <td>yotta-</td>
+                <td>Y</td>
+              </tr>
+            </table>
+          </td>
+          <td> 
+            <table bgcolor=#ffffff>
+              <tr bgcolor="#99CCFF"> 
+                <td><b>Number</b></td>
+                <td><b>Prefix</b></td>
+                <td><b>Symbol</b></td>
+              </tr>
+              <tr> 
+                <td>10 <sup>-1</sup></td>
+                <td>deci-</td>
+                <td>d</td>
+              </tr>
+              <tr> 
+                <td>10 <sup>-2</sup></td>
+                <td>centi-</td>
+                <td>c</td>
+              </tr>
+              <tr> 
+                <td>10 <sup>-3</sup></td>
+                <td>milli-</td>
+                <td>m</td>
+              </tr>
+              <tr> 
+                <td>10 <sup>-6</sup></td>
+                <td>micro-</td>
+                <td>u (greek mu)</td>
+              </tr>
+              <tr> 
+                <td>10 <sup>-9</sup></td>
+                <td>nano-</td>
+                <td>n</td>
+              </tr>
+              <tr> 
+                <td>10 <sup>-12</sup></td>
+                <td>pico-</td>
+                <td>p</td>
+              </tr>
+              <tr> 
+                <td>10 <sup>-15</sup></td>
+                <td>femto-</td>
+                <td>f</td>
+              </tr>
+              <tr> 
+                <td>10 <sup>-18</sup></td>
+                <td>atto-</td>
+                <td>a</td>
+              </tr>
+              <tr> 
+                <td>10 <sup>-21</sup></td>
+                <td>zepto-</td>
+                <td>z</td>
+              </tr>
+              <tr> 
+                <td>10 <sup>-24</sup></td>
+                <td>yocto-</td>
+                <td>y</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+
+
+
+
+
+
+
 10 <sup>1</sup>	: deka (da)</br>
 10 <sup>2</sup>	: hecto(h)</br>
 10 <sup>3</sup>	: kilo (k)</br>

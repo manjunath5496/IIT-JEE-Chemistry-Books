@@ -609,13 +609,13 @@ a &ratio; b &rarr; a / b </li>
 <li> Surface area of a hexagonal pyramid = 3 &times; {(apothem length &times; base length) &plus; (base length &times; slant height) } </li>
 <li> Volume of a hexagonal pyramid = apothem length &times; base length &times; height </li>
 <li> <strong> Number of permutations of n different things taking r at a time is</strong> </br>
-P(n, r) = n&excl; / (n &minus; r)&excl;
+P (n, r) = n&excl; / (n &minus; r)&excl;
 
 
 </li>
 
 <li> <strong> Number of combinations of n different things taking r at a time is</strong> </br>
-C(n, r) = n&excl; / {(n &minus; r)&excl;r&excl;}
+C (n, r) = n&excl; / {(n &minus; r)&excl; &times; r&excl;}
 
 
 </li>

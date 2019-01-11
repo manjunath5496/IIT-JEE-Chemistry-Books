@@ -595,7 +595,7 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 <li> If probability of happening an event is X then probability of not happening that event is (1 &minus; X). </li>
 
-
+<li> Root mean square (X<sub>rms</sub>) = square root of {x<sup>2</sup><sub>1</sub> &plus;                                  }</li>
 
 
 

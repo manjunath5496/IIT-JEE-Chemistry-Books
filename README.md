@@ -195,6 +195,7 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
    <li> Circumference of a circle  = pi &times; diameter </li>
   <li> Area of a sphere  = 4 &times; pi &times; square of radius </li>
   <li> Area of a square  = length &times; length = length<sup>2</sup> </li>
+  <li> Area of an Octagon  = 2 &times; (length of any one side of the octagon) <sup>2</sup> (1 &plus; {square root of 2})</li>
   <li> Volume of a cube  = length &times; length &times; length = length<sup>3</sup> </li>
   <li> Volume of a rectangle  = length &times; width &times; height </li>
   <li> Volume of a regular prism  = base &times; height </li>

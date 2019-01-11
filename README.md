@@ -601,7 +601,7 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 a &ratio; b &rarr; a / b </li>
 
-<li>Angle in radians = (angle in degrees &times; &pi; ) / 180    </li>
+<li>Angle in radians = (angle in degrees &times; &pi; ) / 180<sup>o</sup>    </li>
 
 
 

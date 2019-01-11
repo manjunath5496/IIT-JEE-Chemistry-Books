@@ -626,7 +626,7 @@ C (n, r) = n&excl; / {(n &minus; r)&excl; &times; r&excl;}
 For a triangular area, </br>
 Square footage = (breadth &times; length) / 2 </li>
 
-
+<li> Area of the Ellipse =  &pi; &times; semi major axis of the ellipse &times; semi minor axis of the ellipse</li>
 
 </ul>
 

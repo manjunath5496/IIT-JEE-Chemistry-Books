@@ -595,7 +595,7 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 <li> If probability of happening an event is X then probability of not happening that event is (1 &minus; X). </li>
 
-<li> Root mean square (X<sub>rms</sub>) = square root of {(x<sub>1</sub><sup>2</sup> &plus; x<sub>2</sub><sup>2</sup> &plus; x<sub>3</sub><sup>2</sup> &plus; x<sub>3</sub><sup>2</sup> &plus; ................  x<sub>n</sub><sup>2</sup>) / n}                             }</li>
+<li> Root mean square (X<sub>rms</sub>) = square root of {(x<sub>1</sub><sup>2</sup> &plus; x<sub>2</sub><sup>2</sup> &plus; x<sub>3</sub><sup>2</sup> &plus; x<sub>4</sub><sup>2</sup> &plus; ................ &plus; x<sub>n</sub><sup>2</sup>) / n}                             }</li>
 
 
 

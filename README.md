@@ -603,6 +603,7 @@ a &ratio; b &rarr; a / b </li>
 
 <li>Angle in radians = (angle in degrees &times; &pi; ) / 180<sup>o</sup>    </li>
 
+<li>Relative standard deviation = (Standard deviation &times; 100) / Mean of the data </li>
 
 
 

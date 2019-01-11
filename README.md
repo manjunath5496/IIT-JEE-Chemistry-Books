@@ -730,7 +730,7 @@ F<sub>9</sub> = 22 </br></li>
 
 <li> Faraday's constant (F) =	9.6485338 &times; 10 <sup>4</sup> C/mol</li>
 
-<li> Gas constant (R) </br>
+<li> Molar gas constant (R) </br>
 R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
 
 <li> Mass of electron (m<sub>e</sub>)	= 9.109383 &times; 10 <sup>&minus;28</sup> g </li>
@@ -760,7 +760,19 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
 
 <li>Electron radius (r<sub>e</sub>) = 2.81792 &times; 10 <sup>&minus;15</sup> m </li>
 
-  
+ <li>Electron radius (r<sub>e</sub>) = 2.81792 &times; 10 <sup>&minus;15</sup> m </li> 
+ 
+  <li> Stefan-Boltzmann constant (&sigma;) = 5.670370374419	&times; 10 <sup>&minus;8</sup>	W/m<sup>2</sup>K<sup>4</sup> </li>
+ 
+  <li> Standard atmosphere (atm) = 101,325	Pa </li>
+ 
+  <li> Wien displacement constant (b) = 2.897756 &times; 10 <sup>&minus;3</sup> m·K</li>
+ 
+ 
+ 
+ 
+ 
+ 
  </ul>
  
  

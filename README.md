@@ -754,11 +754,9 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
  
 <li>Acceleration due to gravity (g) = 9.80665 m/s<sup>2</sup>   </li> 
 
-<li>Compton wavelength of the electron \(\lambda_c\)
-2.42631·10-12 m  </li> 
+<li>Compton wavelength of the electron (&lambda;<sup>c</sup>) = 2.42631 &times; 10 <sup>&minus;12</sup> m  </li> 
 
-<li>Gravitational constant G
-(6.673 ± 0.010)·10-11 m3/kg·s2  </li> 
+<li>Gravitational constant (G) = (6.673 &plusmn; 0.010) &times; 10 <sup>&minus;11</sup> m<sup>3</sup>/kg·s<sup>2</sup>  </li> 
 
 
 

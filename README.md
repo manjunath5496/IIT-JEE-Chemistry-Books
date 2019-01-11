@@ -711,6 +711,11 @@ F<sub>9</sub> = 22 </br></li>
 
 25. Atkins' Physical Chemistry  By  Peter Atkins</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+</br>
+
+
+<p> <strong> Physical Constants </strong> </p>
+
 
 <ul>
 
@@ -718,12 +723,12 @@ F<sub>9</sub> = 22 </br></li>
 
 1 g = 6.022142 × 10 <sup>23</sup> amu </li>
 
+<li> Avogadro's number (NA)	6.022142 &times; 10 <sup>23</sup>/mol   </li>
 
 
 
 
 
-Avogadro’s number (NA)	6.022142 × 1023/mol
 Boltzmann’s constant (k)	1.380651 × 10−23 J/K
 Charge on electron (e)	1.6021765 × 10−19 C
 Faraday’s constant (F)	9.6485338 × 104 C/mol

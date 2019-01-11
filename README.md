@@ -758,7 +758,7 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
 
 <li>Gravitational constant (G) = (6.673 &plusmn; 0.010) &times; 10 <sup>&minus;11</sup> m<sup>3</sup>/kg·s<sup>2</sup>  </li> 
 
-
+<li>Electron radius (r<sub>e</sub>) = 2.81792 &times; 10 <sup>&minus;15</sup> m </li>
 
   
  </ul>

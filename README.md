@@ -768,7 +768,7 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
  
   <li> Rydberg constant (R<sub>&infin;</sub>) = 1.0973731568508 &times; 10 <sup>7</sup> m<sup>&minus;1</sup></li>
  
- <li>Absolute permittivity of free space (&epsilon;<sub>0</sub>) =  8.85 &times; 10 <sup>&minus;12</sup>F/m</li>
+ <li>Absolute permittivity of free space (&epsilon;<sub>0</sub>) =  8.85 &times; 10 <sup>&minus;12</sup> F/m</li>
  
   <li>Absolute permeability of free space (&mu;<sub>0</sub>) =  4&pi; &times; 10 <sup>&minus;7</sup> H·m<sup>&minus;1</sup></li>
   

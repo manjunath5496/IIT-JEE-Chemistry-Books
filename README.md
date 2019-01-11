@@ -605,7 +605,9 @@ a &ratio; b &rarr; a / b </li>
 
 <li>Relative standard deviation = (Standard deviation &times; 100) / Mean of the data </li>
 
-
+<li> Base area of a hexagonal pyramid = 3 &times; (apothem length &times; base length)    </li>
+<li> Surface area of a hexagonal pyramid = 3 &times; {(apothem length &times; base length) &plus; (base length &times; slant height) } </li>
+<li> Volume of a hexagonal pyramid = apothem length &times; base length &times; height </li>
 
 
 

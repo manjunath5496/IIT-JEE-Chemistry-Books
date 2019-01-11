@@ -741,6 +741,14 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
  
  <li> Pi	(&pi;) = 3.1415927 </li>
  
+ <li>Planck's constant (h)	= 6.626069 &times; 10 <sup>&minus;34</sup> Js </br>
+ 
+ &hslash; = h / 2&pi; = 1.05457266 &times; 10 <sup>&minus;34</sup> Js
+ 
+ 
+ </li>
+ 
+ 
  
  </ul>
  

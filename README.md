@@ -589,6 +589,16 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 <li>Gross Profit margin = (Gross Profit / net sales)   </li> 
 
+<li> Percentage Increase = (Increased Value / Original Value) &times; 100 </li>
+
+
+
+
+
+
+
+
+
 
 </ul>
 

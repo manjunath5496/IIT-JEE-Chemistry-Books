@@ -599,7 +599,7 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 <li> <strong> Ratio formula: </strong> </br>
 
-a:b &rarr; a / b </li>
+a &ratio; b &rarr; a / b </li>
 
 
 </ul>

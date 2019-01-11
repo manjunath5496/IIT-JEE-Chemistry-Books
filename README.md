@@ -630,9 +630,7 @@ Square footage = (breadth &times; length) / 2 </li>
 
 <li> Perimeter of the Ellipse = 2 &times; &pi; &times; square root of ({semi major axis of the ellipse<sup>2</sup> &plus; semi minor axis of the ellipse<sup>2</sup>} /2)</li>
 
-
-
-
+<li> Percentage difference = [(x<sub>1</sub> &minus; x<sub>2</sub>) / {(x<sub>1</sub> &plus; x<sub>2</sub>) /2} ] &times; 100 </li>
 
 
 

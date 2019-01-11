@@ -583,7 +583,10 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 99 = XCIX</br>
  </li>
 
-<li>Profit margin = (total income / net sales)   </li> 
+<li>Profit margin = (net profits / net sales)   </li> 
+
+<li>Profit margin = = (net sales &minus; expenses) / net Sales  </li>
+
 <li>Gross Profit margin = (Gross Profit / net sales)   </li> 
 
 

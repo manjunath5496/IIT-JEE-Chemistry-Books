@@ -620,11 +620,19 @@ C (n, r) = n&excl; / {(n &minus; r)&excl; &times; r&excl;}
 
 </li>
 
+<li> Weighted Average = (Sum of Weighted Terms / Total Number of Terms) </li>
+
+<li> Square footage = length &times; breadth </br>
+
+For a triangular area, </br>
+
+ Square footage = (length &times; breadth) / 2 </li>
+
 
 
 </ul>
 
-</br> </br>
+</br> 
 <p><strong> Download Books </strong></p>
 
 

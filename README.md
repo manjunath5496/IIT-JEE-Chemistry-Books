@@ -646,6 +646,13 @@ F<sub>9</sub> = 22 </br></li>
 <li> Kelvin = Celsius &plus; 273</li>
 <li> Fahrenheit = Celsius &times; (9 /5) &plus; 32</li>
 
+<li> Rate of capability (C<sub>p</sub>) = (upper specification limit &minus; lower specification limit) / (6 &times; standard deviation) </li>
+
+
+
+
+
+
 </ul>
 
 </br> 

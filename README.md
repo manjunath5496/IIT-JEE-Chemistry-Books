@@ -723,13 +723,14 @@ F<sub>9</sub> = 22 </br></li>
 
 1 g = 6.022142 × 10 <sup>23</sup> amu </li>
 
-<li> Avogadro's number (NA)	6.022142 &times; 10 <sup>23</sup>/mol   </li>
+<li> Avogadro's number (N<sub>A</sub>)	6.022142 &times; 10 <sup>23</sup>/mol   </li>
+<li> Boltzmann's constant (k)	1.380651 &times; 10 <sup>&minus;23</sup> J/K  </li>
+
+<li> Charge on electron (e)	1.6021765 &times; 10 <sup>&minus;19</sup> C  </li>
 
 
 
 
-
-Boltzmann’s constant (k)	1.380651 × 10−23 J/K
 Charge on electron (e)	1.6021765 × 10−19 C
 Faraday’s constant (F)	9.6485338 × 104 C/mol
 Gas constant (R)	R=k NA

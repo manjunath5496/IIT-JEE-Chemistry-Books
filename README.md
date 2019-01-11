@@ -636,7 +636,12 @@ Square footage = (breadth &times; length) / 2 </li>
 
 <li> Percentage composition of element X = [ total amount of element X present in the compound  / total amount of all the elements present in the compound] &times; 100 </li>
 
-
+<li>  <strong> Fibonacci Formula: </strong> </br>
+F<sub>n</sub> = F<sub>n&minus;1</sub> &plus; F<sub>n&minus;2</sub> </br>
+For fibonacci series 0, 1, 1, 2, 3, 5, 8, 14,…… </br>
+F<sub>9</sub> = F<sub>9&minus;1</sub> &plus; F<sub>9&minus;2</sub> </br>
+F<sub>9</sub> = 14 &plus; 8 </br>
+F<sub>9</sub> = 22 </br></li>
 
 
 

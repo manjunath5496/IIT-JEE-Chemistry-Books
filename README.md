@@ -628,7 +628,7 @@ Square footage = (breadth &times; length) / 2 </li>
 
 <li> Area of the Ellipse =  &pi; &times; semi major axis of the ellipse &times; semi minor axis of the ellipse</li>
 
-<li> Perimeter of the Ellipse = 2 &times; &pi; &times; square root of ({semi major axis of the ellipse<sup>2</sup> &plus; semi minor axis of the ellipse<sup>2</sup>}/2  )</li>
+<li> Perimeter of the Ellipse = 2 &times; &pi; &times; square root of ({semi major axis of the ellipse<sup>2</sup> &plus; semi minor axis of the ellipse<sup>2</sup>} /2)</li>
 
 
 

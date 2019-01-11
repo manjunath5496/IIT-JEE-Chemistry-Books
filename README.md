@@ -772,7 +772,14 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
  
   <li>Absolute permeability of free space (&mu;<sub>0</sub>) =  4&pi; &times; 10 <sup>&minus;7</sup> H·m<sup>&minus;1</sup></li>
   
- </ul>
+ <li>Coulomb constant (<em>K</em>) = (1/4&pi;&epsilon;<sub>0</sub>) =  8.99 &times; 10 <sup>9</sup> N·m<sup>2</sup>·C<sup>&minus;2</sup></li>
+  
+
+
+
+
+
+</ul>
  
  
 

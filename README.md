@@ -624,7 +624,7 @@ C (n, r) = n&excl; / {(n &minus; r)&excl; &times; r&excl;}
 
 <li> Square footage = length &times; breadth </br>
 For a triangular area, </br>
-Square footage = (length &times; breadth) / 2 </li>
+Square footage = (breadth &times; length) / 2 </li>
 
 
 

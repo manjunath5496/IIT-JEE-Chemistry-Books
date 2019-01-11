@@ -760,7 +760,7 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
 
 <li>Electron radius (r<sub>e</sub>) = 2.81792 &times; 10 <sup>&minus;15</sup> m </li>
 
-  <li> Stefan-Boltzmann constant (&sigma;) = 5.670370374419	&times; 10 <sup>&minus;8</sup>	W/m<sup>2</sup>K<sup>4</sup> </li>
+  <li> Stefan-Boltzmann constant (&sigma;) = (2&pi;<sup>5</sup>k<sup>4</sup> / 15h<sup>3</sup>c<sup>2</sup>) = 5.670370374419	&times; 10 <sup>&minus;8</sup>	W/m<sup>2</sup>K<sup>4</sup> </li>
  
   <li> Standard atmosphere (atm) = 101,325	Pa </li>
  

@@ -723,28 +723,30 @@ F<sub>9</sub> = 22 </br></li>
 
 1 g = 6.022142 × 10 <sup>23</sup> amu </li>
 
-<li> Avogadro's number (N<sub>A</sub>)	6.022142 &times; 10 <sup>23</sup>/mol   </li>
-<li> Boltzmann's constant (k)	1.380651 &times; 10 <sup>&minus;23</sup> J/K  </li>
+<li> Avogadro's number (N<sub>A</sub>) =	6.022142 &times; 10 <sup>23</sup>/mol   </li>
+<li> Boltzmann's constant (k)	= 1.380651 &times; 10 <sup>&minus;23</sup> J/K  </li>
 
-<li> Charge on electron (e)	1.6021765 &times; 10 <sup>&minus;19</sup> C  </li>
+<li> Charge on electron (e)	= 1.6021765 &times; 10 <sup>&minus;19</sup> C  </li>
+
+<li> Faraday's constant (F) =	9.6485338 &times; 10 <sup>4</sup> C/mol</li>
+
+<li> Gas constant (R) </br>
+R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
+
+<li> Mass of electron (m<sub>e</sub>)	= 9.109383 &times; 10 <sup>&minus;28</sup> g </li>
+ 
+ <li> Mass of neutron (m<sub>n</sub>)	= 1.6749273 &times; 10 <sup>&minus;24</sup> g </li>
+ 
+ <li> Mass of proton (m<sub>p</sub>)	= 1.6726217 &times; 10 <sup>&minus;24</sup> g </li>
+ 
+ <li> Pi	(&pi;) = 3.1415927 </li>
+ 
+ 
+ </ul>
+ 
+ 
 
 
-
-
-Charge on electron (e)	1.6021765 × 10−19 C
-Faraday’s constant (F)	9.6485338 × 104 C/mol
-Gas constant (R)	R=k NA
-0.0820575 (L atm)/(mol K)
-
-= 8.31447 J/(mol K)
-
-Mass of electron (mn)	5.485799 × 10−4 amu
-= 9.109383 × 10−28 g
-Mass of neutron (mn)	1.0086649 amu
-= 1.6749273 × 10−24 g
-Mass of proton (mp)	1.0072765 amu
-= 1.6726217 × 10−24 g
-Pi	π = 3.1415927
 Planck’s constant (h)	
 h = 6.626069 × 10 −34J s
 

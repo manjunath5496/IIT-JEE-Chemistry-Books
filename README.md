@@ -632,6 +632,9 @@ Square footage = (breadth &times; length) / 2 </li>
 
 <li> Percentage difference = [(x<sub>1</sub> &minus; x<sub>2</sub>) / {(x<sub>1</sub> &plus; x<sub>2</sub>) /2} ] &times; 100 </li>
 
+<li> Percentage yield = [actual yield  / theoretical yield ] &times; 100 </li>
+
+<li> Percentage composition of element X = [ total amount of element X present in the compound  / total amount of all the elements present in the compound] &times; 100 </li>
 
 
 

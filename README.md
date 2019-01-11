@@ -766,7 +766,7 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
  
   <li> Wien displacement constant (b) = 2.897756 &times; 10 <sup>&minus;3</sup> m·K</li>
  
- 
+  <li> Rydberg constant (R<sub>&infin;</sub>) = 1.0973731568508 &times; 10 <sup>7</sup> m<sup>&minus;1</sup></li>
  
  
  

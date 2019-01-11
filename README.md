@@ -591,9 +591,9 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 <li> Percentage Increase = (Increased Value / Original Value) &times; 100 </li>
 
+<li> Percentage Decrease = (Decreased Value / Original Value) &times; 100 </li>
 
-
-
+<li> If probability of happening an event is X then probability of not happening that event is (1 &minus; X). </li>
 
 
 

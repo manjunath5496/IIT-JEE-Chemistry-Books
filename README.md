@@ -634,7 +634,13 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 21. A Collection of Questions and Problems in Physics  By  L. A. Sena </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m21.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+22. Plane Trigonometry By S. L. Loney </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m22.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+23. Advanced Problems in Organic Chemistry for JEE  By  M.S. Chouhan</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m23.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+24. Advanced Problems in Organic Chemistry for JEE  By  Himanshu Pandey</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m24.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+25. Atkins' Physical Chemistry  By  Peter Atkins</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 

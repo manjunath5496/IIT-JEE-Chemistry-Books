@@ -712,7 +712,144 @@ F<sub>9</sub> = 22 </br></li>
 25. Atkins' Physical Chemistry  By  Peter Atkins</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
+<ul>
 
+<li>Atomic mass unit (amu)	1 amu = 1.6605389 × 10 <sup>&minus;24</sup> g </br>
+
+1 g = 6.022142 × 10 <sup>23</sup> amu </li>
+
+
+
+
+
+
+Avogadro’s number (NA)	6.022142 × 1023/mol
+Boltzmann’s constant (k)	1.380651 × 10−23 J/K
+Charge on electron (e)	1.6021765 × 10−19 C
+Faraday’s constant (F)	9.6485338 × 104 C/mol
+Gas constant (R)	R=k NA
+0.0820575 (L atm)/(mol K)
+
+= 8.31447 J/(mol K)
+
+Mass of electron (mn)	5.485799 × 10−4 amu
+= 9.109383 × 10−28 g
+Mass of neutron (mn)	1.0086649 amu
+= 1.6749273 × 10−24 g
+Mass of proton (mp)	1.0072765 amu
+= 1.6726217 × 10−24 g
+Pi	π = 3.1415927
+Planck’s constant (h)	
+h = 6.626069 × 10 −34J s
+
+\(\hbar=\dfrac{h}{2\pi}\)=1.05457266·10-34 J·s
+
+Speed of light in vacuum (c)	c = 2.99792458 × 108 m/s (exact)
+Permeability of vacuum \(\mu_0\)
+\(\mu_0 = 4\pi\) ·10-7 T2·m3/J
+
+12.566370614·10-7 T2·m3/J
+
+Permittivity of vacuum \(\epsilon_0\)
+\(\epsilon_0 = \dfrac{1}{\mu_o\, c^2}\)
+
+8.854187817·10-12 C2/J·m
+
+Fine structure constant \(\alpha\)
+ 
+\(\dfrac{1}{137.0359895}\)
+Bohr magneton \(\mu_B\)
+\(\mu_B = \dfrac{e h }{4 \pi \,m_e}\)
+
+9.2740154·10-24 J/T
+
+Nuclear magneton \(\mu_N\)
+\(\mu_N = \dfrac{e h }{4 \pi \,m_p}\)
+
+5.0507866·10-27 J/T
+
+Free electron g factor \(g_e\)
+2.002319304386
+
+Free electron gyromagnetic ratio \(\gamma_e\)
+\(\gamma_e = \dfrac{2 g_e B}{h}\)
+
+1.7608592·1011 1/s·T
+
+\(\dfrac{\gamma_e}{2\pi}\) = 28.024944 GHz/T
+
+Electron magnetic moment \(\mu_e\)
+\(\mu_e = \dfrac{- g_e \mu_B}{2}\)
+
+-9.2847701·10-24 J/T
+
+Proton gyromagnetic ratio (H2O) \(\gamma_p\)
+2.67515255·108 1/s·T
+
+\(\dfrac{\gamma_p}{2 \pi}\) = 42.576375 MHz/T
+
+Proton magnetic moment\(\mu_p\)
+1.41060761·10-26 J/T
+
+Charge-to-mass ratio for the electron \(\frac{e}{m_e}\)
+1.75880·1011 C/kg
+
+Bohr radius \(a_0\)
+5.29177·10-11 m
+
+Electron radius \(r_e\)
+2.81792·10-15 m
+
+Proton g factor (Landé factor) \(g_H\)
+5.585
+Gravitational constant G
+(6.673 ± 0.010)·10-11 m3/kg·s2 (CODATA)
+
+Acceleration due to gravity g
+9.80665 m/s2
+
+Compton wavelength of the electron \(\lambda_c\)
+2.42631·10-12 m
+Atomic energy unit Hartree
+1 Hartree = \(\dfrac{e^2}{4 \pi \epsilon_o\, a_0}\)
+
+1 Hartree = 2.625501·106 J/mol (approx. 627.5 kcal/mol)
+
+Proton Larmor frequency
+\(\nu_p = \gamma_p / 2\pi \, B\)
+
+\(\nu_p\) = 42.5764 MHz/T (H2O)
+
+Electron Larmor frequency
+ 
+\(\nu_e\) = \(\dfrac{\nu_e}{2\pi}\) (g / ge) B
+
+\(\nu_e\) [GHz] = 13.9962 g B [T]
+
+g = 0.07144775 \(\nu_e\) [GHz] / B [T]
+
+g = 3.04199\(\nu_e\) [GHz] / \(\nu_p\) [MHz]
+
+B [T] = 0.0234872 \(\nu_p\) [MHz]
+
+Conversion of Units	
+1 G = 0.1 mT
+
+1 T = 10 kG
+
+1 mT = 10 G
+
+A [MHz] = 2.80249 (g / ge) A [G]
+
+A [MHz] = 28.0249 (g / ge) A [mT]
+
+A [MHz] = 13.9962 g A [mT]
+
+A [MHz] = 2.99792·104 A [cm-1]
+
+A [cm-1] = 0.333564·10-4 A [MHz]
+
+A [cm-1] = 4.66863·10-4 g A [mT]
 
 
 

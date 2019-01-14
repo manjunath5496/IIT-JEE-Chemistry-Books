@@ -920,6 +920,15 @@ F<sub>9</sub> = 22 </br></li>
 
 </br>
 
+75. MC Sir Class Notes </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+</br>
+
+
+
+
+
+
 
 
 <p> <strong> Physical Constants </strong> </p>

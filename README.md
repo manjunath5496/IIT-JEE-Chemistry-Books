@@ -961,7 +961,21 @@ F<sub>9</sub> = 22 </br></li>
 
 </br>
 
+85. S. Chand's Numerical Chemistry For Competitions By Sharma K.D </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+</br>
+
+86.1000 Solved Problems in Classical Physics By Ahmad A. Kamal</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+</br>
+
+87. The Pearson Guide to Inorganic Chemistry For the IIT JEE By Atul Singhal </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+</br>
+
+88.30 Year NEET MTG PHYSICS </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+</br>
 
 
 <p> <strong> Physical Constants </strong> </p>

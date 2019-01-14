@@ -870,6 +870,30 @@ F<sub>9</sub> = 22 </br></li>
 
 </br>
 
+64. The Elements Of Statics And Dynamics By SL Loney-Part I And II </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+</br>
+
+
+65. Differential Calculus For Beginners By Joseph Edwards </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+</br>
+
+
+66.  Allen Handbook Of Mathematics </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+</br>
+
+
+67. Fundamental Laws Of Mechanics By IE Irodov </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+</br>
+
+
+68. Basic Laws Of Electromagnetism By IE Irodov </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+</br>
+
 
 
 

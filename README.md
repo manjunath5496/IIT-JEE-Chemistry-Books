@@ -746,6 +746,21 @@ F<sub>9</sub> = 22 </br></li>
 </br>
 
 
+34.Resonance Chemistry Materials </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+</br>
+
+35.Resonance Physics Materials </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+</br>
+
+36.Resonance Formula Booklet 1 </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+</br>
+
+37.Resonance Formula Booklet 2 </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+</br>
 
 
 

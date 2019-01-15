@@ -994,7 +994,7 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
   <tr>
    <td title="Caesium"><sub>55</sub>Cs</td>
    <td title="Barium"><sub>56</sub>Ba</td>
-   <td></td>
+   <td>57 &#45; 71</td>
    <td title="Hafnium"><sub>72</sub>Hf</td>
    <td title="Tantalum"><sub>73</sub>Ta</td>
    <td title="Tungsten"><sub>74</sub>W</td>
@@ -1014,7 +1014,7 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
   <tr>
    <td title="Francium"><sub>87</sub>Fr</td>
    <td title="Radium"><sub>88</sub>Ra</td>
-   <td>vvvbvbvb</td>
+   <td>89 &#45; 103</td>
    <td title="Rutherfordium"><sub>104</sub>Rf</td>
    <td title="Dubnium"><sub>105</sub>Db</td>
    <td title="Seaborgium"><sub>106</sub>Sg</td>

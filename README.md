@@ -769,73 +769,73 @@ F<sub>9</sub> = 22 </br></li>
 
 54. Cordinate Geometry By G. Tewani </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m54.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-55. GRB Physical Chemistry </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+55. GRB Physical Chemistry </br> <a href="https://drive.google.com/file/d/1U57jnMzEZi1XDgNhAFS5VD1A4kbaTLEX/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-56. CRC Handbook of Chemistry and Physics By David R. Lide </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+56. CRC Handbook of Chemistry and Physics By David R. Lide </br> <a href="https://drive.google.com/file/d/1rsVQYYxm_l41dhzj7n4niP5zXOtiW8CV/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-57. Modern Physics By Paul Tipler  </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+57. Modern Physics By Paul Tipler  </br> <a href="https://drive.google.com/file/d/1gSAW_6Ylkp1j07riHR0vBC4O2vPehNp2/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-58. University Physics with Modern Physics By Hugh D. Young </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+58. University Physics with Modern Physics By Hugh D. Young </br> <a href="https://drive.google.com/file/d/1j_ljz8Ez7fdscMFlVwIPojoAFagKSQf1/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-59. Physics Final Cheat Sheet with Problems  </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+59. Physics Final Cheat Sheet with Problems  </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m59.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-60. A School Geometry By Hall and Stevens </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+60. A School Geometry By Hall and Stevens </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m60.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-61. Solutions To Ie Irodov's Problems In General Physics By Abhay Kumar Singh Volume-1  </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+61. Solutions To Ie Irodov's Problems In General Physics By Abhay Kumar Singh Volume-1  </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m61.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-62. Solutions To Ie Irodov's Problems In General Physics By Abhay Kumar Singh Volume-2 </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+62. Solutions To Ie Irodov's Problems In General Physics By Abhay Kumar Singh Volume-2 </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m62.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-63. Resonance Mathematics Study Materials  </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+63. Resonance Mathematics Study Materials  </br> <a href="https://drive.google.com/file/d/1fI9aTAQJMGw8bsanzq0ZO9cvUi_SvJ3r/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-64. The Elements Of Statics And Dynamics By SL Loney-Part I And II </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+64. The Elements Of Statics And Dynamics By SL Loney-Part I And II </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m64.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-65. Differential Calculus For Beginners By Joseph Edwards </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+65. Differential Calculus For Beginners By Joseph Edwards </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m65.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-66.  Allen Handbook Of Mathematics </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+66.  ALLEN Handbook Of Mathematics </br> <a href="https://drive.google.com/file/d/1Eh4yy-hy_D8rhb-DhkFouHc1EXmH6e23/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-67. Fundamental Laws Of Mechanics By IE Irodov </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+67. Fundamental Laws Of Mechanics By IE Irodov </br> <a href="https://drive.google.com/file/d/1qcTSekIY-DtRpb5k0T-aD4Si0IN_n1IE/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-68. Basic Laws Of Electromagnetism By IE Irodov </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+68. Basic Laws Of Electromagnetism By IE Irodov </br> <a href="https://drive.google.com/file/d/1IDC9DpMl7BVzRRivQ74AHat3QYkdqv-O/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-69. Problems In Mathematical Analysis By GN Berman </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+69. Problems In Mathematical Analysis By GN Berman </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m69.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-70. Integral Calculus For Beginners By Joseph Edward </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+70. Integral Calculus For Beginners By Joseph Edward </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m70.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-71. Solutions to Higher Algebra By Hall and Knight </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+71. Solutions to Higher Algebra By Hall and Knight </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m71.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-72. 30 Years NEET AIPMT Chapterwise Paper and Solution Biology </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+72. 30 Years NEET AIPMT Chapterwise Paper and Solution Biology </br> <a href="https://drive.google.com/file/d/1UTburcL4AGxbjeu2YXkxeQjLaf-ROB0i/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-73. 30 Years NEET AIPMT Chapterwise Paper and Solution Physics </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+73. 30 Years NEET AIPMT Chapterwise Paper and Solution Physics </br> <a href="https://drive.google.com/file/d/1huzA5m3cxJO4LI3FTyeQQt68D4LGMxFR/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-74. 30 Years NEET AIPMT Chapterwise Paper and Solution Chemistry </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+74. 30 Years NEET AIPMT Chapterwise Paper and Solution Chemistry </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m74.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-75. MC Sir Class Notes </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+75. MC Sir Class Notes </br> <a href="https://drive.google.com/file/d/1IM5q9pNrxL2Iq5xW9vI7SyfO0G6RtWDj/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-76. PS Sir Class Notes </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+76. PS Sir Class Notes </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m76.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-77. Resonance Critical Question Bank</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+77. Resonance Critical Question Bank</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m77.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-78. Motion Final Revision Modules</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+78. Motion Final Revision Modules For JEE</br> <a href="https://drive.google.com/file/d/1Sra0uxK6WguXzkOxfHd11n5NqAeeuQXU/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-79. 1300 Math Formulas By Alex Svirin </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+79. 1300 Math Formulas By Alex Svirin </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m79.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-80. ALLEN Mathematics Study Materials </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+80. ALLEN Mathematics Study Materials </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m80.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-81. ALLEN Chemistry NEET Version Module </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+81. ALLEN Chemistry NEET Version Modules </br> <a href="https://drive.google.com/file/d/1tSV4KAtk3mFkpgweEYoNHHn4_AakKxVJ/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-82. ALLEN Physics Study Materials </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+82. ALLEN Physics Study Materials </br> <a href="https://drive.google.com/file/d/1i5mB1pPduUilsAJ3Ot-kP9aQn00KkZXN/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-83. Akash Physics World Question Bank </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+83. Akash Physics World Question Bank </br> <a href="https://drive.google.com/file/d/10KoqrUE3pH5pTbSWrhO5i8-TT3C_g1cZ/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-84. Concept Of Modern Physics By Arthur Beiser</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+84. Concept Of Modern Physics By Arthur Beiser</br> <a href="https://drive.google.com/file/d/1WkELVL_dAvMovOvsZMtN4hV8L6fqygug/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-85. S. Chand's Numerical Chemistry For Competitions By Sharma K.D </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+85. S. Chand's Numerical Chemistry For Competitions By Sharma K.D </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m85.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-86. 1000 Solved Problems in Classical Physics By Ahmad A. Kamal</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+86. 1000 Solved Problems in Classical Physics By Ahmad A. Kamal</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m86.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-87. The Pearson Guide to Inorganic Chemistry For the IIT JEE By Atul Singhal </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+87. The Pearson Guide to Inorganic Chemistry For the IIT JEE By Atul Singhal </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m87.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-88. 30 Year NEET MTG PHYSICS </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+88. 30 Years NEET MTG PHYSICS </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m88.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 </br>
 

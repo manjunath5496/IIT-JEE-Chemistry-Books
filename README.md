@@ -721,21 +721,21 @@ F<sub>9</sub> = 22 </br></li>
 
 30. ALLEN Test Series</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-31.Bansal Chemistry Study Materials </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+31. Bansal Chemistry Study Materials </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-32.Bansal Physics Study Materials </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+32. Bansal Physics Study Materials </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-33.Bansal Mathematics Study Materials </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+33. Bansal Mathematics Study Materials </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-34.Resonance Chemistry Study Materials </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+34. Resonance Chemistry Study Materials </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-35.Resonance Physics Study Materials </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+35. Resonance Physics Study Materials </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-36.Resonance Formula Booklet 1 </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+36. Resonance Formula Booklet 1 </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-37.Resonance Formula Booklet 2 </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+37. Resonance Formula Booklet 2 </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-38.DC Pandey Solutions</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+38. DC Pandey Solutions</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 39. FIITJEE Chemistry Study Material</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 

@@ -901,8 +901,11 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
  <li>Coulomb constant (<em>K</em>) = (1/4&pi;&epsilon;<sub>0</sub>) =  8.99 &times; 10 <sup>9</sup> N·m<sup>2</sup>·C<sup>&minus;2</sup></li>
 
 </ul>
+
+
+</br> </br>
  
- 
+ <p> <strong> Periodic Table </strong> </p> </br>
  <table>
   <tr>
  <td>1</td>

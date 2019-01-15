@@ -911,6 +911,14 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
 
 
 
+<html>
+<head>
+<title>Periodic Table</title>
+</head>
+<body>
+
+<br>
+<br>
 
 <center>
 
@@ -941,7 +949,7 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
 
 
 <tr>
-<td> H  </td>
+<td> <sub>1 </sub> H <sup>1.007 </sup> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -958,13 +966,13 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
 <td> </td>
 <td> </td>
 <td> </td>
-<td> He </td>
+<td><sub>2 </sub> He <sup>4.003 </sup></td>
 </tr>
 
 
 <tr>
-<td> Li </td>
-<td> Be </td>
+<td><sub>3 </sub> Li <sup>6.938 </sup></td>
+<td><sub>4 </sub> Be <sup>9.01 </sup></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -975,7 +983,7 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
 <td> </td>
 <td> </td>
 <td> </td>
-<td> B </td>
+<td><sub>5 </sub> B <sup>10.81 </sup></td>
 <td> C </td>
 <td> N </td>
 <td> O </td>
@@ -1162,6 +1170,9 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
 <br>
 
 
+
+</body>
+</html>
 
 
 

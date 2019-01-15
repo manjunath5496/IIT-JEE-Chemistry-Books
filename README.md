@@ -908,56 +908,8 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
 </ul>
  
  
-
-
-<!DOCTYPE html>
-
-<html lang="en">
- <meta charset="UTF-8"/>
- <meta name="viewport" content="width=device-width, user-scalable=no">
- <meta name="theme-color" content="#ee7711">
- <title>PDB search with periodic table</title>
- <script src="data.js"></script>
- <style type="text/css">
-html { width: 100%; font-family: sans-serif; background-color: #fdfdfd; }
-@media (max-width: 600px) { html { width: 600px; } }
-@media (max-width: 800px) { body { margin: 0; } }
-h1 { font-size: 24px; text-align: center; color: #444; margin-bottom: -10px; }
-h2 { font-size: 16px; text-align: center; color: #444; margin-bottom: 2px; }
-h2 span { cursor: pointer; border-style: outset; color: #444;
-          border-width: 2px; padding: 2px; font-weight: normal; }
-h2 span.on { border-style: inset; text-shadow: 1px 1px 0 #444; }
-#detour { font-size: 11px; line-height: 3; text-align: center; color: #333; }
-#footnote { font-size: 10px; text-align: center; color: #333; }
-#periodic { margin: 0 auto; border-spacing: 3px; }
-@media (min-width: 701px) and (max-width: 800px)
-  { #periodic { border-spacing: 2px; } }
-@media (max-width: 700px) { #periodic { border-spacing: 1px; } }
-#periodic tr td { background-color: #f8f8f8; width: 32px; height: 32px;
-                  cursor: pointer; border-style: outset; border-width: 3px; }
-@media (max-width: 700px) { #periodic tr td { border-width: 2px; } }
-#periodic tr td.empty { background-color: transparent; cursor: auto;
-                        border: none; text-align: left; }
-#periodic tr.spacer td { height: 10px; }
-#periodic tr td sup { font-size: 11px; display: block; text-align: center; }
-#periodic tr td { font-size: 15px; text-align: center; position: relative; }
-#periodic tr td.sel { border-style: inset; text-shadow: 1px 1px 1px #222; }
-#periodic tr td.sel sup::before { content: '\25CF'; color: #0f0; font-size: 8px;
-                                  position: absolute; top: -1px; left: 1px; }
-#desc { padding: 0 30px; color: #555; }
-#examples { margin: 0 auto; }
-#examples tr td { background-color: #fff; width: 167px; height: 167px;
-                  font-size: 48px; color: #aaa; text-align: center;
-                  background-size: cover; background-repeat: no-repeat;
-                  background-position: center center; }
-#examples tr td a { display: block; width: 100%; height: 100%;
-                    text-align: left; vertical-align: top;
-                    font-size: 16px; color: #888; text-decoration: none; }
-table.hide_optional tr.optional { display: none; }
- </style>
- <h1>Protein Data Bank entries by&nbsp;elements</h1>
- <table id="periodic">
-  <tr id="p1">
+ <table>
+  <tr>
    <td id="H" title="Hydrogen"><sup>1</sup>H</td>
    <td class="empty" colspan="16"></td>
    <td id="He" title="Helium"><sup>2</sup>He</td>

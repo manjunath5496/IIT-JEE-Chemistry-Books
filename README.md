@@ -817,25 +817,25 @@ F<sub>9</sub> = 22 </br></li>
 
 78. Motion Final Revision Modules</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-79.1300 Math Formulas By Alex Svirin </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+79. 1300 Math Formulas By Alex Svirin </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-80.ALLEN Mathematics Study Materials </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+80. ALLEN Mathematics Study Materials </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 81. ALLEN Chemistry NEET Version Module </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-82.ALLEN Physics Study Materials </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+82. ALLEN Physics Study Materials </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 83. Akash Physics World Question Bank </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-84.Concept Of Modern Physics By Arthur Beiser</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+84. Concept Of Modern Physics By Arthur Beiser</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 85. S. Chand's Numerical Chemistry For Competitions By Sharma K.D </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-86.1000 Solved Problems in Classical Physics By Ahmad A. Kamal</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+86. 1000 Solved Problems in Classical Physics By Ahmad A. Kamal</br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 87. The Pearson Guide to Inorganic Chemistry For the IIT JEE By Atul Singhal </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-88.30 Year NEET MTG PHYSICS </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+88. 30 Year NEET MTG PHYSICS </br> <a href="https://github.com/manjunath5496/Math-Formulas/blob/master/m25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 </br>
 

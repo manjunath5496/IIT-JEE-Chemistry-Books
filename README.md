@@ -912,6 +912,259 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
 
 
 
+<center>
+
+<table border="2">
+
+<caption>Periodic Table of Elements</caption>
+
+<tr>
+<td> 1  </td>
+<td>2 </td>
+<td> 3</td>
+<td>4 </td>
+<td>5 </td>
+<td> 6</td>
+<td>7 </td>
+<td>8 </td>
+<td>9 </td> 
+<td>10 </td>
+<td>11 </td>
+<td>12 </td>
+<td>13 </td>
+<td>14 </td>
+<td>15 </td>
+<td>16 </td>
+<td>17 </td>
+<td>18 </td>
+</tr>
+
+
+<tr>
+<td> H  </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td> 
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> He </td>
+</tr>
+
+
+<tr>
+<td> Li </td>
+<td> Be </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td> 
+<td> </td>
+<td> </td>
+<td> </td>
+<td> B </td>
+<td> C </td>
+<td> N </td>
+<td> O </td>
+<td> F </td>
+<td> Ne </td>
+</tr>
+
+<tr>
+<td> Na </td>
+<td> Mg </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td> 
+<td> </td>
+<td> </td>
+<td> </td>
+<td> Al </td>
+<td> Si </td>
+<td> P </td>
+<td> S </td>
+<td> Cl </td>
+<td> Ar </td>
+</tr>
+
+<tr>
+<td> K </td>
+<td> Ca </td>
+<td> Sc</td>
+<td> Ti</td>
+<td> V </td>
+<td> Cr </td>
+<td> Mn </td>
+<td> Fe </td>
+<td> Co </td>
+<td> Ni </td> 
+<td> Cu </td>
+<td> Zn </td>
+<td> Ga </td>
+<td> Ge </td>
+<td> As </td>
+<td> Se </td>
+<td> Br </td>
+<td> Kr </td>
+</tr>
+
+<tr>
+<td> Rb </td>
+<td> Sr </td>
+<td> Y </td>
+<td> Zr </td>
+<td> Nb </td>
+<td> Mo </td>
+<td> Tc </td>
+<td> Ru </td>
+<td> Rh </td>
+<td> Pd </td>
+<td> Ag </td>
+<td> Cd </td>
+<td> In </td>
+<td> Sn </td>
+<td> Sb </td>
+<td> Te </td>
+<td> I </td>
+<td> Xe </td>
+</tr>
+
+<tr>
+<td> Cs </td>
+<td> Ba </td>
+<td> </td>
+<td> Hf </td>
+<td> Ta </td>
+<td> W </td>
+<td> Re </td>
+<td> Os </td>
+<td> Ir </td>
+<td> Pt </td>
+<td> Au </td>
+<td> Hg </td>
+<td> Ti </td>
+<td> Pb </td>
+<td> Bi </td>
+<td> Po </td>
+<td> At </td>
+<td> Rn </td>
+</tr>
+
+<tr>
+<td> Fr </td>
+<td> Ra </td>
+<td> </td>
+<td> Rf </td>
+<td> Db </td>
+<td> Sg </td>
+<td> Bh </td>
+<td> Hs </td>
+<td> Mt </td>
+<td> Ds </td>
+<td> Rg </td>
+<td> Cn </td>
+<td> Uut </td>
+<td> Uuq </td>
+<td> UuP </td>
+<td> Uuh </td>
+<td> Uus </td>
+<td> Uuo </td>
+</tr>
+
+
+
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> La </td>
+<td> Ce </td>
+<td> Pr </td>
+<td> Nd </td>
+<td> Pm </td>
+<td> Sm </td>
+<td> Eu </td>
+<td> Gd </td>
+<td> Tb </td>
+<td> Dy </td>
+<td> Ho </td>
+<td> Er </td>
+<td> Tm </td>
+<td> Yb </td>
+<td> Lu </td>
+</tr>
+
+
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> Ac </td>
+<td> Th </td>
+<td> Pa </td>
+<td> U </td>
+<td> Np </td>
+<td> Pu </td>
+<td> Am </td>
+<td> Cm </td>
+<td> Bk </td>
+<td> Cf </td>
+<td> Es </td>
+<td> Fm </td>
+<td> Md </td>
+<td> No </td>
+<td> Lr </td>
+</tr>
+
+</table>
+
+</center>
+
+<br>
+<br>
+
+
+
+
+
 
 
 

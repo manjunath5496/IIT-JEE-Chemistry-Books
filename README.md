@@ -203,7 +203,7 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
    <li> Volume of a pyramid  = 	&#8531; &times; base &times; height </li>
    <li> Volume of a cylinder  =  pi &times; (radius of the circle of the base)<sup>2</sup> &times; height </li>
    
-  <li> Volume of a triangular prism  =  area of triangle  &times; height = (&frac12; &times;base &times; height) &times; height </li>
+  <li> Volume of a triangular prism  =  area of triangle  &times; height = (&frac12; &times; base &times; height) &times; height </li>
    <li> Diagonal  of a cube  = (square root of 3) &times; length </li>
    <li> Diagonal  of a rectangle  = square root of (length<sup>2</sup>  &plus; width<sup>2</sup>)</li>
    <li> Total surface area of a cube  = 6 &times; length<sup>2</sup>  </li>

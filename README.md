@@ -206,7 +206,7 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
   <li> Volume of a triangular prism  =  area of triangle  &times; height = (&frac12; &times;base &times; height) &times; height </li>
    <li> Diagonal  of a cube  = (square root of 3) &times; length </li>
    <li> Diagonal  of a rectangle  = square root of (length<sup>2</sup>  &plus; width<sup>2</sup>)</li>
-   <li> Total surface area of a cube  = 6 &times;length<sup>2</sup>  </li>
+   <li> Total surface area of a cube  = 6 &times; length<sup>2</sup>  </li>
     <li> Perimeter of a circle  = 2 &times; pi  &times; radius </li>
    
    <li> Perimeter of a square  = 4 &times; length </li>

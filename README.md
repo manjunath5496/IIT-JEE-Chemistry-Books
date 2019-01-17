@@ -193,6 +193,8 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
    <li> Area of a circle  = pi &times; square of radius </li>
    <li> Circumference of a circle  = 2 &times; pi &times; radius </li>
    <li> Circumference of a circle  = pi &times; diameter </li>
+   <li>Area of sector = (θ/360<sup>o</sup>) (pi &times; radius <sup>2</sup>)     </li>
+   <li> Length of an arc = (θ/360<sup>o</sup>) (2 &times; pi &times; radius)      </li>
   <li> Area of a sphere  = 4 &times; pi &times; square of radius </li>
   <li> Area of a square  = length &times; length = length<sup>2</sup> </li>
   <li> Area of an Octagon  = 2 &times; (length of any one side of the octagon) <sup>2</sup> &times; (1 &plus; {square root of 2})</li>
@@ -648,7 +650,32 @@ F<sub>9</sub> = 22 </br></li>
 
 <li> Rate of capability (C<sub>p</sub>) = (upper specification limit &minus; lower specification limit) / (6 &times; standard deviation) </li>
 
-<li>Chi Square (X <sup>2</sup>) = &Sigma; {(Observed frequency &minus; Expected frequency) <sup>2</sup> / Expected frequency}  </li>
+<li> Distance moved by a wheel in one revolution = Circumference of the wheel. </li>
+
+<li> Number of revolutions = (Total distance moved / Circumference of the wheel)  </li>
+
+<li> <strong> Measures of Central Tendency      </strong> </br>
+
+For un-grouped data </br>
+
+Arithmetic Mean = (Sum of observations / No of observations) </br>
+
+Mode = The most frequently occurred value of the raw data.</br>
+
+
+
+
+
+
+
+
+
+
+</li>
+
+
+
+
 
 
 

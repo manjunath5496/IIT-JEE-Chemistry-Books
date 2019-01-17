@@ -689,7 +689,23 @@ Cohen's index = (Mean of first observation &minus; Mean of second observation) /
 <li> Effect-size coefficient = (Cohen's index) / square root of ({Cohen's index} <sup>2</sup> &plus; 4) </li>
  
 
+<li> <strong> One Sample T Test Formula   </strong> </br>
 
+Number of degrees of freedom = (number of values in the data set) &minus; 1 </li>
+
+<li> <strong> Two Sample T Test Formula   </strong> </br>
+
+Number of degrees of freedom = (number of values in the data set 1  &plus; number of values in the data set 2) &minus; 2 </li>
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
 
 
 

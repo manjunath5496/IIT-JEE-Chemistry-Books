@@ -180,6 +180,14 @@ If (b<sup>2</sup> &minus; 4ac) is the discriminant, then the roots are </br>
      
    Total compounded interest = principal amount {1  &plus; (r/n)} <sup>nt</sup> &minus; principal amount</br>
      where n : the number of times that interest is compounded per year, r : the annual interest rate and t : the number of years the money is borrowed for
+     </br>
+When interest is only compounded once per year (n=1), the equation simplifies to: </br>
+ Total compounded interest = principal amount {1  &plus; r} <sup>t</sup> &minus; principal amount 
+   </br>  
+When interest is compounded continually (i.e. n &#8594; &infin;), the compound interest equation takes the form:     
+  Total compounded interest = {principal amount e <sup>rt</sup>} &minus; principal amount    
+     
+     
 
 </li>
      <li>   Discount = list price &times; discount rate </li>

@@ -686,6 +686,9 @@ Arithmetic Mean =  (Sum of the product of frequencies and corresponding observat
 Cohen's index = (Mean of first observation &minus; Mean of second observation) / square root of ({Standard deviation of first observation <sup>2</sup> &plus; Standard deviation of second observation <sup>2</sup>} /2) </li>
  
 
+<li> Effect-size coefficient = (Cohen's index) / square root of ({Cohen's index} <sup>2</sup> &plus; 4) </li>
+ 
+
 
 
 

@@ -854,7 +854,28 @@ b &plus; c &gt; a </br>
 
 <li>Area of a rhombus =  (length of any side)<sup>2</sup> &times; sin(any interior angle) </li>
 
-<li>Area of a regular polygon = &frac12; &times; apothem &times; perimeter</li>
+<li>Area of a regular polygon = &frac12; &times; apothem &times; perimeter
+
+</br>
+
+The number of degrees in a circle is 360
+
+The number of radians in a circle is 2&pi;
+
+The number of degrees in a triangle is 180
+
+
+
+
+
+</li>
+
+
+
+
+
+
+
 
 
 </ul>

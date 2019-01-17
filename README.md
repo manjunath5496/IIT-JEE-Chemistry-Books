@@ -873,7 +873,18 @@ The number of degrees in a triangle is 180
 
 
 
+<li> Half Life = (0.693 / disintegration constant) </li>
 
+
+<li> Volume of a Parallelepiped = area of the bottom &times; height </li>
+
+
+<li> Area of a Tangential quadrilateral =  square root of (a &times; b &times; c &times; d), where a, b, c and d are the lengths of the sides     </li>
+
+<li> Area of a Tangential quadrilateral =  (radius of inscribed circle &times; semi-perimeter), where semi-perimeter = &frac12; &times;
+(a &plus; b &plus; c &plus; d)
+
+</li>
 
 
 

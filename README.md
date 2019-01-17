@@ -712,8 +712,7 @@ Rotation 270<sup>o</sup> : R<sub>270 degree</sub> (x, y) = (&minus;x, y) </br>
 
 
 <li><strong> Powers of Ten</strong> </br>
- 
- billions</br>
+billions</br>
 10<sup>9</sup> = 1,000,000,000 </br>
 10 &times; 10 &times; 10 &times; 10 &times; 10 &times; 10 &times; 10 &times; 10 &times; 10 = 1,000,000,000 </br>
 millions </br>
@@ -734,22 +733,32 @@ hundreds</br>
 tens</br>
 10<sup>1</sup> = 10</br>
 ones</br>
-100 = 1</br>
+10<sup>0</sup> = 1</br>
 tenths
-10<sup>–1</sup> = 1/10
+10<sup>&minus;1</sup> = 1/10
 1/10 = 0.1
- 
- 
- 
- 
- 
+hundredths
+10<sup>&minus;2</sup> = 1/10<sup>2</sup>
+1/10<sup>2</sup> = 0.01
+thousandths
+10<sup>&minus;3</sup> = 1/10<sup>3</sup>
+1/10<sup>3</sup> = 0.001
+ten thousandths
+10<sup>&minus;4</sup> = 1/10<sup>4</sup>
+1/10<sup>4</sup> = 0.0001
+hundred thousandths
+10<sup>&minus;5</sup> = 1/10<sup>5</sup>
+1/10<sup>5</sup> = 0.00001
+millionths
+10<sup>&minus;6</sup> = 1/10<sup>6</sup>
+1/10<sup>6</sup> = 0.000001
+billionths
+10<sup>&minus;9</sup> = 1/10<sup>9</sup>
+1/10<sup>9</sup> = 0.000000001 
+
  </li>
 
 
-
-
- 
- 
  <li>Margin of error = critical value &times;  standard deviation</li>
  
  <li> <strong> Side Angle Side Formula</strong>

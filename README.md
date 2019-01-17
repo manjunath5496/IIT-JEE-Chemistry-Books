@@ -707,6 +707,47 @@ Rotation 270<sup>o</sup> : R<sub>270 degree</sub> (x, y) = (&minus;x, y) </br>
 </li>
 
 <li>8 &times; 10 <sup>2</sup> = 800</li> 
+
+<li>7.3 &times; 10 <sup>&minus;6</sup> = 0.0000073   </li>
+
+
+<li><strong> Powers of Ten</strong> </br>
+ 
+ billions</br>
+10<sup>9</sup> = 1,000,000,000 </br>
+10 &times; 10 &times; 10 &times; 10 &times; 10 &times; 10 &times; 10 &times; 10 &times; 10 = 1,000,000,000 </br>
+millions </br>
+10<sup>6</sup> = 1,000,000 </br>
+10 &times; 10 &times; 10 &times; 10 &times; 10 &times; 10 = 1,000,000</br>
+hundred thousands</br>
+10<sup>5</sup> = 100,000</br>
+10 &times; 10 &times; 10 &times; 10 &times; 10 = 100,000</br>
+ten thousands</br>
+10<sup>4</sup> = 10,000</br>
+10 &times; 10 &times; 10 &times; 10 = 10,000</br>
+thousands</br>
+10<sup>3</sup> = 1,000</br>
+10 &times; 10 &times; 10 = 1,000</br>
+hundreds</br>
+10<sup>2</sup> = 100</br>
+10 &times; 10 = 100</br>
+tens</br>
+10<sup>1</sup> = 10</br>
+ones</br>
+100 = 1</br>
+tenths
+10<sup>–1</sup> = 1/10
+1/10 = 0.1
+ 
+ 
+ 
+ 
+ 
+ </li>
+
+
+
+
  
  
  <li>Margin of error = critical value &times;  standard deviation</li>

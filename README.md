@@ -844,6 +844,15 @@ b &plus; c &gt; a </br>
 
 <li> e <sup>ix</sup> = cosx &plus; isinx </li>
 
+<li>Area of a triangle = square root of { s(s&minus;a)(s&minus;b)(s&minus;c) } , where a, b, c are the lengths of the sides and s = &frac12; (a &plus; b &plus; c) (s represents the semi-perimeter of the triangle)
+
+</li>
+
+<li> Area of a trapezoid = &frac12;h(b<sub>1</sub> &plus; b<sub>2</sub>), where h = height, b<sub>1</sub> and b<sub>2</sub> are parallel sides  </li>
+
+<li> Area of a rhombus = &frac12;d<sub>1</sub>d<sub>2</sub>, where d<sub>1</sub> and d<sub>2</sub> are the lengths of the diagonals  </li>
+
+<li>Area of a rhombus =  (length of any side)<sup>2</sup> sin(any interior angle) </li>
 
 
 

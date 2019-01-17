@@ -289,7 +289,7 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
    <li> (a / b) <sup>n</sup> =  a <sup>n</sup> / b <sup>n</sup></li>
   
   
-   <li> a &#8729; a<sup>&minus;1</sup>  =  1 </li>
+   <li> a &#8729; a<sup>&minus;1</sup>  =  1 , a &ne; 0 </li>
   <li> a &#8729; (b &plus; c)  =  a &#8729; b &plus; a &#8729; c </li>
   
    <li> a &#8729; (b &#8729; c)  =  (a &#8729; b) &#8729; c </li>
@@ -833,6 +833,12 @@ b &plus; c &gt; a </br>
 <li>Natural Numbers: {1, 2, 3, ......}   </li>
 <li>Whole Numbers: {0, 1, 2, 3, ......}   </li>
 <li>Integers: {..., &minus;3, &minus;2, &minus;1, 0, 1, 2, 3, ...}  </li>
+
+<li> Complex conjugate of 3 &plus; 4i is 3 &minus; 4i </li>
+
+<li> 1 / {r (cos&phi; &plus; isin&phi;)} = {1 / r} &times; [cos(&minus; &phi;) &plus; isin(&minus; &phi;)]   </li>
+
+
 
 
 

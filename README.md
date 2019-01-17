@@ -818,7 +818,7 @@ b &plus; c &gt; a </br>
 
 </li>
 
-
+<li>Total Cost = (Number of Units) &times; (Price per Unit)    </li>
 
 
 

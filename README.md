@@ -187,6 +187,11 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
      
   <li> Area of a triangle = &frac12; &times;base &times; height </li>
   <li> Area of a equilateral triangle = {(square root of 3) / 4} &times; (side) <sup>2</sup> </li>
+  
+   <li>Semi Perimeter of a equilateral triangle = {3 &times; side} /2  </li>
+  
+   <li>Height of a equilateral triangle = {(square root of 3) / 2} &times; side  </li>
+ 
 <li> Area of a rectangle = length &times; width </li>
 <li> Area of a trapezoid = &frac12; &times; sum of bases &times; height </li>
   <li> Area of a Parallelogram  = base &times; height </li>

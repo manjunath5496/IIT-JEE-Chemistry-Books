@@ -852,7 +852,7 @@ b &plus; c &gt; a </br>
 
 <li> Area of a rhombus = &frac12;d<sub>1</sub>d<sub>2</sub>, where d<sub>1</sub> and d<sub>2</sub> are the lengths of the diagonals  </li>
 
-<li>Area of a rhombus =  (length of any side)<sup>2</sup> sin(any interior angle) </li>
+<li>Area of a rhombus =  (length of any side)<sup>2</sup> &times; sin(any interior angle) </li>
 
 
 

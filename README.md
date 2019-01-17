@@ -842,6 +842,9 @@ b &plus; c &gt; a </br>
 <li> {(cos&phi;<sub>1</sub> &plus; isin&phi;<sub>1</sub>) / (cos&phi;<sub>2</sub> &plus; isin&phi;<sub>2</sub>)}  = 
  [cos(&phi;<sub>1</sub> &minus; &phi;<sub>2</sub>) &plus; isin(&phi;<sub>1</sub> &minus; &phi;<sub>2</sub>)]   </li>
 
+<li> e <sup>ix</sup> = cosx &plus; isinx </li>
+
+
 
 
 </ul>

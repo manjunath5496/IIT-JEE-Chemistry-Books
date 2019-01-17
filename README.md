@@ -682,7 +682,8 @@ Arithmetic Mean =  (Sum of the product of frequencies and corresponding observat
 
 <li> Length of a chord of a circle  = 2 &times; square root of (radius<sup>2</sup> &minus; {perpendicular distance from the chord to the circle center}<sup>2</sup>) </li>
  
- 
+<li>
+Cohen's index = (Mean of first observation &minus; Mean of second observation) / square root of ({Standard deviation of first observation <sup>2</sup> &plus; Standard deviation of second observation <sup>2</sup>} /2) </li>
  
 
 

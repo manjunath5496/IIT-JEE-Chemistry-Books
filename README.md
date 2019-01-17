@@ -821,7 +821,7 @@ b &plus; c &gt; a </br>
 <li>Total Cost = (Number of Units) &times; (Price per Unit)    </li>
 
 <li>The distance between two points (x<sub>1</sub>, y<sub>1</sub>) and (x<sub>2</sub>, y<sub>2</sub>) =
- square root of ({x<sub>2</sub>  &minus; x<sub>1</sub>} <sup>2</sup> &plus; {y<sub>2</sub>  &minus; y<sub>1</sub>} <sup>2</sup> )
+ square root of ( {x<sub>2</sub>  &minus; x<sub>1</sub>} <sup>2</sup> &plus; {y<sub>2</sub>  &minus; y<sub>1</sub>} <sup>2</sup> )
 
 
 

@@ -701,7 +701,7 @@ Rotation 180<sup>o</sup> : R<sub>180 degree</sub> (x, y) = (&minus;x, &minus;y) 
 Rotation 270<sup>o</sup> : R<sub>270 degree</sub> (x, y) = (&minus;x, y) </br>
 </li>
 
- 
+<li>8 &times; 10 <sup>2</sup> = 800</li> 
  
  
  

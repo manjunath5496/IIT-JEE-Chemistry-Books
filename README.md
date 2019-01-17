@@ -717,7 +717,19 @@ Rotation 270<sup>o</sup> : R<sub>270 degree</sub> (x, y) = (&minus;x, y) </br>
  
  </li>
  
+ <li> <strong>Quartile Formula </strong></br>
  
+Lower quartile (Q<sub>1</sub>) = ({n &plus; 1} /4) <sup>th</sup> Term </br>
+ 
+Second quartile (Q<sub>2</sub>) = ({n &plus; 1} /2) <sup>th</sup> Term </br>
+ 
+Upper quartile (Q<sub>3</sub>) = ([3 {n &plus; 1}] /4) <sup>th</sup> Term </br>
+
+Inter quartile range = Q<sub>3</sub> &minus; Q<sub>1</sub> </br>
+
+n : number of values in the data set
+
+ </li>
  
  
 

@@ -828,6 +828,9 @@ b &plus; c &gt; a </br>
   </li>
 
 
+<li> y = mx &plus; b, where m is the slope and b is the y-intercept        </li>
+
+
 
 
 

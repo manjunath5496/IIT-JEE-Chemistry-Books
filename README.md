@@ -836,10 +836,11 @@ b &plus; c &gt; a </br>
 
 <li> Complex conjugate of 3 &plus; 4i is 3 &minus; 4i </li>
 
-<li> 1 / {r (cos&phi; &plus; isin&phi;)} = {1 / r} &times; [cos(&minus; &phi;) &plus; isin(&minus; &phi;)]   </li>
+<li> 1 / (cos&phi; &plus; isin&phi;) = [cos(&minus; &phi;) &plus; isin(&minus; &phi;)]   </li>
 
-<li> {r (cos&phi; &plus; isin&phi;)} <sup>n</sup> = r<sup>n</sup> &times; [cos(n&phi;) &plus; isin(n&phi;)]   </li>
-
+<li> (cos&phi; &plus; isin&phi;) <sup>n</sup> = [cos(n&phi;) &plus; isin(n&phi;)]   </li>
+<li> {(cos&phi;<sub>1</sub> &plus; isin&phi;<sub>1</sub>) / (cos&phi;<sub>2</sub> &plus; isin&phi;<sub>2</sub>)}  = 
+ [cos(&phi;<sub>1</sub> &minus; &phi;<sub>2</sub>) &plus; isin(&phi;<sub>1</sub> &minus; &phi;<sub>2</sub>)]   </li>
 
 
 

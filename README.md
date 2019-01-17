@@ -35,10 +35,11 @@ a<sup>-m</sup> = 1 / a<sup>m</sup> <br />
  <li style="text-align: left;"><strong>Quadratic Equation: </strong> <em>ax</em><sup>2</sup> + <em>bx</em> + <em>c</em> = 0 <br />
  <strong>Quadratic Formula: </strong><img src="quadratic_ formula.png" alt="quadratic formula" height="42" width="125">
  
- 
- 
- 
- 
+ </br>
+If (b<sup>2</sup> &minus; 4ac) is the discriminant, then the roots are </br>
+(i) real and unique if (b<sup>2</sup> &minus; 4ac) &gt; 0 </br>
+(ii) real and equal if (b<sup>2</sup> &minus; 4ac) = 0 </br>
+(iii) complex conjugate if (b<sup>2</sup> &minus; 4ac) &lt; 0 </br>
  
  
  </li>

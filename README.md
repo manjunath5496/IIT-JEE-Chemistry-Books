@@ -690,9 +690,21 @@ Number of degrees of freedom = (number of values in the data set) &minus; 1 </li
 <li> <strong> Two Sample T Test Formula   </strong> </br>
 Number of degrees of freedom = (number of values in the data set 1  &plus; number of values in the data set 2) &minus; 2 </li>
 
+<li> <strong> Two Sample T Test Formula   </strong> </br>
+Number of degrees of freedom = (number of values in the data set 1  &plus; number of values in the data set 2) &minus; 2 </li>
 
+<li>Relative standard deviation = (Standard deviation &times; 100) / Mean of the data </li>
 
+<li><strong> Rotation formula</strong> </br>
 
+Rotation 90<sup>o</sup> : R<sub>90 degree</sub> (x, y) = (&minus;y, x) </br>
+Rotation 180<sup>o</sup> : R<sub>180 degree</sub> (x, y) = (&minus;x, &minus;y) </br>
+Rotation 270<sup>o</sup> : R<sub>270 degree</sub> (x, y) = (&minus;x, y) </br>
+ 
+ 
+ 
+ 
+ </li>
 
  
  

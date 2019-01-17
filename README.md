@@ -830,6 +830,8 @@ b &plus; c &gt; a </br>
 
 <li> y = mx &plus; b, where m is the slope of the line and b is the y-intercept of the line, or the y-coordinate of the point at which the line crosses the y-axis.   </li>
 
+<li>Natural Numbers: {1, 2, 3, ......}   </li>
+<li>Whole Numbers: {0, 1, 2, 3, ......}   </li>
 
 
 

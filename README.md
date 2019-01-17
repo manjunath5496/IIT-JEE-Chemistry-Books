@@ -676,6 +676,16 @@ Arithmetic Mean =  (Sum of the product of frequencies and corresponding observat
 
 <li>  Portfolio standard deviation = square root of (Portfolio variance) </li>
 
+<li> Angle of a segment in a circle = (arc length &times; 360) / (2 &times; pi &times; radius) </li>
+
+<li> Length of a chord of a circle  = 2 &times; radius &times; sin (angle subtended at the center by the chord /2) </li>
+
+<li> Length of a chord of a circle  = 2 &times; square root of (radius<sup>2</sup> &minus; {perpendicular distance from the chord to the circle center}<sup>2</sup>) </li>
+ 
+ 
+ 
+
+
 
 
 

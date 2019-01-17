@@ -669,6 +669,13 @@ Arithmetic Mean =  (Sum of the product of frequencies and corresponding observat
 <li>Sampling error = &plusmn; square root of (2500 / sample size) &times; 1.96  </li>
 
 
+<li>Portfolio variance = (weight of the asset 1 &times; variance of the asset 1) &plus; (weight of the asset 2 &times; variance of the asset 2) &plus; 2 (weight of the asset 1 &times; weight of the asset 2 &times; covariance between assets 1 and 2) </li>
+
+
+
+
+
+
 
 
 

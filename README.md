@@ -664,10 +664,18 @@ Median = [(N / 2) &plus; (N &plus; 1)/2)] / 2, in case of the data is having eve
 For grouped data </br>
 Arithmetic Mean =  (Sum of the product of frequencies and corresponding observations / Sum of all the frequencies)
 
-
-
-
 </li>
+
+<li>Sampling error = &plusmn; square root of (2500 / sample size) &times; 1.96  </li>
+
+
+
+
+
+
+
+
+
 
 
 

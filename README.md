@@ -838,6 +838,7 @@ b &plus; c &gt; a </br>
 
 <li> 1 / {r (cos&phi; &plus; isin&phi;)} = {1 / r} &times; [cos(&minus; &phi;) &plus; isin(&minus; &phi;)]   </li>
 
+<li> {r (cos&phi; &plus; isin&phi;)} <sup>n</sup> = r<sup>n</sup> &times; [cos(n&phi;) &plus; isin(n&phi;)]   </li>
 
 
 

@@ -672,6 +672,9 @@ Arithmetic Mean =  (Sum of the product of frequencies and corresponding observat
 <li>Portfolio variance = (weight of the asset 1 &times; variance of the asset 1) &plus; (weight of the asset 2 &times; variance of the asset 2) &plus; 2 (weight of the asset 1 &times; weight of the asset 2 &times; covariance between assets 1 and 2) </li>
 
 
+<li>Correlation between assets 1 and 2 = (covariance between assets 1 and 2) / (standard deviation of asset 1 &times; standard deviation of asset 2)</li>
+
+<li>  Portfolio standard deviation = square root of (Portfolio variance) </li>
 
 
 

@@ -832,7 +832,7 @@ b &plus; c &gt; a </br>
 
 <li>Natural Numbers: {1, 2, 3, ......}   </li>
 <li>Whole Numbers: {0, 1, 2, 3, ......}   </li>
-
+<li>Integers: {..., &minus;3, &minus;2, &minus;1, 0, 1, 2, 3, ...}  </li>
 
 
 

@@ -756,11 +756,16 @@ Altitude of an Isosceles Triangle = square root of (a<sup>2</sup> &minus; {b<sup
 </li>
 
 
+ <li>   <strong> Triangle Inequality Theorem </strong>
+ <img src="triangle-inequality-theorem.gif" alt="Triangle Inequality Theorem" height="100" width="145"> </br>
 
+a &plus; b &gt; c </br>
 
+a &plus; c &gt; b </br>
 
+b &plus; c &gt; a </br>
 
-
+</li>
 
 
 

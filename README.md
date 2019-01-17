@@ -828,7 +828,7 @@ b &plus; c &gt; a </br>
   </li>
 
 
-<li> y = mx &plus; b, where m is the slope and b is the y-intercept        </li>
+<li> y = mx &plus; b, where m is the slope of the line and b is the y-intercept of the line, or the y-coordinate of the point at which the line crosses the y-axis.   </li>
 
 
 

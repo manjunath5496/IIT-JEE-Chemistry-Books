@@ -658,13 +658,12 @@ F<sub>9</sub> = 22 </br></li>
 
 For un-grouped data </br>
 
-Arithmetic Mean = (Sum of observations / No of observations) </br>
+Arithmetic Mean = (Sum of observations / Number of observations) </br>
 
 Mode = The most frequently occurred value of the raw data.</br>
 
-
-
-
+Median = (N &plus; 1)/2, in case of the data is having odd no of observations </br>
+Median = [(N / 2) &plus; (N &plus; 1)/2)] / 2, in case of the data is having even number of observations.
 
 
 

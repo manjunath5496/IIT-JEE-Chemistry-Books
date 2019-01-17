@@ -731,9 +731,24 @@ n : number of values in the data set
 
  </li>
  
+ <li> <strong>Double Time Formula </strong></br>
  
+Doubling time = log2 / log(1 &plus; content growth rate) 
+
+ </li>
+ 
+ <li>   <strong> Isosceles Triangle Formulas</strong>
+ <img src="isosceles-triangle.png" alt="Isosceles Triangle Formula" height="214" width="223"> </br>
+
+Area of an Isosceles Triangle = &frac12; &times; b &times; h </br>
+Perimeter of an Isosceles Triangle = 2a &plus; b </br>
+Altitude of an Isosceles Triangle = square root of (a<sup>2</sup> &minus; {b<sup>2</sup> /4}) </br>
 
 
+
+
+
+</li>
 
 
 

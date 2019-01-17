@@ -704,6 +704,20 @@ Rotation 270<sup>o</sup> : R<sub>270 degree</sub> (x, y) = (&minus;x, y) </br>
 <li>8 &times; 10 <sup>2</sup> = 800</li> 
  
  
+ <li>Margin of error = critical value &times;  standard deviation</li>
+ 
+ <li> <strong> Side Angle Side Formula</strong>
+ <img src="side.png" alt="Side Angle Side Formula" height="204" width="321"> </br>
+ 
+ Area = (ab sinC) /2 
+ 
+ 
+ 
+ 
+ 
+ </li>
+ 
+ 
  
  
 

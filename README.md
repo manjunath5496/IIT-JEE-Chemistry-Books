@@ -968,8 +968,8 @@ The number of degrees in a triangle is 180
   <li> If 0 &lt; a &lt; b, then a<sup>1/n</sup> &lt; b<sup>1/n</sup>  </li>
   <li> If ax &plus; b &gt; 0  and a &gt; 0, then x &gt; &minus; (b/a)  </li>
   <li> If ax &plus; b &gt; 0  and a &lt; 0, then x &lt; &minus; (b/a)  </li>
- 
- 
+ <li> cos (sin<sup>&minus;1</sup> x) = (1 &minus; x<sup>2</sup>)<sup>1/2</sup>      </li>
+  <li> tan (sin<sup>&minus;1</sup> x) = x / (1 &minus; x<sup>2</sup>)<sup>1/2</sup>      </li>
  
  
  

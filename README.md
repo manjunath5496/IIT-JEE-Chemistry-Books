@@ -966,8 +966,8 @@ The number of degrees in a triangle is 180
  <li> If 0 &lt; a &lt; b and n &gt; 0, then a<sup>n</sup> &lt; b<sup>n</sup>  </li>
   <li> If 0 &lt; a &lt; b and n &lt; 0, then a<sup>n</sup> &gt; b<sup>n</sup>  </li>
   <li> If 0 &lt; a &lt; b, then a<sup>1/n</sup> &lt; b<sup>1/n</sup>  </li>
- 
- 
+  <li> If ax &plus; b &gt; 0  and a &gt; 0, then x &gt; &minus (b/a)  </li>
+  <li> If ax &plus; b &gt; 0  and a &lt; 0, then x &lt; &minus (b/a)  </li>
  
  
  

@@ -969,7 +969,8 @@ The number of degrees in a triangle is 180
   <li> If ax &plus; b &gt; 0  and a &gt; 0, then x &gt; &minus; (b/a)  </li>
   <li> If ax &plus; b &gt; 0  and a &lt; 0, then x &lt; &minus; (b/a)  </li>
  <li> cos (sin<sup>&minus;1</sup> x) = (1 &minus; x<sup>2</sup>)<sup>1/2</sup>      </li>
-  <li> cot (sin<sup>&minus;1</sup> x) =  (1 &minus; x<sup>2</sup>)<sup>1/2 / x</sup>      </li>
+ <li> tan (sin<sup>&minus;1</sup> x) = x / (1 &minus; x<sup>2</sup>)<sup>1/2</sup>     </li>
+  <li> cot (sin<sup>&minus;1</sup> x) =  (1 &minus; x<sup>2</sup>)<sup>1/2</sup> / x     </li>
   <li> sec (sin<sup>&minus;1</sup> x) = 1 / (1 &minus; x<sup>2</sup>)<sup>1/2 </sup>      </li>
   <li> cosec (sin<sup>&minus;1</sup> x) = 1 / x </sup>      </li>
  

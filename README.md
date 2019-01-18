@@ -962,6 +962,16 @@ The number of degrees in a triangle is 180
 <li> If a &gt; b and m &gt; 0, then ma &gt; mb  </li>
  <li> If a &gt; b and m &gt; 0, then (a / m) &gt; (b / m)  </li>
  <li> If a &gt; b and m &lt; 0, then ma &lt; mb  </li>
+ <li> If a &gt; b and m &lt; 0, then (a / m) &lt; (b / m)  </li>
+ <li> If 0 &lt; a &lt; b and n &gt; 0, then a<sup>n</sup> &lt; b<sup>n</sup>  </li>
+  <li> If 0 &lt; a &lt; b and n &lt; 0, then a<sup>n</sup> &gt; b<sup>n</sup>  </li>
+  <li> If 0 &lt; a &lt; b, then a<sup>1/n</sup> &lt; b<sup>1/n</sup>  </li>
+ 
+ 
+ 
+ 
+ 
+ 
  
  
 </ul>

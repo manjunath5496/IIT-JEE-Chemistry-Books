@@ -957,6 +957,13 @@ The number of degrees in a triangle is 180
  <li> cos<sup>&minus;1</sup> x = arccosx  </li>
  <li> tan<sup>&minus;1</sup> x = arctanx  </li>
  
+ <li> If a &gt; b, then b &lt; a  </li>
+ <li> If a &gt; b, then (a &minus; b) &gt; 0 or (b &minus; a) &lt; 0  </li>
+
+ 
+ 
+ 
+ 
 </ul>
 
 </br> 

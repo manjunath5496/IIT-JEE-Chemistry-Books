@@ -159,7 +159,23 @@ If (b<sup>2</sup> &minus; 4ac) is the discriminant, then the roots are </br>
  
   </li>
   
-   <li>sinA &#8729; cosB = [sin(A&plus;B) &plus; sin(A&minus;B)] /2     </li>
+  <li> <strong> Mollweide's Formula</strong> </br>
+ (a &plus; b) /c =  {cos&frac12; (A &minus; B) / sin&frac12; C}  </li>
+  
+   <li> <strong> Law of Tangents</strong> </br>
+ (a &minus; b) / (a &plus; b) =  {tan&frac12; (A &minus; B) / tan&frac12; (A &plus; B)}  </br>
+ (b &minus; c) / (b &plus; c) =  {tan&frac12; (B &minus; C) / tan&frac12; (B &plus; C)}</br>
+ (a &minus; c) / (a &plus; c) =  {tan&frac12; (A &minus; C) / tan&frac12; (A &plus; C)}</br>
+ 
+ </li>
+  
+  
+  
+  
+  
+  
+  
+  <li>sinA &#8729; cosB = [sin(A&plus;B) &plus; sin(A&minus;B)] /2     </li>
   
    <li>cosA &#8729; cosB = [cos(A&plus;B) &plus; cos(A&minus;B)] /2     </li>
   

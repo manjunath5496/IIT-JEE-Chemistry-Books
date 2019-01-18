@@ -924,6 +924,19 @@ The number of degrees in a triangle is 180
  <li>cosec (&omega;&theta;) &rArr; T = (2&pi; / &omega;) </li>
  <li>sec (&omega;&theta;) &rArr; T = (2&pi; / &omega;) </li>
   <li>cot (&omega;&theta;) &rArr; T = (&pi; / &omega;) </li>
+ <li> sin&theta; = &plusmn; square root of {[1 &minus; cos(2&theta;)] /2}  </li>
+ <li> cos&theta; = &plusmn; square root of {[1 &plus; cos(2&theta;)] /2}  </li>
+ <li> tan&theta; = &plusmn; square root of {[1 &minus; cos(2&theta;)] / [1 &plus; cos(2&theta;)]}  </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
 </ul>

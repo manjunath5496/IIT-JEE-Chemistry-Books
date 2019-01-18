@@ -901,8 +901,10 @@ The number of degrees in a triangle is 180
 <li>sec<sup>&minus;1</sup> (sec x) = x </li>
 <li>cot<sup>&minus;1</sup> (cot x) = x </li>
 <li>sin<sup>&minus;1</sup> (1/x) = cosec<sup>&minus;1</sup> (x)</li>
-
-
+<li>cos<sup>&minus;1</sup> (1/x) = sec<sup>&minus;1</sup> (x)</li>
+<li>tan<sup>&minus;1</sup> (1/x) = cot<sup>&minus;1</sup> (x) ,  x &gt; 0</li>
+<li>tan<sup>&minus;1</sup> (1/x) = {&minus;&pi; &plus; cot<sup>&minus;1</sup> (x)} ,  x &lt; 0</li>
+<li>sin<sup>&minus;1</sup> (&minus;x) = &minus;sin<sup>&minus;1</sup> (x)
 
 </ul>
 

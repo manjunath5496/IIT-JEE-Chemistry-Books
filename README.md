@@ -927,17 +927,12 @@ The number of degrees in a triangle is 180
  <li> sin&theta; = &plusmn; square root of {[1 &minus; cos(2&theta;)] /2}  </li>
  <li> cos&theta; = &plusmn; square root of {[1 &plus; cos(2&theta;)] /2}  </li>
  <li> tan&theta; = &plusmn; square root of {[1 &minus; cos(2&theta;)] / [1 &plus; cos(2&theta;)]}  </li>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ <li> sin(&theta; &plus; 2&pi;n) = sin &theta; , where n is an integer</li>
+ <li> cos(&theta; &plus; 2&pi;n) = cos &theta;</li>
+ <li> tan(&theta; &plus; &pi;n) = tan &theta;</li>
+ <li> cosec(&theta; &plus; 2&pi;n) = cosec &theta; </li>
+ <li> sec(&theta; &plus; 2&pi;n) = sec &theta;</li>
+ <li> cot(&theta; &plus; &pi;n) = cot &theta;</li>
  
 </ul>
 

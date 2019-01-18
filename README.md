@@ -904,8 +904,13 @@ The number of degrees in a triangle is 180
 <li>cos<sup>&minus;1</sup> (1/x) = sec<sup>&minus;1</sup> (x)</li>
 <li>tan<sup>&minus;1</sup> (1/x) = cot<sup>&minus;1</sup> (x) ,  x &gt; 0</li>
 <li>tan<sup>&minus;1</sup> (1/x) = {&minus;&pi; &plus; cot<sup>&minus;1</sup> (x)} ,  x &lt; 0</li>
-<li>sin<sup>&minus;1</sup> (&minus;x) = &minus;sin<sup>&minus;1</sup> (x)
-
+<li>sin<sup>&minus;1</sup> (&minus;x) = &minus;sin<sup>&minus;1</sup> (x)</li>
+<li>cos<sup>&minus;1</sup> (&minus;x) = &pi; &minus; cos<sup>&minus;1</sup> (x)</li>
+ <li>tan<sup>&minus;1</sup> (&minus;x) = &minus;tan<sup>&minus;1</sup> (x)</li>
+ <li>cot<sup>&minus;1</sup> (&minus;x) = &pi; &minus; cot<sup>&minus;1</sup> (x)</li>
+ <li>sec<sup>&minus;1</sup> (&minus;x) = &pi; &minus; sec<sup>&minus;1</sup> (x)</li>
+ <li>cosec<sup>&minus;1</sup> (&minus;x) = &minus; cosec<sup>&minus;1</sup> (x)</li>
+ 
 </ul>
 
 </br> 

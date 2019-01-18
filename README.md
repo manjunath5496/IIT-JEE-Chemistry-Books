@@ -915,6 +915,10 @@ The number of degrees in a triangle is 180
  <li> sec<sup>&minus;1</sup> (x) &plus; cosec<sup>&minus;1</sup> (x) = &pi; / 2 </li>
  <li> tan<sup>&minus;1</sup> (x) &plus; tan<sup>&minus;1</sup> (y) = tan<sup>&minus;1</sup> ( x &plus; y /1  &minus; xy) </li>
 <li> tan<sup>&minus;1</sup> (x) &minus; tan<sup>&minus;1</sup> (y) = tan<sup>&minus;1</sup> ( x &minus; y /1  &plus; xy) </li>
+ <li>2tan<sup>&minus;1</sup> (x) = sin<sup>&minus;1</sup> (2x / 1 &plus; x<sup>2</sup>)   </li>
+ <li>2tan<sup>&minus;1</sup> (x) = cos<sup>&minus;1</sup> (1 &minus; x<sup>2</sup> / 1 &plus; x<sup>2</sup>)   </li>
+ <li>2tan<sup>&minus;1</sup> (x) = tan<sup>&minus;1</sup> (2x / 1 &minus; x<sup>2</sup>)   </li>
+ 
  
  
 </ul>

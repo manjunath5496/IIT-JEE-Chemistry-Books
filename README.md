@@ -937,9 +937,9 @@ The number of degrees in a triangle is 180
  <li> sin {&theta; &plus; (&pi; /2)} = cos&theta;</li>
  <li> sin&theta; = cos{&theta; &mius; (&pi; /2)} </li>
  
- 
- 
- 
+ <li> sin<sup>&minus;1</sup> x = arcsinx  </li>
+ <li> cos<sup>&minus;1</sup> x = arccosx  </li>
+ <li> tan<sup>&minus;1</sup> x = arctanx  </li>
  
 </ul>
 

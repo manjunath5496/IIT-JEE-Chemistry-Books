@@ -918,7 +918,12 @@ The number of degrees in a triangle is 180
  <li>2tan<sup>&minus;1</sup> (x) = sin<sup>&minus;1</sup> (2x / 1 &plus; x<sup>2</sup>)   </li>
  <li>2tan<sup>&minus;1</sup> (x) = cos<sup>&minus;1</sup> (1 &minus; x<sup>2</sup> / 1 &plus; x<sup>2</sup>)   </li>
  <li>2tan<sup>&minus;1</sup> (x) = tan<sup>&minus;1</sup> (2x / 1 &minus; x<sup>2</sup>)   </li>
- 
+ <li>sin (&omega;&theta;) &rArr; T = (2&pi; / &omega;) </li>
+ <li>cos (&omega;&theta;) &rArr; T = (2&pi; / &omega;) </li>
+  <li>tan (&omega;&theta;) &rArr; T = (&pi; / &omega;) </li>
+ <li>cosec (&omega;&theta;) &rArr; T = (2&pi; / &omega;) </li>
+ <li>sec (&omega;&theta;) &rArr; T = (2&pi; / &omega;) </li>
+  <li>cot (&omega;&theta;) &rArr; T = (&pi; / &omega;) </li>
  
  
 </ul>

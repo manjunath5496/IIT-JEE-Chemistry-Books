@@ -910,6 +910,12 @@ The number of degrees in a triangle is 180
  <li>cot<sup>&minus;1</sup> (&minus;x) = &pi; &minus; cot<sup>&minus;1</sup> (x)</li>
  <li>sec<sup>&minus;1</sup> (&minus;x) = &pi; &minus; sec<sup>&minus;1</sup> (x)</li>
  <li>cosec<sup>&minus;1</sup> (&minus;x) = &minus; cosec<sup>&minus;1</sup> (x)</li>
+ <li> sin<sup>&minus;1</sup> (x)  &plus;  cos<sup>&minus;1</sup> (x) = &pi; / 2 </li>
+  <li> tan<sup>&minus;1</sup> (x) &plus; cot<sup>&minus;1</sup> (x) = &pi; / 2 </li>
+ <li> sec<sup>&minus;1</sup> (x) &plus; cosec<sup>&minus;1</sup> (x) = &pi; / 2 </li>
+ <li> tan<sup>&minus;1</sup> (x) &plus; tan<sup>&minus;1</sup> (y) = tan<sup>&minus;1</sup> ( x &plus; y /1  &minus; xy) </li>
+<li> tan<sup>&minus;1</sup> (x) &minus; tan<sup>&minus;1</sup> (y) = tan<sup>&minus;1</sup> ( x &minus; y /1  &plus; xy) </li>
+ 
  
 </ul>
 

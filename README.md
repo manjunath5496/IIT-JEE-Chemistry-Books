@@ -959,9 +959,9 @@ The number of degrees in a triangle is 180
  
  <li> If a &gt; b, then b &lt; a  </li>
  <li> If a &gt; b, then (a &minus; b) &gt; 0 or (b &minus; a) &lt; 0  </li>
-
- 
- 
+<li> If a &gt; b and m &gt; 0, then ma &gt; mb  </li>
+ <li> If a &gt; b and m &gt; 0, then (a / m) &gt; (b / m)  </li>
+ <li> If a &gt; b and m &lt; 0, then ma &lt; mb  </li>
  
  
 </ul>

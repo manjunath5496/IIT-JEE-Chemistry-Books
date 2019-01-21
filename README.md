@@ -255,6 +255,13 @@ When interest is compounded continually (i.e. n &#8594; &infin;), the compound i
   <li>ln(x) = 2.303 log<sub>10</sub>(x)</li>
   <li>pi (&pi;) = 3.141592653</li>
    <li><em>e</em> = 2.718281828</li>
+   <li>Dividend / Divisor = Quotient  </li>
+   
+   <li> LCM of fractions = LCM of numerators / HCF of denominators </li>
+   
+   <li>HCF of fractions = HCF of numerators / LCM of denominators  </li>
+    <li> LCM of two integers a and b = (a &times; b) / gcd(a,b) , where gcd: Greatest common factor </li>
+  
 <li><em>e</em> <sup>&pi;i</sup> &plus; 1= 0</li>
 <li> <strong>a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>, a<sub>4</sub>, ....... a<sub>n</sub> </strong> </br>
 

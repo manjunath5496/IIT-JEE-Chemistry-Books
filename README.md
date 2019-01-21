@@ -995,8 +995,21 @@ The number of degrees in a triangle is 180
   <li> Interior angle of a regular polygon = (n &minus; 2)180<sup>o</sup>, n is the number of sides </li>
 <li> Interior of triangles in a polygon = (n &minus; 2)</li>
 
+<li>Volume of a square pyramid = 	&#8531; &times; base<sup>2</sup> &times; height </li>
 
-</li>
+<li>Volume of a triangular pyramid = 	1/6 &times;apothem &times; base &times; height </li>  
+  
+<li>Volume of a pentagonal pyramid = 	5/6 &times;apothem &times; base &times; height </li>  
+  
+<li>Volume of a hexagonal pyramid = 	apothem &times; base &times; height </li> 
+
+
+
+
+  
+  
+  
+  
   
  
 </ul>

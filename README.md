@@ -974,7 +974,7 @@ The number of degrees in a triangle is 180
   <li> sec (sin<sup>&minus;1</sup> x) = 1 / (1 &minus; x<sup>2</sup>)<sup>1/2 </sup>      </li>
   <li> cosec (sin<sup>&minus;1</sup> x) = 1 / x </sup>      </li>
  
- 
+   <li>cos3&theta; =  cos<sup>3</sup>&theta; &minus; 3 sin<sup>2</sup>&theta; cos&theta; </li>
  
 </ul>
 

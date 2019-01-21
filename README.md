@@ -414,7 +414,6 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
 <li> 0&#33; = 1  <strong>when n = 0 </strong>       </li>
 <li> <strong>Euler's Polyhedral Formula: </strong> </br>
 F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E: numbers of edges of a polyhedron    </li>
-<li>Sum of interior angles of a regular polygon = (number of sides &minus; 2) &times; 180<sup>o</sup>    </li>
 
 <li> Probability of an Event = (Number of ways it can happen / Total number of outcomes)   </li>
 
@@ -999,7 +998,7 @@ The number of degrees in a triangle is 180
   <li>The number of diagonals of in an n-sided polygon is n(n &minus; 3)/2</li>
   
   
-<li> Interior of triangles in a polygon = (n &minus; 2)</li>
+<li> The number of triangle in a polygon = (n &minus; 2)</li>
 
 <li>Volume of a square pyramid = 	&#8531; &times; base<sup>2</sup> &times; height </li>
 

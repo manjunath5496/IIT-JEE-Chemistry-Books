@@ -1008,7 +1008,7 @@ The number of degrees in a triangle is 180
  <li>  cos4A = cos<sup>4</sup>A  &minus; 6cos<sup>2</sup>A sin<sup>2</sup>A &plus; sin<sup>4</sup>A </li> 
   
   <li>tan4A = (4tanA &minus; 4tan<sup>3</sup>A) / (1 &minus; 6tan<sup>2</sup>A &plus; tan<sup>4</sup>A)  </li>
-  <li>cot4A = (cot<sup>4</sup>A &minus; 6cot<sup>2</sup>A) / (4cot<sup>3</sup>A &minus; 4cotA) </li>
+  <li>cot4A = (cot<sup>4</sup>A &minus; 6cot<sup>2</sup>A &plus; 1) / (4cot<sup>3</sup>A &minus; 4cotA) </li>
   
  
 </ul>

@@ -1005,7 +1005,7 @@ The number of degrees in a triangle is 180
 
 <li>  sin4A = 4cos<sup>3</sup>A sinA &minus; 4cosA sin<sup>3</sup>A</li>
 
-  
+ <li>  cos4A = cos<sup>4</sup>A  &minus; 6cos<sup>2</sup>A sin<sup>2</sup>A &plus; sin<sup>4</sup>A </li> 
   
   
   

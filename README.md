@@ -992,6 +992,11 @@ The number of degrees in a triangle is 180
    <li>tan(n &plus; 1)&theta; = (tann&theta; &plus; tan&theta;) / (1 &minus; tann&theta; tan&theta;) </li>
   <li>cot(n &plus; 1)&theta; = (cotn&theta; cot&theta; &minus; 1) / (cotn&theta; &plus; cot&theta;) </li>
   
+  <li> Interior angle of a regular polygon = (n &minus; 2)180<sup>o</sup>, n is the number of sides </li>
+<li> Interior of triangles in a polygon = (n &minus; 2)</li>
+
+
+</li>
   
  
 </ul>

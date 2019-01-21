@@ -952,7 +952,7 @@ The number of degrees in a triangle is 180
  <li> cot(&theta; &plus; &pi;n) = cot &theta;</li>
  <li> (&minus;a)<sup>1/2</sup> =    i (a)<sup>1/2</sup> ;</li>
  <li> sin {&theta; &plus; (&pi; /2)} = cos&theta;</li>
- <li> sin&theta; = cos{&theta; &mius; (&pi; /2)} </li>
+ <li> sin&theta; = cos{&theta; &minus; (&pi; /2)} </li>
  
  <li> sin<sup>&minus;1</sup> x = arcsinx  </li>
  <li> cos<sup>&minus;1</sup> x = arccosx  </li>

@@ -868,6 +868,7 @@ b &plus; c &gt; a </br>
  [cos(&phi;<sub>1</sub> &minus; &phi;<sub>2</sub>) &plus; isin(&phi;<sub>1</sub> &minus; &phi;<sub>2</sub>)]   </li>
 
 <li> e <sup>ix</sup> = cosx &plus; isinx </li>
+<li> e <sup>&minus;ix</sup> = cos(&minus;x) &plus; isin(&minus;x) </li>
 
 <li>Area of a triangle = square root of { s(s&minus;a)(s&minus;b)(s&minus;c) } , where a, b, c are the lengths of the sides and s = &frac12; (a &plus; b &plus; c) (s represents the semi-perimeter of the triangle)
 

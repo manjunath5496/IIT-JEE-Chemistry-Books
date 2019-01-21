@@ -1003,7 +1003,7 @@ The number of degrees in a triangle is 180
   
 <li>Volume of a hexagonal pyramid = 	apothem &times; base &times; height </li> 
 
-<li>  sin4A = 4cos<sup>3</sup>A sinA &minus; 4cosAsin<sup>3</sup>A</li>
+<li>  sin4A = 4cos<sup>3</sup>A sinA &minus; 4cosA sin<sup>3</sup>A</li>
 
   
   

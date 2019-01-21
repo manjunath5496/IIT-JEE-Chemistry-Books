@@ -977,7 +977,7 @@ The number of degrees in a triangle is 180
    <li>sin3&theta; =  3cos<sup>2</sup>&theta; sin&theta; &minus; sin<sup>3</sup>&theta;  </li>
    <li>cos3&theta; =  cos<sup>3</sup>&theta; &minus; 3 sin<sup>2</sup>&theta; cos&theta; </li>
  <li>tan3&theta; =  (3tan&theta; &minus; tan<sup>3</sup>&theta;) / (1 &minus; 3tan<sup>2</sup>&theta;)  </li>
- 
+  <li>cot3&theta; =  (3cot&theta; &minus; cot<sup>3</sup>&theta;) / (1 &minus; 3cot<sup>2</sup>&theta;)  </li>
  
 </ul>
 

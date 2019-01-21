@@ -253,6 +253,8 @@ When interest is compounded continually (i.e. n &#8594; &infin;), the compound i
   <li> ln(1) = 0 </li>
    <li> ln(<em>e</em>) = 1 </li>
   <li>ln(x) = 2.303 log<sub>10</sub>(x)</li>
+  <li>ln<sub>b</sub>(x) = ln<sub>d</sub>(x) / ln<sub>d</sub>(b)    </li>
+  
   <li>pi (&pi;) = 3.141592653</li>
    <li><em>e</em> = 2.718281828</li>
    <li>Dividend / Divisor = Quotient  </li>

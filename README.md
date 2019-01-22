@@ -1271,26 +1271,11 @@ N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2<
 For all x, e<sup>x</sup> = 1 &plus; (x/1&excl;) &plus; (x<sup>2</sup>/2&excl;) &plus; (x<sup>3</sup>/3&excl;) &plus; ..... &plus; (x<sup>n</sup>/n&excl;) &plus; ..... <br>
 e = 1 &plus; (1/1&excl;) &plus; (1/2&excl;) &plus; (1/3&excl;) &plus; ..... <br>
 2 &lt; e &lt; 3 <strong> where e = 2.718282 (correct to six decimal places)</strong> <br>
-a<sup>x</sup> = 1 &plus; (x ln a) &plus; [(x ln a)<sup>2</sup>/2&excl;] &plus; [(x ln a)<sup>3</sup>/3&excl;] &plus; ....... &plus; [(x ln a)<sup>n</sup>/n&excl;] &plus; ..... 
+a<sup>x</sup> = 1 &plus; (x ln a) &plus; [(x ln a)<sup>2</sup>/2&excl;] &plus; [(x ln a)<sup>3</sup>/3&excl;] &plus; ....... &plus; [(x ln a)<sup>n</sup>/n&excl;] &plus; ..... <br></li>
 
+<li> <strong>Logarithmic series </strong></br> 
+<img src="logarithmic series1.gif" alt="logarithmic series" height="308" width="513"> </li>
 
-
-
-<br>
- 
- </li>
-
-
-
-
-
-
-
-
-
-
-
-<li>  <img src="logarithmic series.gif" alt="logarithmic series" height="507" width="527"> </li>
 
 
 

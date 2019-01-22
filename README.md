@@ -1282,9 +1282,7 @@ a<sup>x</sup> = 1 &plus; (x ln a) &plus; [(x ln a)<sup>2</sup>/2&excl;] &plus; [
    ln(1 &plus; x) = x &minus; x<sup>2</sup> &plus; {x<sup>3</sup>/3} &minus; {x<sup>4</sup>/4} +.. </br>
 ln (1/x) = (1 &minus; x) &plus; &frac12;(1 &minus; x)<sup>2</sup> &plus; &frac13;(1 &minus; x)<sup>3</sup> &plus;..</br>
  ln (1&plus;x) = x &minus; &frac12;x<sup>2</sup> &plus; &frac13;x<sup>3</sup> &minus; .. </br>
-  
   ln{(1 &plus; n) / (1 &minus; n)} = 2 (n &plus; {n<sup>3</sup>/3} &plus; {n<sup>5</sup>/5} &plus; .. &plus; {n<sup>(2n &minus; 1)</sup> / (2n &minus; 1)} &plus; ..) </br>
-  
   ln (x &plus; 1) &minus; ln (x &minus; 1) = 2( {1/x} &plus; &frac13;x<sup>2</sup> &plus; 1/5{x<sup>5</sup>} &plus; ..)
    </li>
 

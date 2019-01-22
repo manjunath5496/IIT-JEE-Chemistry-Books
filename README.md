@@ -898,6 +898,7 @@ The number of degrees in a circle is 360</br>
 The number of radians in a circle is 2&pi;</br>
 
 The number of degrees in a triangle is 180</br>
+Full circle = 360<sup>o</sup>
 
 </li>
 
@@ -1045,9 +1046,7 @@ N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2<
 
 <li> The length of one side of any triangle is always less than the sum and more than the difference of the lengths of the other two sides. </li>
 
-<li> Slope of the line that goes through points A(x<sub>1</sub>, y<sub>1</sub>) and B(x<sub>2</sub>, y<sub>2</sub>) =
- 
- (y<sub>2</sub> &minus; y<sub>1</sub>) / (x<sub>2</sub> &minus; x<sub>1</sub>)</li>
+<li> Slope of the line that goes through points A(x<sub>1</sub>, y<sub>1</sub>) and B(x<sub>2</sub>, y<sub>2</sub>) = (y<sub>2</sub> &minus; y<sub>1</sub>) / (x<sub>2</sub> &minus; x<sub>1</sub>)</li>
 
 
 

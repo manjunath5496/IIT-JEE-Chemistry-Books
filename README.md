@@ -1051,47 +1051,22 @@ N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2<
 <li> Slope of the line that goes through points A (x<sub>1</sub>, y<sub>1</sub>) and B (x<sub>2</sub>, y<sub>2</sub>) = (y<sub>2</sub> &minus; y<sub>1</sub>) / (x<sub>2</sub> &minus; x<sub>1</sub>)</li>
 
 <li> <strong> Standard Equation of a circle </strong> </br>
-(x &minus; h) <sup>2</sup>  &plus; (y &minus; k) <sup>2</sup> = r<sup>2</sup>, where r is the radius and center at (h, k) </li>
+(x &minus; h) <sup>2</sup>  &plus; (y &minus; k) <sup>2</sup> = r<sup>2</sup> with the center being at the point (h, k) and the radius being "r" </li>
 
-<li> <strong> Exponential Series: </strong> </br>
-(i) For all x, e<sup>x</sup> = 1 &plus; x/1&excl; &plus; x<sup>2</sup>/2&excl; &plus; x<sup>3</sup>/3&excl; &plus; …………… &plus; x<sup>r</sup>/r&excl; &plus; ………….. ∞.<br>
-(ii) e = 1 &plus; 1/1&excl; &plus; 1/2&excl; &plus; 1/3&excl; &plus; ………………….. &#8734;.<br>
-(iii) 2 &lt; e &lt; 3; e = 2.718282 (correct to six decimal places). <br>
-(iv) a<sup>x</sup> = 1 &plus; (log<sub>e</sub> a) x &plus; [(log<sub>e</sub> a)<sup>2</sup>/2&excl;] ∙ x<sup>2</sup> &plus; [(log<sub>e</sub> a)<sup>3</sup>/3&excl;] ∙ x<sup>3</sup> &plus; …………….. ∞.<br>
- 
- </li>
 
-<li><strong>Variation:</strong> </br>
-(i) If x varies directly as y, we write x &prop; y or, x = <i>k</i>y where <i>k</i> is a constant of variation. <br/>
-(ii) If x varies inversely as y, we write x &prop; 1/y or, x = <i>m</i> ∙ (1/y) where <i>m</i> is a constant of variation. <br/>
-(iii) If x &prop; y when <i>z</i> is constant and x &prop; z when<i> y</i> is constant then x &prop; <i>y</i>z when both <i>y</i> and <i>z</i> vary. 
 
- </li>
 
-<li> <strong>
- Binomial Theorem:</strong></br>
-(i) Statement of Binomial Theorem : If n is a positive integer then<br>
-(a &plus; x)<sup>n</sup> = a<sup>n</sup> &plus; <sup>n</sup>C<sub>1</sub> a<sup>n &minus; 1</sup> x &plus; <sup>n</sup>C<sub>2</sub> a<sup>n &minus; 2</sup> x<sup>2</sup> &plus; …………….. &plus; <sup>n</sup>C<sub>r</sub> a<sup>n &minus; r</sup> x<sup>r</sup> &plus; ………….. &plus; x<sup>n</sup>                                           …….. (1) <br>
-(ii) If n is not a positive integer then<br>
-(1 &plus; x)<sup>n</sup> = 1 &plus; nx &plus; [n(n &minus; 1)/2&excl;] x<sup>2</sup> &plus; [n(n &minus; 1)(n &minus; 2)/3&excl;] x<sup>3</sup> &plus; ………… &plus; [{n(n&minus;1)(n&minus;2)………..(n&minus;r&plus;1)}/r&excl;] x<sup>r</sup>&plus; ……………. &#8734; (&minus;1 &lt; x &lt; 1)                ………….(2) <br>
-(iii) The general term of the expansion (1) is (r&plus; 1)th term<br>
-=  t<sub>r &plus; 1</sub> = <sup>n</sup>C<sub>r</sub> a<sup>n &minus; r</sup> x<sup>r</sup><br>
-(iv) The general term of the expansion (2) is (r &plus; 1) th term<br>
- = t<sub>r &plus; 1</sub> = [{n(n &minus; 1)(n &minus; 2)....(n &minus; r &plus; l)}/r&excl;] ∙ x<sup>r</sup>.<br>
-(v) There is one middle term is the expansion ( 1 ) when n is even and it is (n/2 &plus; 1)th term ; the expansion ( 1 ) will have two middle terms when n is odd and they are the {(n &minus; 1)/2 &plus; 1} th and {(n &minus; 1)/2 &plus; 1} th terms. <br>
-(vi) (1 &minus; x)<sup>&minus;1</sup> = 1 &plus; x &plus; x<sup>2</sup> &plus; x<sup>3</sup> &plus; ………………….&#8734;.<br>
-(vii) (1 &plus; x)<sup>&minus;1</sup> = 1 &minus; x &plus; x<sup>2</sup> &minus;  x<sup>3</sup> &plus; ……………&#8734;.<br>
-(viii) (1 &minus; x)<sup>&minus;2</sup> = 1 &plus; 2x &plus; 3x<sup>2</sup> &plus; 4x<sup>3</sup> &plus;  . . . . &#8734; . <br>
-(ix) (1 &plus; x)<sup>&minus;2</sup> = 1 &minus; 2x &plus; 3x<sup>2</sup> &minus; 4x<sup>3</sup> &plus;  . . . . &#8734; . <br>
-</li>
 
-<li><strong>Logarithmic Series:</strong></br>
-(i) log<sub>e</sub> (1 &plus; x) = x &minus; x<sup>2</sup>/2 &plus; x<sup>3</sup>/3 &minus; ……………… &#8734; (&minus;1 &lt; x &le; 1). <br>
-(ii) log<sub>e</sub> (1 &minus; x) = &minus; x &minus; x<sup>2</sup>/ 2 &minus; x<sup>3</sup>/3 &minus; ………….. &#8734; (&minus; 1 &le; x &lt; 1). <br>
-(iii) &frac12; log<sub>e</sub> [(1 &plus; x)/(1 &minus; x)] = x &plus; x<sup>3</sup>/3 &plus; x<sup>5</sup>/5 &plus; ……………… &#8734; (&minus;1 &lt; x &lt; 1). <br>
-(iv) log<sub>e</sub> 2 = 1 &minus; 1/2 &plus; 1/3 &minus; 1/4 &plus; ………………… &#8734;. <br>
-(v) log<sub>10</sub> m = &mu; log<sub>e</sub> m where &mu; = 1/log<sub>e</sub> 10 = 0.4342945 and <i>m</i> is a positive number.<br>
-</li>
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -422,6 +422,7 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 <li>n </br> &Sigma; i = 1 &plus; 2 &plus; 3 &plus; ...... &plus; n = n(n&plus;1) /2</br> i = 1 </li>
 
+<li> n </br> &Sigma; i<sup>2</sup> = 1<sup>2</sup> &plus; 2<sup>2</sup> &plus; 3<sup>2</sup> &plus; ...... &plus; n<sup>2</sup> = {n (n&plus;1) (2n&plus;1)} /6</br> i = 1 </li>
 
 
 <li>  <img src="img4.gif" alt="summation rule1" height="55" width="429">  </li>

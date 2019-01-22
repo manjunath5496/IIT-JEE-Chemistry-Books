@@ -427,12 +427,7 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 <li> n </br> &Sigma; i<sup>3</sup> = 1<sup>3</sup> &plus; 2<sup>3</sup> &plus; 3<sup>3</sup> &plus; ...... &plus; n<sup>3</sup> = {n<sup>2</sup> (n&plus;1)<sup>2</sup>} /4</br> i = 1   </li>
 
 
-<li>  <img src="img4.gif" alt="summation rule1" height="55" width="429">  </li>
-<li>  <img src="img5.gif" alt="summation rule2" height="60" width="265"> </li>
 
-<li>  <img src="img6.gif" alt="summation rule3" height="60" width="358"> </li>
-
-<li>  <img src="img7.gif" alt="summation rule4" height="60" width="315"> </li>
 
 <li> <strong> Length </strong></br>
 1 kilometre (km) =	10 Hectometres (hm) = 1000 m</br>

@@ -1057,207 +1057,213 @@ N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2<
 
 <ul>
  
- <table width="477" height="246" border="1">
+ </br>
+ </br>
+ 
+ 
+ 
+ 
+ 
+ <table>
             <tr>
-              <th width="30" bordercolor="#990033" bgcolor="#FFFFCC" scope="col"><div align="center" class="style37">*</div></th>
-              <th width="30" bordercolor="#990033" bgcolor="#FFFFCC" scope="col"><div align="center" class="style27">1</div></th>
-              <th width="30" bordercolor="#990033" bgcolor="#FFFFCC" scope="col"><div align="center" class="style27">2</div></th>
-              <th width="30" bordercolor="#990033" bgcolor="#FFFFCC" scope="col"><div align="center" class="style27">3</div></th>
-              <th width="30" bordercolor="#990033" bgcolor="#FFFFCC" scope="col"><div align="center" class="style27">4</div></th>
-              <th width="30" bordercolor="#990033" bgcolor="#FFFFCC" scope="col"><div align="center" class="style27">5</div></th>
-              <th width="29" bordercolor="#990033" bgcolor="#FFFFCC" scope="col"><div align="center" class="style27">6</div></th>
-              <th width="29" bordercolor="#990033" bgcolor="#FFFFCC" scope="col"><div align="center" class="style27">7</div></th>
-              <th width="29" bordercolor="#990033" bgcolor="#FFFFCC" scope="col"><div align="center" class="style27">8</div></th>
-              <th width="32" bordercolor="#990033" bgcolor="#FFFFCC" scope="col"><div align="center" class="style27">9</div></th>
-              <th width="32" bordercolor="#990033" bgcolor="#FFFFCC" scope="col"><div align="center" class="style27">10</div></th>
-              <th width="32" bordercolor="#990033" bgcolor="#FFFFCC" scope="col"><div align="center" class="style27">
+             <th  scope="col"><div align="center" class="style37">*</div></th>
+             <th  scope="col"><div align="center" class="style27">1</div></th>
+             <th  scope="col"><div align="center" class="style27">2</div></th>
+             <th  scope="col"><div align="center" class="style27">3</div></th>
+             <th  scope="col"><div align="center" class="style27">4</div></th>
+             <th  scope="col"><div align="center" class="style27">5</div></th>
+             <th  scope="col"><div align="center" class="style27">6</div></th>
+             <th  scope="col"><div align="center" class="style27">7</div></th>
+             <th  scope="col"><div align="center" class="style27">8</div></th>
+             <th  scope="col"><div align="center" class="style27">9</div></th>
+             <th  scope="col"><div align="center" class="style27">10</div></th>
+             <th  scope="col"><div align="center" class="style27">
                 <div align="center">11</div>
               </div></th>
-              <th width="32" bordercolor="#990033" bgcolor="#FFFFCC" scope="col"><div align="center"><span class="style27">12</span></div></th>
+             <th  scope="col"><div align="center"><span class="style27">12</span></div></th>
             </tr>
             <tr>
-              <th bordercolor="#990033" bgcolor="#FFFFCC" scope="row"><div align="center" class="style27">1</div></th>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>1</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>2</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>3</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>4</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>5</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>6</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>7</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>8</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>9</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>10</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>11</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>12</strong></div></td>
+              <th  scope="row"><div align="center" class="style27">1</div></th>
+              <td ><div align="center"><strong>1</strong></div></td>
+              <td ><div align="center"><strong>2</strong></div></td>
+              <td ><div align="center"><strong>3</strong></div></td>
+              <td ><div align="center"><strong>4</strong></div></td>
+              <td ><div align="center"><strong>5</strong></div></td>
+              <td ><div align="center"><strong>6</strong></div></td>
+              <td ><div align="center"><strong>7</strong></div></td>
+              <td ><div align="center"><strong>8</strong></div></td>
+              <td ><div align="center"><strong>9</strong></div></td>
+              <td ><div align="center"><strong>10</strong></div></td>
+              <td ><div align="center"><strong>11</strong></div></td>
+              <td ><div align="center"><strong>12</strong></div></td>
             </tr>
             <tr>
-              <th bordercolor="#990033" bgcolor="#FFFFCC" scope="row"><div align="center" class="style27">2</div></th>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>2</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>4</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>6</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>8</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>10</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>12</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>14</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>16</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>18</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>20</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>22</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>24</strong></div></td>
+              <th  scope="row"><div align="center" class="style27">2</div></th>
+              <td ><div align="center"><strong>2</strong></div></td>
+              <td ><div align="center"><strong>4</strong></div></td>
+              <td ><div align="center"><strong>6</strong></div></td>
+              <td ><div align="center"><strong>8</strong></div></td>
+              <td ><div align="center"><strong>10</strong></div></td>
+              <td ><div align="center"><strong>12</strong></div></td>
+              <td ><div align="center"><strong>14</strong></div></td>
+              <td ><div align="center"><strong>16</strong></div></td>
+              <td ><div align="center"><strong>18</strong></div></td>
+              <td ><div align="center"><strong>20</strong></div></td>
+              <td ><div align="center"><strong>22</strong></div></td>
+              <td ><div align="center"><strong>24</strong></div></td>
             </tr>
             <tr>
-              <th bordercolor="#990033" bgcolor="#FFFFCC" scope="row"><div align="center" class="style27">3</div></th>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>3</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>6</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>9</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>12</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>15</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>18</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>21</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>24</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>27</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>30</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>33</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>36</strong></div></td>
+              <th  scope="row"><div align="center" class="style27">3</div></th>
+              <td ><div align="center"><strong>3</strong></div></td>
+              <td ><div align="center"><strong>6</strong></div></td>
+              <td ><div align="center"><strong>9</strong></div></td>
+              <td ><div align="center"><strong>12</strong></div></td>
+              <td ><div align="center"><strong>15</strong></div></td>
+              <td ><div align="center"><strong>18</strong></div></td>
+              <td ><div align="center"><strong>21</strong></div></td>
+              <td ><div align="center"><strong>24</strong></div></td>
+              <td ><div align="center"><strong>27</strong></div></td>
+              <td ><div align="center"><strong>30</strong></div></td>
+              <td ><div align="center"><strong>33</strong></div></td>
+              <td ><div align="center"><strong>36</strong></div></td>
             </tr>
             <tr>
-              <th bordercolor="#990033" bgcolor="#FFFFCC" scope="row"><div align="center" class="style27">4</div></th>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>4</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>8</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>12</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>16</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>20</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>24</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>28</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>32</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>36</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>40</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>44</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>48</strong></div></td>
+              <th  scope="row"><div align="center" class="style27">4</div></th>
+              <td ><div align="center"><strong>4</strong></div></td>
+              <td ><div align="center"><strong>8</strong></div></td>
+              <td ><div align="center"><strong>12</strong></div></td>
+              <td ><div align="center"><strong>16</strong></div></td>
+              <td ><div align="center"><strong>20</strong></div></td>
+              <td ><div align="center"><strong>24</strong></div></td>
+              <td ><div align="center"><strong>28</strong></div></td>
+              <td ><div align="center"><strong>32</strong></div></td>
+              <td ><div align="center"><strong>36</strong></div></td>
+              <td ><div align="center"><strong>40</strong></div></td>
+              <td ><div align="center"><strong>44</strong></div></td>
+              <td ><div align="center"><strong>48</strong></div></td>
             </tr>
             <tr>
-              <th bordercolor="#990033" bgcolor="#FFFFCC" scope="row"><div align="center" class="style27">5</div></th>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>5</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>10</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>15</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>20</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>25</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>30</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>35</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>40</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>45</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>50</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>55</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>60</strong></div></td>
+              <th  scope="row"><div align="center" class="style27">5</div></th>
+              <td ><div align="center"><strong>5</strong></div></td>
+              <td ><div align="center"><strong>10</strong></div></td>
+              <td ><div align="center"><strong>15</strong></div></td>
+              <td ><div align="center"><strong>20</strong></div></td>
+              <td ><div align="center"><strong>25</strong></div></td>
+              <td ><div align="center"><strong>30</strong></div></td>
+              <td ><div align="center"><strong>35</strong></div></td>
+              <td ><div align="center"><strong>40</strong></div></td>
+              <td ><div align="center"><strong>45</strong></div></td>
+              <td ><div align="center"><strong>50</strong></div></td>
+              <td ><div align="center"><strong>55</strong></div></td>
+              <td ><div align="center"><strong>60</strong></div></td>
             </tr>
             <tr>
-              <th bordercolor="#990033" bgcolor="#FFFFCC" scope="row"><div align="center" class="style27">6</div></th>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>6</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>12</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>18</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>24</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>30</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>36</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>42</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>48</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>54</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>60</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>66</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>72</strong></div></td>
+              <th  scope="row"><div align="center" class="style27">6</div></th>
+              <td ><div align="center"><strong>6</strong></div></td>
+              <td ><div align="center"><strong>12</strong></div></td>
+              <td ><div align="center"><strong>18</strong></div></td>
+              <td ><div align="center"><strong>24</strong></div></td>
+              <td ><div align="center"><strong>30</strong></div></td>
+              <td ><div align="center"><strong>36</strong></div></td>
+              <td ><div align="center"><strong>42</strong></div></td>
+              <td ><div align="center"><strong>48</strong></div></td>
+              <td ><div align="center"><strong>54</strong></div></td>
+              <td ><div align="center"><strong>60</strong></div></td>
+              <td ><div align="center"><strong>66</strong></div></td>
+              <td ><div align="center"><strong>72</strong></div></td>
             </tr>
             <tr>
-              <th bordercolor="#990033" bgcolor="#FFFFCC" scope="row"><div align="center" class="style27">7</div></th>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>7</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>14</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>21</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>28</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>35</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>42</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>49</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>56</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>63</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>70</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>77</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>84</strong></div></td>
+              <th  scope="row"><div align="center" class="style27">7</div></th>
+              <td ><div align="center"><strong>7</strong></div></td>
+              <td ><div align="center"><strong>14</strong></div></td>
+              <td ><div align="center"><strong>21</strong></div></td>
+              <td ><div align="center"><strong>28</strong></div></td>
+              <td ><div align="center"><strong>35</strong></div></td>
+              <td ><div align="center"><strong>42</strong></div></td>
+              <td ><div align="center"><strong>49</strong></div></td>
+              <td ><div align="center"><strong>56</strong></div></td>
+              <td ><div align="center"><strong>63</strong></div></td>
+              <td ><div align="center"><strong>70</strong></div></td>
+              <td ><div align="center"><strong>77</strong></div></td>
+              <td ><div align="center"><strong>84</strong></div></td>
             </tr>
             <tr>
-              <th bordercolor="#990033" bgcolor="#FFFFCC" scope="row"><div align="center" class="style27">8</div></th>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>8</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>16</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>24</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>32</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>40</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>48</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>56</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>64</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>72</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>80</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>88</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>96</strong></div></td>
+              <th  scope="row"><div align="center" class="style27">8</div></th>
+              <td ><div align="center"><strong>8</strong></div></td>
+              <td ><div align="center"><strong>16</strong></div></td>
+              <td ><div align="center"><strong>24</strong></div></td>
+              <td ><div align="center"><strong>32</strong></div></td>
+              <td ><div align="center"><strong>40</strong></div></td>
+              <td ><div align="center"><strong>48</strong></div></td>
+              <td ><div align="center"><strong>56</strong></div></td>
+              <td ><div align="center"><strong>64</strong></div></td>
+              <td ><div align="center"><strong>72</strong></div></td>
+              <td ><div align="center"><strong>80</strong></div></td>
+              <td ><div align="center"><strong>88</strong></div></td>
+              <td ><div align="center"><strong>96</strong></div></td>
             </tr>
             <tr>
-              <th bordercolor="#990033" bgcolor="#FFFFCC" scope="row"><div align="center" class="style27">9</div></th>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>9</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>18</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>27</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>36</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>45</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>54</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>63</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>72</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>81</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>90</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>99</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>108</strong></div></td>
+              <th  scope="row"><div align="center" class="style27">9</div></th>
+              <td ><div align="center"><strong>9</strong></div></td>
+              <td ><div align="center"><strong>18</strong></div></td>
+              <td ><div align="center"><strong>27</strong></div></td>
+              <td ><div align="center"><strong>36</strong></div></td>
+              <td ><div align="center"><strong>45</strong></div></td>
+              <td ><div align="center"><strong>54</strong></div></td>
+              <td ><div align="center"><strong>63</strong></div></td>
+              <td ><div align="center"><strong>72</strong></div></td>
+              <td ><div align="center"><strong>81</strong></div></td>
+              <td ><div align="center"><strong>90</strong></div></td>
+              <td ><div align="center"><strong>99</strong></div></td>
+              <td ><div align="center"><strong>108</strong></div></td>
             </tr>
             <tr>
-              <th bordercolor="#990033" bgcolor="#FFFFCC" scope="row"><div align="center" class="style27">10</div></th>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>10</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>20</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>30</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>40</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>50</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>60</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>70</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>80</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>90</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>100</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>110</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>120</strong></div></td>
+              <th  scope="row"><div align="center" class="style27">10</div></th>
+              <td ><div align="center"><strong>10</strong></div></td>
+              <td ><div align="center"><strong>20</strong></div></td>
+              <td ><div align="center"><strong>30</strong></div></td>
+              <td ><div align="center"><strong>40</strong></div></td>
+              <td ><div align="center"><strong>50</strong></div></td>
+              <td ><div align="center"><strong>60</strong></div></td>
+              <td ><div align="center"><strong>70</strong></div></td>
+              <td ><div align="center"><strong>80</strong></div></td>
+              <td ><div align="center"><strong>90</strong></div></td>
+              <td ><div align="center"><strong>100</strong></div></td>
+              <td ><div align="center"><strong>110</strong></div></td>
+              <td ><div align="center"><strong>120</strong></div></td>
             </tr>
 			<tr>
-              <th bordercolor="#990033" bgcolor="#FFFFCC" scope="row"><div align="center" class="style27">11</div></th>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>11</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>22</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>33</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>44</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>55</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>66</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>77</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>88</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>99</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>110</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>121</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>132</strong></div></td>
+              <th scope="row"><div align="center" class="style27">11</div></th>
+              <td ><div align="center"><strong>11</strong></div></td>
+              <td ><div align="center"><strong>22</strong></div></td>
+              <td ><div align="center"><strong>33</strong></div></td>
+              <td ><div align="center"><strong>44</strong></div></td>
+              <td ><div align="center"><strong>55</strong></div></td>
+              <td ><div align="center"><strong>66</strong></div></td>
+              <td ><div align="center"><strong>77</strong></div></td>
+              <td ><div align="center"><strong>88</strong></div></td>
+              <td ><div align="center"><strong>99</strong></div></td>
+              <td ><div align="center"><strong>110</strong></div></td>
+              <td ><div align="center"><strong>121</strong></div></td>
+              <td ><div align="center"><strong>132</strong></div></td>
 			</tr>
 			<tr>
-              <th bordercolor="#990033" bgcolor="#FFFFCC" scope="row"><div align="center"><span class="style27">12</span></div></th>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>12</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>24</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>36</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>48</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>60</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>72</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>84</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>96</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>108</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>120</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>132</strong></div></td>
-              <td bordercolor="#990033" bgcolor="#FFFFCC"><div align="center"><strong>144</strong></div></td>
+              <th  scope="row"><div align="center"><span class="style27">12</span></div></th>
+              <td ><div align="center"><strong>12</strong></div></td>
+              <td ><div align="center"><strong>24</strong></div></td>
+              <td ><div align="center"><strong>36</strong></div></td>
+              <td ><div align="center"><strong>48</strong></div></td>
+              <td ><div align="center"><strong>60</strong></div></td>
+              <td ><div align="center"><strong>72</strong></div></td>
+              <td ><div align="center"><strong>84</strong></div></td>
+              <td ><div align="center"><strong>96</strong></div></td>
+              <td ><div align="center"><strong>108</strong></div></td>
+              <td ><div align="center"><strong>120</strong></div></td>
+              <td ><div align="center"><strong>132</strong></div></td>
+              <td ><div align="center"><strong>144</strong></div></td>
 			</tr>
           </table>
- 
- 
+
  
  
  

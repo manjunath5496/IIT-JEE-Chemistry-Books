@@ -1271,7 +1271,7 @@ N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2<
 For all x, e<sup>x</sup> = 1 &plus; (x/1&excl;) &plus; (x<sup>2</sup>/2&excl;) &plus; (x<sup>3</sup>/3&excl;) &plus; ..... &plus; (x<sup>n</sup>/n&excl;) &plus; ..... <br>
 e = 1 &plus; (1/1&excl;) &plus; (1/2&excl;) &plus; (1/3&excl;) &plus; ..... <br>
 2 &lt; e &lt; 3 <strong> where e = 2.718282 (correct to six decimal places)</strong> <br>
-a<sup>x</sup> = 1 &plus; (log<sub>e</sub> a) x &plus; [(log<sub>e</sub> a)<sup>2</sup>/2&excl;] ∙ x<sup>2</sup> &plus; [(log<sub>e</sub> a)<sup>3</sup>/3&excl;] ∙ x<sup>3</sup> &plus; ....... <br>
+a<sup>x</sup> = 1 &plus; (ln a) x &plus; [(ln a)<sup>2</sup>/2&excl;] ∙ x<sup>2</sup> &plus; [(ln a)<sup>3</sup>/3&excl;] ∙ x<sup>3</sup> &plus; ....... <br>
  
  </li>
 

@@ -1054,6 +1054,13 @@ N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2<
 (x &minus; h) <sup>2</sup>  &plus; (y &minus; k) <sup>2</sup> = r<sup>2</sup> with the center being at the point (h, k) and the radius being "r" </li>
 
 
+<li> <strong> Exponential Series: </strong> </br>
+(i) For all x, e<sup>x</sup> = 1 &plus; x/1&excl; &plus; x<sup>2</sup>/2&excl; &plus; x<sup>3</sup>/3&excl; &plus; ..... &plus; x<sup>n</sup>/r&excl; &plus; ..... &infin;<br>
+(ii) e = 1 &plus; 1/1&excl; &plus; 1/2&excl; &plus; 1/3&excl; &plus; ..... &#8734;.<br>
+(iii) 2 &lt; e &lt; 3; e = 2.718282 (correct to six decimal places). <br>
+(iv) a<sup>x</sup> = 1 &plus; (log<sub>e</sub> a) x &plus; [(log<sub>e</sub> a)<sup>2</sup>/2&excl;] ∙ x<sup>2</sup> &plus; [(log<sub>e</sub> a)<sup>3</sup>/3&excl;] ∙ x<sup>3</sup> &plus; ....... &infin;<br>
+ 
+ </li>
 
 
 

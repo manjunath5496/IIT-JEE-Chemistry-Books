@@ -1278,6 +1278,12 @@ e = 1 &plus; (1/1&excl;) &plus; (1/2&excl;) &plus; (1/3&excl;) &plus; ..... <br>
 a<sup>x</sup> = 1 &plus; (x ln a) &plus; [(x ln a)<sup>2</sup>/2&excl;] &plus; [(x ln a)<sup>3</sup>/3&excl;] &plus; ....... &plus; [(x ln a)<sup>n</sup>/n&excl;] &plus; ..... <br></li>
 
 <li> <strong>Logarithmic series </strong></br> 
+  ln(x) = x &minus; {1/x} + &frac12;(x &minus; {1/x})<sup>2</sup> + &frac13;(x&minus; {1/x})<sup>3</sup> +.. </br>
+   ln(1 &plus; x) = x &minus; x<sup>2</sup> &plus; {x<sup>3</sup>/3} &minus; {x<sup>4</sup>/4} +.. </br>
+
+
+
+
 <img src="logarithmic series1.gif" alt="logarithmic series" height="308" width="513"> </li>
 
 

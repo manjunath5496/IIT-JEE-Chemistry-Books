@@ -1750,20 +1750,5 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
 
 13. The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements  By Sam Kean </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (18).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-14. The Handy Math Answer Book  By Thomas E. Svarney </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m14.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-
-15. The Handy Science Answer Book  By Naomi E. Balaban </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m15.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-
-16. Problems In Physics  By D.C. Pandey </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m16.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-
-17. Objective Mathematics (Vol 1) By R.D. Sharma </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m17.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-
-18. Objective Mathematics (Vol 2) By R.D. Sharma </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m18.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-
-19.  Aptitude Test Problems in Physics  By  S.S. Krotov </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m19.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-
-
-
-
 
 

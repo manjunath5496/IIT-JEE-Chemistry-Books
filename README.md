@@ -1054,15 +1054,11 @@ N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2<
 (x &minus; h) <sup>2</sup>  &plus; (y &minus; k) <sup>2</sup> = r<sup>2</sup>, where r is the radius and center at (h, k) </li>
 
 <li> <strong> Exponential Series: </strong> </br>
- (i) For all x, e<sup>x</sup> = 1 + x/1&excl; + x<sup>2</sup>/2&excl; + x<sup>3</sup>/3&excl; + …………… + x<sup>r</sup>/r&excl; + ………….. (i) For all x, e<sup>x</sup> = 1 &plus; x/1&excl; &plus; x<sup>2</sup>/2&excl; &plus; x<sup>3</sup>/3&excl; &plus; …………… &plus; x<sup>r</sup>/r&excl; &plus; ………….. ∞.<br><br>
-(ii) e = 1 &plus; 1/1&excl; &plus; 1/2&excl; &plus; 1/3&excl; &plus; ………………….. &#8734;.<br><br>
-(iii) 2 &lt; e &lt; 3; e = 2.718282 (correct to six decimal places). <br><br>
-(iv) a<sup>x</sup> = 1 &plus; (log<sub>e</sub> a) x &plus; [(log<sub>e</sub> a)<sup>2</sup>/2&excl;] ∙ x<sup>2</sup> &plus; [(log<sub>e</sub> a)<sup>3</sup>/3&excl;] ∙ x<sup>3</sup> &plus; …………….. ∞.<br><br><br><br>
+(i) For all x, e<sup>x</sup> = 1 &plus; x/1&excl; &plus; x<sup>2</sup>/2&excl; &plus; x<sup>3</sup>/3&excl; &plus; …………… &plus; x<sup>r</sup>/r&excl; &plus; ………….. ∞.<br>
+(ii) e = 1 &plus; 1/1&excl; &plus; 1/2&excl; &plus; 1/3&excl; &plus; ………………….. &#8734;.<br>
+(iii) 2 &lt; e &lt; 3; e = 2.718282 (correct to six decimal places). <br>
+(iv) a<sup>x</sup> = 1 &plus; (log<sub>e</sub> a) x &plus; [(log<sub>e</sub> a)<sup>2</sup>/2&excl;] ∙ x<sup>2</sup> &plus; [(log<sub>e</sub> a)<sup>3</sup>/3&excl;] ∙ x<sup>3</sup> &plus; …………….. ∞.<br>
  
- ∞.<br><br>
-(ii) e = 1 + 1/1! + 1/2! + 1/3! + ………………….. ∞.<br><br>
-(iii) 2 < e < 3; e = 2.718282 (correct to six decimal places). <br><br>
-(iv) a<sup>x</sup> = 1 + (log<sub>e</sub> a) x + [(log<sub>e</sub> a)<sup>2</sup>/2!] ∙ x<sup>2</sup> + [(log<sub>e</sub> a)<sup>3</sup>/3!] ∙ x<sup>3</sup> + …………….. ∞.<br><br><br><br>
  
  
  

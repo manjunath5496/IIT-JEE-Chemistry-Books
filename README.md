@@ -1750,5 +1750,5 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
 
 13. The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements  By Sam Kean </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (18).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-![](images/table%201-1.png)
+![](logarithmic series1.gif)
 

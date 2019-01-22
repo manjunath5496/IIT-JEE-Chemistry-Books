@@ -1022,6 +1022,20 @@ Right (one 90<sup>o</sup> or right angle)</br>
 
 <li>Sum of the Angles (all triangles): </br>
 A + B + C = 180<sup>o</sup>
+ </li>
+<li>  Average = sum of terms / number of terms </li>
+
+<li> Average speed = total distance / total time </li>
+
+<li>Sum = average &times; (number of terms)   </li>
+
+<li>sum = average &times; (number of terms)   </li>
+
+
+<li>     
+ 
+ 
+ 
  
  
  
@@ -1031,10 +1045,6 @@ A + B + C = 180<sup>o</sup>
 
 
 
-
-
-
- 
 </ul>
 
 </br> 

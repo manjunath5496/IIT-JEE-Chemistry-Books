@@ -1070,7 +1070,7 @@ N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2<
  </li>
 
 
-
+<li>  <img src="logarithmic series.gif" alt="logarithmic series" height="507" width="527"> </li>
 
 
 

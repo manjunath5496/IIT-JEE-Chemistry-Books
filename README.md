@@ -1284,9 +1284,16 @@ ln (1/x) = (1 &minus; x) &plus; &frac12;(1 &minus; x)<sup>2</sup> &plus; &frac13
  ln (1&plus;x) = x &minus; &frac12;x<sup>2</sup> &plus; &frac13;x<sup>3</sup> &minus; .. </br>
   ln{(1 &plus; n) / (1 &minus; n)} = 2 (n &plus; {n<sup>3</sup>/3} &plus; {n<sup>5</sup>/5} &plus; .. &plus; {n<sup>(2n &minus; 1)</sup> / (2n &minus; 1)} &plus; ..) </br>
   ln (x &plus; 1) &minus; ln (x &minus; 1) = 2( {1/x} &plus; &frac13;x<sup>2</sup> &plus; 1/5{x<sup>5</sup>} &plus; ..)
-   </li>
+ 
+  </li>
+
+<li> <strong> Trigonometric Ratios Table </strong> </br>
+
+<img src="1.2.GIF" alt="Trigonometric Ratios Table" height="453" width="690"> </li>
 
 
+
+</li>
 
 
 

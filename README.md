@@ -1055,12 +1055,9 @@ N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2<
 
 </li>
 
-<ul>
- 
- </br>
- </br>
- 
- <strong> Multiplication Table </strong> 
+
+<li> 
+ <strong> Multiplication Table </strong> </br>
  
  
  
@@ -1264,12 +1261,12 @@ N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2<
 			</tr>
           </table>
 
+ </li>
  
+ <li>If x varies directly as y, we write x &prop; y or, x = <i>k</i>y where <i>k</i> is a constant of variation </li>
  
- 
- 
- 
- <ul>
+ <li>If x varies inversely as y, we write x &prop; 1/y or, x = <i>m</i> &times; (1/y) where <i>m</i> is a constant of variation </li>
+
 
 
 
@@ -1289,12 +1286,7 @@ N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2<
  
  </li>
 
-<li><strong>Variation:</strong> </br>
-(i) If x varies directly as y, we write x &prop; y or, x = <i>k</i>y where <i>k</i> is a constant of variation. <br/>
-(ii) If x varies inversely as y, we write x &prop; 1/y or, x = <i>m</i> &times; (1/y) where <i>m</i> is a constant of variation. <br/>
- 
 
- </li>
 
 
 <li>  <img src="logarithmic series.gif" alt="logarithmic series" height="507" width="527"> </li>

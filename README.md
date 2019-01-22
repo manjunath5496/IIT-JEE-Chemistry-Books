@@ -1017,8 +1017,22 @@ The number of degrees in a triangle is 180
   <li> sin(A &plus; B) sin(A &minus; B)=sin<sup>2</sup>A &minus; sin<sup>2</sup>B  </li>
   <li> cos(A &plus; B) cos(A &minus; B)=cos<sup>2</sup>A &minus; cos<sup>2</sup>B  </li>
  
- 
- 
+ <li> <strong> Types of Triangles: </strong> </br>
+Isosceles (two equal sides)</br>
+Equilateral (all sides equal)</br>
+Right (one 90<sup>o</sup> or right angle)</br>
+
+</li>
+
+
+
+
+
+
+
+
+
+
  
 </ul>
 

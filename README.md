@@ -1059,14 +1059,14 @@ N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2<
 (iii) 2 &lt; e &lt; 3; e = 2.718282 (correct to six decimal places). <br>
 (iv) a<sup>x</sup> = 1 &plus; (log<sub>e</sub> a) x &plus; [(log<sub>e</sub> a)<sup>2</sup>/2&excl;] ∙ x<sup>2</sup> &plus; [(log<sub>e</sub> a)<sup>3</sup>/3&excl;] ∙ x<sup>3</sup> &plus; …………….. ∞.<br>
  
- 
- 
- 
- 
  </li>
 
+<li><strong>Variation:</strong> </br>
+(i) If x varies directly as y, we write x &prop; y or, x = <i>k</i>y where <i>k</i> is a constant of variation. <br/>
+(ii) If x varies inversely as y, we write x &prop; 1/y or, x = <i>m</i> ∙ (1/y) where <i>m</i> is a constant of variation. <br/>
+(iii) If x &prop; y when <i>z</i> is constant and x &prop; z when<i> y</i> is constant then x &prop; <i>y</i>z when both <i>y</i> and <i>z</i> vary. 
 
-
+ </li>
 
 
 

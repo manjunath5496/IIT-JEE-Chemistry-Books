@@ -1722,17 +1722,17 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
 <p><strong> Popular Chemistry Books </strong></p>
 
 
-1.  Maths Wonder By Alfred S.Posamentier</br>
+1.  PiHKAL By Ann Shulgin</br>
               
-      <a href="https://github.com/manjunath5496/Formulas/blob/master/m1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+      <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (1).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-2.  Trignometry Demystified By Stan Gibilisco</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m2.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+2.  Atkins' Physical Chemistry Instructors Solutions Manual By Charles Trapp</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (2).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-3.  Career Numbers By Rebecca Burnett</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m3.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+3.  Carbon Chemistry By Krista West</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (5).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-4.  Measure Integration & Probability By Ivan F Wilde</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m4.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+4.  Chemistry: An Illustrated Guide to Science  By The Diagram Group</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (6).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-5.  Number Theory By David A. Santos</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m5.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+5.  Chemistry of Space By David E. Newton</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (7).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 6.  What Einstein Told His Cook: Kitchen Science Explained By Robert Wolke</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (9).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 

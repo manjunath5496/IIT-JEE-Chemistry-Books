@@ -1770,5 +1770,15 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
 
 13. The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements  By Sam Kean </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (18).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-![](logarithmic series1.gif)
+14. A Short History of Chemistry By Isaac Asimov </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (19).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+15. The 13th Element By John Emsley </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (20).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+
+
+
+
+
+
+
 

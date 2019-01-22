@@ -1033,6 +1033,8 @@ A + B + C = 180<sup>o</sup>
 
 <li>Mode = value in the list that appears most often   </li>
 
+<li> Range : subtract the lowest value from the highest value </li>
+
 <li> Median = middle value in the list  </br>
 median of {3, 9, 10, 27, 50} = 10 </br>
 median of {3, 9, 10, 27} = (9 &plus; 10)/2 = 9.5 </br>
@@ -1047,6 +1049,15 @@ N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2<
 <li> The length of one side of any triangle is always less than the sum and more than the difference of the lengths of the other two sides. </li>
 
 <li> Slope of the line that goes through points A (x<sub>1</sub>, y<sub>1</sub>) and B (x<sub>2</sub>, y<sub>2</sub>) = (y<sub>2</sub> &minus; y<sub>1</sub>) / (x<sub>2</sub> &minus; x<sub>1</sub>)</li>
+
+<li> <strong> Standard Equation of a circle </strong> </br>
+
+(x &minus; h) <sup>2</sup>  &plus; (y &minus; k) <sup>2</sup> = r<sup>2</sup>, where r is the radius and center at (h, k) </li>
+
+
+
+
+
 
 
 

@@ -418,6 +418,11 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 <li> Probability of an Event = (Number of ways it can happen / Total number of outcomes)   </li>
 
+<li>n </br> &Sigma; c = c &plus; c &plus; c &plus; ...... &plus;c (<em>n times</em>) = cn, where c is a constant</br> i = 1</li> 
+
+
+
+
 <li>  <img src="img4.gif" alt="summation rule1" height="55" width="429">  </li>
 <li>  <img src="img5.gif" alt="summation rule2" height="60" width="265"> </li>
 

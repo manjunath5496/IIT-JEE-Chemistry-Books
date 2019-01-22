@@ -1041,6 +1041,9 @@ median of {3, 9, 10, 27} = (9 &plus; 10)/2 = 9.5 </br>
 If an event can happen in N ways, and another, independent event can happen in M ways, then both events together can happen in
 N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2</sub> &times; N<sub>3</sub> . . . )</li>
 
+<li>  Part = (percent / 100) &times; whole</li>
+
+
 
 
 </ul>

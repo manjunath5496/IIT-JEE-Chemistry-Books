@@ -1085,6 +1085,16 @@ N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2<
 (ix) (1 &plus; x)<sup>&minus;2</sup> = 1 &minus; 2x &plus; 3x<sup>2</sup> &minus; 4x<sup>3</sup> &plus;  . . . . &#8734; . <br>
 </li>
 
+<li><strong>Logarithmic Series:</strong></br>
+(i) log<sub>e</sub> (1 &plus; x) = x &minus; x<sup>2</sup>/2 &plus; x<sup>3</sup>/3 &minus; ……………… &#8734; (&minus;1 &lt; x &le; 1). <br>
+(ii) log<sub>e</sub> (1 &minus; x) = &minus; x &minus; x<sup>2</sup>/ 2 &minus; x<sup>3</sup>/3 &minus; ………….. &#8734; (&minus; 1 &le; x &lt; 1). <br>
+(iii) &frac12; log<sub>e</sub> [(1 &plus; x)/(1 &minus; x)] = x &plus; x<sup>3</sup>/3 &plus; x<sup>5</sup>/5 &plus; ……………… &#8734; (&minus;1 &lt; x &lt; 1). <br>
+(iv) log<sub>e</sub> 2 = 1 &minus; 1/2 &plus; 1/3 &minus; 1/4 &plus; ………………… &#8734;. <br>
+(v) log<sub>10</sub> m = &mu; log<sub>e</sub> m where &mu; = 1/log<sub>e</sub> 10 = 0.4342945 and <i>m</i> is a positive number.<br>
+</li>
+
+
+
 </ul>
 
 </br> 

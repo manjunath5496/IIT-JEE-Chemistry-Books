@@ -1722,33 +1722,33 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
 <p><strong> Popular Chemistry Books </strong></p>
 
 
-1.  PiHKAL By Ann Shulgin</br>
+1.  Maths Wonder By Alfred S.Posamentier</br>
               
-      <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (1).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+      <a href="https://github.com/manjunath5496/Formulas/blob/master/m1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-2.  Atkins' Physical Chemistry Instructors Solutions Manual By Charles Trapp</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (2).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+2.  Trignometry Demystified By Stan Gibilisco</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m2.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-3.  Carbon Chemistry By  Krista West</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (5).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+3.  Career Numbers By Rebecca Burnett</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m3.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-4.   Chemistry: An Illustrated Guide to Science By  Derek Mcmonagle </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (6).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+4.  Measure Integration & Probability By Ivan F Wilde</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m4.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-5.  Chemistry of Space By David E. Newton</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (7).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+5.  Number Theory By David A. Santos</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m5.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-6.  Objective Mathematics By S.K Goyal</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m6.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+6.  What Einstein Told His Cook: Kitchen Science Explained By Robert Wolke</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (9).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-7.  Physical Chemistry Numerical Problems & Solutions for IIT - JEE By P. Bahadur</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m7.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+7.  Quantitative Chemical Analysis By Daniel C. Harris</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (11).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-8.  11 Years JEE Main Chapter-wise Solved Papers (2002-12)</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m8.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+8.  Mathematics for Physical Chemistry By Robert G. Mortimer </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (12).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-9.  41 Years (1978-2018) JEE Advanced (IIT-JEE) + 17 yrs JEE Main Topic-wise Solved Paper Mathematics By Mamta Batra </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+9.  Physical Chemistry By Robert G. Mortimer </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (13).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-10.  41 Years (1978-2018) JEE Advanced (IIT-JEE) + 17 yrs JEE Main Topic-wise Solved Paper Physics  By Er. Sunil Batra</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m10.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+10.  Napoleon's Buttons: 17 molecules that Changed History</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (14).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-11.  40 Years (1978-2017) JEE Advanced (IIT-JEE) + 16 yrs JEE Main Topic-wise Solved Paper Chemistry By O.P. Agarwal </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m11.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+11.  The Periodic Table By  Primo Levi</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (15).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-12.  IIT Guide For Mathematics  By  M. L. Khanna</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m12.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+12.  The Chemical History of a Candle By  Michael Faraday</br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (17).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-13. Mathematics Concept Book for IIT-JEE  By Er. L.K.Sharma </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m13.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+13. The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements  By Sam Kean </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/ch1 (18).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 14. The Handy Math Answer Book  By Thomas E. Svarney </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m14.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
@@ -1760,8 +1760,7 @@ R = k &times; N<sub>A</sub>  =  8.31447 J/(mol K)  </li>
 
 18. Objective Mathematics (Vol 2) By R.D. Sharma </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m18.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-
-
+19.  Aptitude Test Problems in Physics  By  S.S. Krotov </br> <a href="https://github.com/manjunath5496/Formulas/blob/master/m19.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 

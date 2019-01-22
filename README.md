@@ -1080,14 +1080,13 @@ N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2<
 <li> <strong>
  Binomial Theorem:</strong></br>
 (i) If n is a positive integer then<br>
-(a &plus; x)<sup>n</sup> = a<sup>n</sup> &plus; <sup>n</sup>C<sub>1</sub> a<sup>n &minus; 1</sup> x &plus; <sup>n</sup>C<sub>2</sub> a<sup>n &minus; 2</sup> x<sup>2</sup> &plus; …………….. &plus; <sup>n</sup>C<sub>r</sub> a<sup>n &minus; r</sup> x<sup>r</sup> &plus; ………….. &plus; x<sup>n</sup>                                         <br>
+(a &plus; x)<sup>n</sup> = a<sup>n</sup> &plus; <sup>n</sup>C<sub>1</sub> a<sup>n &minus; 1</sup> x &plus; <sup>n</sup>C<sub>2</sub> a<sup>n &minus; 2</sup> x<sup>2</sup> &plus; ........ &plus; <sup>n</sup>C<sub>r</sub> a<sup>n &minus; r</sup> x<sup>r</sup> &plus; ........ &plus; x<sup>n</sup>                                         <br>
 (ii) If n is not a positive integer then<br>
-(1 &plus; x)<sup>n</sup> = 1 &plus; nx &plus; [n(n &minus; 1)/2&excl;] x<sup>2</sup> &plus; [n(n &minus; 1)(n &minus; 2)/3&excl;] x<sup>3</sup> &plus; ………… &plus; [{n(n&minus;1)(n&minus;2)………..(n&minus;r&plus;1)}/r&excl;] x<sup>n</sup>&plus; ……………. &#8734; (&minus;1 &lt; x &lt; 1)                 <br>
-
-(iii) (1 &minus; x)<sup>&minus;1</sup> = 1 &plus; x &plus; x<sup>2</sup> &plus; x<sup>3</sup> &plus; ………………….&#8734;.<br>
-(iv) (1 &plus; x)<sup>&minus;1</sup> = 1 &minus; x &plus; x<sup>2</sup> &minus;  x<sup>3</sup> &plus; ……………&#8734;.<br>
-(v) (1 &minus; x)<sup>&minus;2</sup> = 1 &plus; 2x &plus; 3x<sup>2</sup> &plus; 4x<sup>3</sup> &plus;  . . . . &#8734; . <br>
-(vi) (1 &plus; x)<sup>&minus;2</sup> = 1 &minus; 2x &plus; 3x<sup>2</sup> &minus; 4x<sup>3</sup> &plus;  . . . . &#8734; . <br>
+(1 &plus; x)<sup>n</sup> = 1 &plus; nx &plus; [n(n &minus; 1)/2&excl;] x<sup>2</sup> &plus; [n(n &minus; 1)(n &minus; 2)/3&excl;] x<sup>3</sup> &plus; ........ &plus; [{n(n&minus;1)(n&minus;2)........(n&minus;r&plus;1)}/r&excl;] x<sup>n</sup>&plus; ........ &#8734; <strong> (&minus;1 &lt; x &lt; 1) </strong>                <br>
+(iii) (1 &minus; x)<sup>&minus;1</sup> = 1 &plus; x &plus; x<sup>2</sup> &plus; x<sup>3</sup> &plus; ........&#8734;<br>
+(iv) (1 &plus; x)<sup>&minus;1</sup> = 1 &minus; x &plus; x<sup>2</sup> &minus;  x<sup>3</sup> &plus; ........&#8734;<br>
+(v) (1 &minus; x)<sup>&minus;2</sup> = 1 &plus; 2x &plus; 3x<sup>2</sup> &plus; 4x<sup>3</sup> &plus;  . . . . &#8734; <br>
+(vi) (1 &plus; x)<sup>&minus;2</sup> = 1 &minus; 2x &plus; 3x<sup>2</sup> &minus; 4x<sup>3</sup> &plus;  . . . . &#8734; <br>
 </li>
 
 

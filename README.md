@@ -1280,7 +1280,8 @@ a<sup>x</sup> = 1 &plus; (x ln a) &plus; [(x ln a)<sup>2</sup>/2&excl;] &plus; [
 <li> <strong>Logarithmic series </strong></br> 
   ln(x) = x &minus; {1/x} + &frac12;(x &minus; {1/x})<sup>2</sup> + &frac13;(x&minus; {1/x})<sup>3</sup> +.. </br>
    ln(1 &plus; x) = x &minus; x<sup>2</sup> &plus; {x<sup>3</sup>/3} &minus; {x<sup>4</sup>/4} +.. </br>
-
+ln (1/x) = (1 &minus; x) &plus; &frac12;(1 &minus; x)<sup>2</sup> &plus; &frac13;(1 &minus; x)<sup>3</sup> &plus;..</br>
+ ln (1&plus;x) = x &minus; &frac12;x<sup>2</sup> &plus; &frac13;x<sup>3</sup> &minus; .. </br>
 
 
 

@@ -352,6 +352,7 @@ S<sub>n</sub> = a<sub>1</sub> n  <strong>when r &equals; 1</strong> </br>
    <li><strong>Imaginary unit: i </strong>= (square root of &minus;1)</li>
    
   <li><strong>Powers of the imaginary unit</strong></br>
+   i <sup>0</sup> = 1 </br>
   i <sup>1</sup> = i </br>
   i <sup>5</sup> = i </br>
   i <sup>4n &plus; 1</sup> = i </br>
@@ -1029,19 +1030,16 @@ A + B + C = 180<sup>o</sup>
 
 <li>Sum = average &times; (number of terms)   </li>
 
-<li>sum = average &times; (number of terms)   </li>
+<li>Mode = value in the list that appears most often   </li>
 
-
-<li>     
- 
- 
- 
- 
- 
- 
+<li> Median = middle value in the list  </br>
+median of {3, 9, 10, 27, 50} = 10 </br>
+median of {3, 9, 10, 27} = (9 &plus; 10)/2 = 9.5 </br>
  </li>
 
-
+<li><strong>Fundamental Counting Principle: </strong> </br>
+If an event can happen in N ways, and another, independent event can happen in M ways, then both events together can happen in
+N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2</sub> &times; N<sub>3</sub> . . . )</li>
 
 
 

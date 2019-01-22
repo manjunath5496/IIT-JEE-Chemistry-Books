@@ -892,15 +892,11 @@ b &plus; c &gt; a </br>
 
 </br>
 
-The number of degrees in a circle is 360
+The number of degrees in a circle is 360</br>
 
-The number of radians in a circle is 2&pi;
+The number of radians in a circle is 2&pi;</br>
 
-The number of degrees in a triangle is 180
-
-
-
-
+The number of degrees in a triangle is 180</br>
 
 </li>
 
@@ -1024,7 +1020,12 @@ Right (one 90<sup>o</sup> or right angle)</br>
 
 </li>
 
-
+<li>Sum of the Angles (all triangles): </br>
+A + B + C = 180<sup>o</sup>
+ 
+ 
+ 
+ </li>
 
 
 

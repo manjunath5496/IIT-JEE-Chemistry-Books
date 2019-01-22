@@ -1289,7 +1289,7 @@ ln (1/x) = (1 &minus; x) &plus; &frac12;(1 &minus; x)<sup>2</sup> &plus; &frac13
 
 <li> <strong> Trigonometric Ratios Table </strong> </br>
 
-<img src="1.2.GIF" alt="Trigonometric Ratios Table" height="453" width="690"> </li>
+<img src="1.2.GIF" alt="Trigonometric Ratios Table" height="226" width="345"> </li>
 
 
 

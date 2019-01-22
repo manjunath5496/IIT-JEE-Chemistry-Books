@@ -424,6 +424,8 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 <li> n </br> &Sigma; i<sup>2</sup> = 1<sup>2</sup> &plus; 2<sup>2</sup> &plus; 3<sup>2</sup> &plus; ...... &plus; n<sup>2</sup> = {n (n&plus;1) (2n&plus;1)} /6</br> i = 1 </li>
 
+<li> n </br> &Sigma; i<sup>3</sup> = 1<sup>3</sup> &plus; 2<sup>3</sup> &plus; 3<sup>3</sup> &plus; ...... &plus; n<sup>3</sup> = {n<sup>2</sup> (n&plus;1)<sup>2</sup>} /4</br> i = 1   </li>
+
 
 <li>  <img src="img4.gif" alt="summation rule1" height="55" width="429">  </li>
 <li>  <img src="img5.gif" alt="summation rule2" height="60" width="265"> </li>

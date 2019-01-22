@@ -1069,7 +1069,7 @@ N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2<
  </li>
 
 <li> <strong>
- Binomial Theorem:</strong>
+ Binomial Theorem:</strong></br>
 (i) Statement of Binomial Theorem : If n is a positive integer then<br>
 (a &plus; x)<sup>n</sup> = a<sup>n</sup> &plus; <sup>n</sup>C<sub>1</sub> a<sup>n &minus; 1</sup> x &plus; <sup>n</sup>C<sub>2</sub> a<sup>n &minus; 2</sup> x<sup>2</sup> &plus; …………….. &plus; <sup>n</sup>C<sub>r</sub> a<sup>n &minus; r</sup> x<sup>r</sup> &plus; ………….. &plus; x<sup>n</sup>                                           …….. (1) <br>
 (ii) If n is not a positive integer then<br>

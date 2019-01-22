@@ -1301,6 +1301,9 @@ ln (1/x) = (1 &minus; x) &plus; &frac12;(1 &minus; x)<sup>2</sup> &plus; &frac13
 
 <li> <strong>
  Binomial Theorem:</strong></br>
+(a &plus; b)<sup>n</sup> = a<sup>n</sup> &plus; (<sup>n</sup>C<sub>1</sub>)a<sup>n&minus;1</sup>b &plus; (<sup>n</sup>C<sub>2</sub>)a<sup>n&minus;2</sup>b<sup>2</sup> &plus; … &plus; (<sup>n</sup>C<sub>n&minus;1</sub>)ab<sup>n&minus;1</sup> &plus; b<sup>n</sup> , where n is a positive integer</br>
+
+
 
 <img src="1.PNG" alt="Binomial Theorem" height="298" width="616"> </li>
 

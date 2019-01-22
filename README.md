@@ -1285,7 +1285,7 @@ a<sup>x</sup> = 1 &plus; (x ln a) &plus; [(x ln a)<sup>2</sup>/2&excl;] &plus; [
 <li> <strong>
  Binomial Theorem:</strong></br>
 
-<img src="1.PNG" alt="Binomial Theorem" height="298" width="616"> </li>
+<img src="1.PNG" alt="Binomial Theorem" height="149" width="308"> </li>
 
 
 

@@ -420,6 +420,7 @@ F &plus; V = E &plus; 2	where F: numbers of faces, V: numbers of vertices and E:
 
 <li>n </br> &Sigma; c = c &plus; c &plus; c &plus; ...... &plus;c (<em>n times</em>) = cn, where c is a constant</br> i = 1</li> 
 
+<li>n </br> &Sigma; i = 1 &plus; 2 &plus; 3 &plus; ...... &plus; n = n(n&plus;1) /2</br> i = 1 </li>
 
 
 

@@ -1268,10 +1268,10 @@ N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2<
  <li>If x varies inversely as y, we write x &prop; 1/y or, x = <i>m</i> &times; (1/y) where <i>m</i> is a constant of variation </li>
 
 <li> <strong> Exponential Series: </strong> </br>
-For all x, e<sup>x</sup> = 1 &plus; (x/1&excl;) &plus; (x<sup>2</sup>/2&excl;) &plus; (x<sup>3</sup>/3&excl;) &plus; ..... &plus; (x<sup>n</sup>/r&excl;) &plus; ..... &infin;<br>
-e = 1 &plus; (1/1&excl;) &plus; (1/2&excl;) &plus; (1/3&excl;) &plus; ..... &#8734;<br>
+For all x, e<sup>x</sup> = 1 &plus; (x/1&excl;) &plus; (x<sup>2</sup>/2&excl;) &plus; (x<sup>3</sup>/3&excl;) &plus; ..... &plus; (x<sup>n</sup>/n&excl;) &plus; ..... <br>
+e = 1 &plus; (1/1&excl;) &plus; (1/2&excl;) &plus; (1/3&excl;) &plus; ..... <br>
 2 &lt; e &lt; 3 <strong> where e = 2.718282 (correct to six decimal places)</strong> <br>
-a<sup>x</sup> = 1 &plus; (log<sub>e</sub> a) x &plus; [(log<sub>e</sub> a)<sup>2</sup>/2&excl;] ∙ x<sup>2</sup> &plus; [(log<sub>e</sub> a)<sup>3</sup>/3&excl;] ∙ x<sup>3</sup> &plus; ....... &infin;<br>
+a<sup>x</sup> = 1 &plus; (log<sub>e</sub> a) x &plus; [(log<sub>e</sub> a)<sup>2</sup>/2&excl;] ∙ x<sup>2</sup> &plus; [(log<sub>e</sub> a)<sup>3</sup>/3&excl;] ∙ x<sup>3</sup> &plus; ....... <br>
  
  </li>
 

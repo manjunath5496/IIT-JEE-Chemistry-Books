@@ -1060,13 +1060,13 @@ N &times; M ways. (Extend this for three or more: N<sub>1</sub> &times; N<sub>2<
  </br>
  </br>
  
- 
+ <strong> Multiplication Table </strong> 
  
  
  
  <table>
             <tr>
-             <th  scope="col"><div align="center" class="style37">*</div></th>
+             <th  scope="col"><div align="center" class="style37">&times;</div></th>
              <th  scope="col"><div align="center" class="style27">1</div></th>
              <th  scope="col"><div align="center" class="style27">2</div></th>
              <th  scope="col"><div align="center" class="style27">3</div></th>

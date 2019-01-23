@@ -1,5 +1,5 @@
 
-<p><strong> Best Books for JEE Main & Advanced </strong></p>
+<p><strong>The Best Books for JEE Main & Advanced </strong></p>
 
 
 1.  Maths Wonder By Alfred S.Posamentier</br>
@@ -185,7 +185,7 @@
 
 
 </br> 
-<p><strong> Popular Chemistry Books </strong></p>
+<p><strong> The Best Books on Chemistry </strong></p>
 
 
 1.  PiHKAL By Ann Shulgin</br>

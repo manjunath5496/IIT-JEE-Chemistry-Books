@@ -230,6 +230,23 @@
 
 20. Chemistry: The Central Science By Theodore L. Brown </br> <a href="https://drive.google.com/file/d/16XkxtjCSk35Hh6WjhCmheee6oq1fDly2/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+21. Advanced Organic Chemistry By Richard J. Sundberg </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/ch(33).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+22. The Poisoner's Handbook By Deborah Blum </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/ch(32).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+23. Culinary Reactions: The Everyday Chemistry of Cooking By Simon Quellen Field </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/ch(31).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+24. A Short History of Nearly Everything By Bill Bryson </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/ch(29).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+25. Chemistry: A Molecular Approach By Nivaldo J. Tro </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/ch(29).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+
+
+
+
+
+
+
 
 
 

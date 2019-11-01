@@ -78,25 +78,25 @@
 
 37. Resonance Formula Booklet 2 </br> <a href="https://drive.google.com/file/d/1hCEaAfk9DPfuLbzWXxscTryhqFNeV1x6/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-38. DC Pandey Solutions</br> <a href="https://drive.google.com/file/d/1qCWeV09Bh81snWmg8dprXrAtEHdCPMU6/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+38. DC Pandey Solutions</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m38.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-39. FIITJEE Chemistry Study Material</br> <a href="https://drive.google.com/file/d/1WY8zZF7EkRdzXUvIhV29C_1QB0DZT6-d/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+39. FIITJEE Chemistry Study Material</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m39.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 40. JEE Advanced Weightage Sheet &plus;  Practise Test Paper</br> <a href="https://drive.google.com/file/d/1R5XGwD4jiKaoKUarcBIDl-_GPF-OGuyy/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 41. JEE Main Weightage Sheet &plus;  Practise Test Paper</br> <a href="https://drive.google.com/file/d/1FHnMB5NMFU1Z2S1rabjbLsqnf5yLwEjm/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-42. Calculus By G. Tewani </br> <a href="https://drive.google.com/file/d/1mSa3oQKoEADqt0lSyr_e6XMS6BHNYhQf/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+42. Calculus By G. Tewani </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m42.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-43. Waves and Thermodynamics By B.M. Sharma </br> <a href="https://drive.google.com/file/d/1c4faKBS_9qvoR4FtKUsfPCG2RTBeDi2r/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+43. Waves and Thermodynamics By B.M. Sharma </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m43.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-44. Electrostatics and Current Electricity By B.M. Sharma </br> <a href="https://drive.google.com/file/d/12Cg2SMCINKRA1Co9YhgTTWR4oJ2YguV3/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+44. Electrostatics and Current Electricity By B.M. Sharma </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m44.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-45. Mechanics I By B.M. Sharma </br> <a href="https://drive.google.com/file/d/1iY-spImkBScd7h0VKac4NHuUljSE3I-W/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+45. Mechanics I By B.M. Sharma </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m45.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-46. Mechanics II By B.M. Sharma </br> <a href="https://drive.google.com/file/d/1jrUnEdU8ClkNsO-uEcr7_U0kSVE5wm6U/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+46. Mechanics II By B.M. Sharma </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m46.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-47. Organic Chemistry Solutions Manual  By L. G. Wade</br> <a href="https://drive.google.com/file/d/1G9cJzwrN9eCVmm9TJ3N8ZsxcuaOFlCFY/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+47. Organic Chemistry Solutions Manual  By L. G. Wade</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m47.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 48. Higher Algebra  </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m48.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
@@ -104,9 +104,9 @@
 
 50. Maths Class XII</br> <a href="https://drive.google.com/file/d/1xLLQ1ogCA73sJsddsxt5yicrNjrx0fZb/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-51. Algebra By G. Tewani </br> <a href="https://drive.google.com/file/d/1zg-3GjgLSSRSfkn2y95AI8HK5jmmeP_v/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+51. Algebra By G. Tewani </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m51.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-52. Concise Inorganic Chemistry By J.D. Lee </br> <a href="https://drive.google.com/file/d/1DsOVcOyKoWZN9Wv5nyZ_Q0xhtGu_ED0I/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+52. Concise Inorganic Chemistry By J.D. Lee </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m52.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 53. HC Verma solutions For Concepts of Physics  </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m53.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
@@ -114,11 +114,11 @@
 
 55. GRB Physical Chemistry </br> <a href="https://drive.google.com/file/d/1U57jnMzEZi1XDgNhAFS5VD1A4kbaTLEX/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-56. CRC Handbook of Chemistry and Physics By David R. Lide </br> <a href="https://drive.google.com/file/d/1rsVQYYxm_l41dhzj7n4niP5zXOtiW8CV/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+56. CRC Handbook of Chemistry and Physics By David R. Lide </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m56.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-57. Modern Physics By Paul Tipler  </br> <a href="https://drive.google.com/file/d/1gSAW_6Ylkp1j07riHR0vBC4O2vPehNp2/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+57. Modern Physics By Paul Tipler  </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m57.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-58. University Physics with Modern Physics By Hugh D. Young </br> <a href="https://drive.google.com/file/d/1j_ljz8Ez7fdscMFlVwIPojoAFagKSQf1/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+58. University Physics with Modern Physics By Hugh D. Young </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m58.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 59. Physics Final Cheat Sheet with Problems  </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m59.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 

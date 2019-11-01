@@ -136,9 +136,9 @@
 
 66.  ALLEN Handbook Of Mathematics </br> <a href="https://drive.google.com/file/d/1Eh4yy-hy_D8rhb-DhkFouHc1EXmH6e23/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-67. Fundamental Laws Of Mechanics By IE Irodov </br> <a href="https://drive.google.com/file/d/1qcTSekIY-DtRpb5k0T-aD4Si0IN_n1IE/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+67. Fundamental Laws Of Mechanics By IE Irodov </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m67.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-68. Basic Laws Of Electromagnetism By IE Irodov </br> <a href="https://drive.google.com/file/d/1IDC9DpMl7BVzRRivQ74AHat3QYkdqv-O/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+68. Basic Laws Of Electromagnetism By IE Irodov </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m68.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 69. Problems In Mathematical Analysis By GN Berman </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m69.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
@@ -164,13 +164,13 @@
 
 80. ALLEN Mathematics Study Materials </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m80.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-81. ALLEN Chemistry NEET Version Modules </br> <a href="https://drive.google.com/file/d/1tSV4KAtk3mFkpgweEYoNHHn4_AakKxVJ/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+81. ALLEN Chemistry NEET Version Modules </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m81.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 82. ALLEN Physics Study Materials </br> <a href="https://drive.google.com/file/d/1i5mB1pPduUilsAJ3Ot-kP9aQn00KkZXN/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-83. Akash Physics World Question Bank </br> <a href="https://drive.google.com/file/d/10KoqrUE3pH5pTbSWrhO5i8-TT3C_g1cZ/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+83. Akash Physics World Question Bank </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m83.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-84. Concept Of Modern Physics By Arthur Beiser</br> <a href="https://drive.google.com/file/d/1WkELVL_dAvMovOvsZMtN4hV8L6fqygug/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+84. Concept Of Modern Physics By Arthur Beiser</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m84.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 85. S. Chand's Numerical Chemistry For Competitions By Sharma K.D </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m85.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 

@@ -224,11 +224,11 @@
 
 17. The Joy of Chemistry: The Amazing Science of Familiar Things By Cathy Cobb </br> <a href="https://drive.google.com/file/d/1Ron4u6gOyLdUtju4L7eVuKX_4dCWWBus/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-18. The Practice of Medicinal Chemistry By Camille G. Wermuth </br> <a href="https://drive.google.com/file/d/1x_GfrHMhaku4OoD7J7lJdJy4ts5hqSA2/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+18. The Practice of Medicinal Chemistry By Camille G. Wermuth </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/ch1 (23).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-19. Elements Of Physical Chemistry By Peter Atkins </br> <a href="https://drive.google.com/file/d/1SOcWWLmANJGUBgT1oX4HWrw-45MVHOs3/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+19. Elements Of Physical Chemistry By Peter Atkins </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/ch1 (24).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-20. Chemistry: The Central Science By Theodore L. Brown </br> <a href="https://drive.google.com/file/d/16XkxtjCSk35Hh6WjhCmheee6oq1fDly2/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+20. Chemistry: The Central Science By Theodore L. Brown </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/ch1 (25).rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 21. Advanced Organic Chemistry By Richard J. Sundberg </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/ch(33).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 

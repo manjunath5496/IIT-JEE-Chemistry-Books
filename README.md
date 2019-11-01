@@ -100,9 +100,9 @@
 
 48. Higher Algebra  </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m48.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-49. Maths Class XI </br> <a href="https://drive.google.com/file/d/1viKmUiDzLA6Jt6ySV2Ehg7OnXnOqQSPE/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+49. Maths Class XI </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m49.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-50. Maths Class XII</br> <a href="https://drive.google.com/file/d/1xLLQ1ogCA73sJsddsxt5yicrNjrx0fZb/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+50. Maths Class XII</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m50.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 51. Algebra By G. Tewani </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m51.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 

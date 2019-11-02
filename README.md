@@ -166,7 +166,7 @@
 
 81. ALLEN Chemistry NEET Version Modules </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m81.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-82. ALLEN Physics Study Materials </br> <a href="https://drive.google.com/file/d/1i5mB1pPduUilsAJ3Ot-kP9aQn00KkZXN/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+82. ALLEN Physics Study Materials </br> <a href="https://github.com/manjunath5496/ALLEN-Physics-Study-Materials" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 83. Akash Physics World Question Bank </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m83.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 

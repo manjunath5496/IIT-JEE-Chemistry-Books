@@ -60,7 +60,7 @@
 
 28. VMC Mathematics Modules </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m28.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-29. Formula Booklets by R.k Malik </br> <a href="https://drive.google.com/file/d/15tzmUgjQnXTJq1zC7Wy1FUTjQfjc20dx/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+29. Formula Booklets by R.K Malik </br> <a href="https://github.com/manjunath5496/Formula-Booklets-by-R.k-Malik" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 30. ALLEN Test Series</br> <a href="https://drive.google.com/file/d/1ziRHBccaFKJZzZF_hX6J9_WbYm3bizvK/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 

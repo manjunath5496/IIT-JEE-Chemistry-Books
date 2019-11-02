@@ -220,7 +220,7 @@
 
 15. The 13th Element By John Emsley </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/ch1 (20).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-16. University Chemistry By Brian B. Laird </br> <a href="https://drive.google.com/file/d/1J2jFTx6aEAHJXtARkhjldk8a8iUPhgTw/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+16. University Chemistry By Brian B. Laird </br> <a href="https://github.com/manjunath5496/University-Chemistry-Book" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 17. The Joy of Chemistry: The Amazing Science of Familiar Things By Cathy Cobb </br> <a href="https://drive.google.com/file/d/1Ron4u6gOyLdUtju4L7eVuKX_4dCWWBus/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 

@@ -238,7 +238,7 @@
 
 24. A Short History of Nearly Everything By Bill Bryson </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/ch(29).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-25. Chemistry: A Molecular Approach By Nivaldo J. Tro </br> <a href="https://drive.google.com/file/d/18ZxiX4mz8wjgIwqt8zj3G8nqQul9l64f/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+25. Chemistry: A Molecular Approach By Nivaldo J. Tro </br> <a href="https://github.com/manjunath5496/Chemistry-A-Molecular-Approach" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 

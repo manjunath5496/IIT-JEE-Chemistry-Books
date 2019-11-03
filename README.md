@@ -64,7 +64,7 @@
 
 30. ALLEN Test Series</br> <a href="https://github.com/manjunath5496/ALLEN-Test-Series" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-31. Bansal Chemistry Study Materials </br> <a href="https://drive.google.com/file/d/1TXOCJYfRLSFgRKGhQvVcX26Leu60H6Hr/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+31. Bansal Chemistry Study Materials </br> <a href="https://github.com/manjunath5496/Bansal-Chemistry-Study-Materials" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 32. Bansal Physics Study Materials </br> <a href="https://github.com/manjunath5496/Bansal-Physics-Study-Materials" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 

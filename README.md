@@ -76,7 +76,7 @@
 
 36. Resonance Formula Booklet 1 </br> <a href="https://github.com/manjunath5496/Resonance-Formula-Booklet-1" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-37. Resonance Formula Booklet 2 </br> <a href="https://drive.google.com/file/d/1hCEaAfk9DPfuLbzWXxscTryhqFNeV1x6/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+37. Resonance Formula Booklet 2 </br> <a href="https://github.com/manjunath5496/Resonance-Formula-Booklet-2" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 38. DC Pandey Solutions</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m38.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 

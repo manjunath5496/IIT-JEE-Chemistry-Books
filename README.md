@@ -134,7 +134,7 @@
 
 65. Differential Calculus For Beginners By Joseph Edwards </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m65.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-66.  ALLEN Handbook Of Mathematics </br> <a href="https://drive.google.com/file/d/1Eh4yy-hy_D8rhb-DhkFouHc1EXmH6e23/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+66.  ALLEN Handbook Of Mathematics </br> <a href="https://github.com/manjunath5496/ALLEN-Handbook-Of-Mathematics" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 67. Fundamental Laws Of Mechanics By IE Irodov </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m67.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 

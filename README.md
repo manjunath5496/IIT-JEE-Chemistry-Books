@@ -112,7 +112,7 @@
 
 54. Cordinate Geometry By G. Tewani </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m54.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-55. GRB Physical Chemistry </br> <a href="https://drive.google.com/file/d/1U57jnMzEZi1XDgNhAFS5VD1A4kbaTLEX/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+55. GRB Physical Chemistry </br> <a href="https://github.com/manjunath5496/GRB-Physical-Chemistry-Book" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 56. CRC Handbook of Chemistry and Physics By David R. Lide </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m56.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 

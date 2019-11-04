@@ -158,7 +158,7 @@
 
 77. Resonance Critical Question Bank</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m77.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-78. Motion Final Revision Modules For JEE</br> <a href="https://drive.google.com/file/d/1Sra0uxK6WguXzkOxfHd11n5NqAeeuQXU/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+78. Motion Final Revision Modules For JEE</br> <a href="https://github.com/manjunath5496/Motion-Final-Revision-Modules-For-JEE" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 79. 1300 Math IIT-JEE-Chemistry-Books By Alex Svirin </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m79.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 

@@ -68,7 +68,7 @@
 
 32. Bansal Physics Study Materials </br> <a href="https://github.com/manjunath5496/Bansal-Physics-Study-Materials" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-33. Bansal Mathematics Study Materials </br> <a href="https://drive.google.com/file/d/1ifdSIObZqbIZWaWQ02CzEA3Ic_desFWX/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+33. Bansal Mathematics Study Materials </br> <a href="https://github.com/manjunath5496/Bansal-Mathematics-Study-Materials" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 34. Resonance Chemistry Study Materials </br> <a href="https://drive.google.com/file/d/19kp49EEks1ZLTybO8PvGtUzQWeoQM8yp/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 

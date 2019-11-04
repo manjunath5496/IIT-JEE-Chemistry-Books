@@ -148,7 +148,7 @@
 
 72. 30 Years NEET AIPMT Chapterwise Paper and Solution Biology </br> <a href="https://github.com/manjunath5496/30-Years-NEET-AIPMT-Chapterwise-Paper-and-Solution-Biology" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-73. 30 Years NEET AIPMT Chapterwise Paper and Solution Physics </br> <a href="https://drive.google.com/file/d/1huzA5m3cxJO4LI3FTyeQQt68D4LGMxFR/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+73. 30 Years NEET AIPMT Chapterwise Paper and Solution Physics </br> <a href="https://github.com/manjunath5496/30-Years-NEET-AIPMT-Chapterwise-Paper-and-Solution-Physics" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 74. 30 Years NEET AIPMT Chapterwise Paper and Solution Chemistry </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m74.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 

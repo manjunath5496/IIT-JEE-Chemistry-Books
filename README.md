@@ -82,7 +82,7 @@
 
 39. FIITJEE Chemistry Study Material</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m39.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-40. JEE Advanced Weightage Sheet &plus;  Practise Test Paper</br> <a href="https://drive.google.com/file/d/1R5XGwD4jiKaoKUarcBIDl-_GPF-OGuyy/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+40. JEE Advanced Weightage Sheet &plus;  Practise Test Paper</br> <a href="https://github.com/manjunath5496/JEE-Advanced-Weightage-Sheet-Practise-Test-Paper" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 41. JEE Main Weightage Sheet &plus;  Practise Test Paper</br> <a href="https://drive.google.com/file/d/1FHnMB5NMFU1Z2S1rabjbLsqnf5yLwEjm/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 

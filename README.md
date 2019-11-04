@@ -128,7 +128,7 @@
 
 62. Solutions To Ie Irodov's Problems In General Physics By Abhay Kumar Singh Volume-2 </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m62.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-63. Resonance Mathematics Study Materials  </br> <a href="https://drive.google.com/file/d/1fI9aTAQJMGw8bsanzq0ZO9cvUi_SvJ3r/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+63. Resonance Mathematics Study Materials  </br> <a href="https://github.com/manjunath5496/Resonance-Mathematics-Study-Materials" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 64. The Elements Of Statics And Dynamics By SL Loney-Part I And II </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/m64.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
